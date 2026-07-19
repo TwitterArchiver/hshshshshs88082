@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 2 * * 0'
   workflow_dispatch:
+    inputs:
+      from_setup:
+        description: '是否由首次建档链式触发（true 时跑完会触发全量重试）'
+        required: false
+        default: 'false'
 
 jobs:
   update-html-image:
