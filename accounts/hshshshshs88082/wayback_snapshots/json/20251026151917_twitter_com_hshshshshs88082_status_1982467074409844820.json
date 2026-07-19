@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982467071469359107"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1982467074409844820",
+    "created_at": "2025-10-26T15:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982467074409844820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/90t1n3nEJO",
+          "end": 34,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1982467074409844820/photo/1",
+          "media_key": "3_1982467071469359107",
+          "start": 11,
+          "url": "https://t.co/90t1n3nEJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982467074409844820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人坏  人不帮熊打字 https://t.co/90t1n3nEJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1069,
+        "media_key": "3_1982467071469359107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MjTEXXEAMuSIX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982467071469359107"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1982467074409844820",
+        "created_at": "2025-10-26T15:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982467074409844820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90t1n3nEJO",
+              "end": 34,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1982467074409844820/photo/1",
+              "media_key": "3_1982467071469359107",
+              "start": 11,
+              "url": "https://t.co/90t1n3nEJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982467074409844820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人坏  人不帮熊打字 https://t.co/90t1n3nEJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 83,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 508
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

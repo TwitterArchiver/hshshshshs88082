@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1945736907062939884",
+    "created_at": "2025-07-17T06:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945736907062939884"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945736907062939884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像错过了什么很大的瓜🙉🙉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1945736907062939884",
+        "created_at": "2025-07-17T06:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945736907062939884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945736907062939884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像错过了什么很大的瓜🙉🙉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 84,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 282
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1883535711397408904",
+    "created_at": "2025-01-27T04:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T05:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883730681605615978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883730681605615978",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883535711397408904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc 老师你还是删了吧  我朋友有点破防了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1883535711397408904",
+        "created_at": "2025-01-27T04:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883730681605615978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883730681605615978",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883535711397408904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 老师你还是删了吧  我朋友有点破防了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1883535711397408904",
+        "created_at": "2025-01-26T15:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T16:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883535711397408904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883535711397408904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 27791,
+          "like_count": 321,
+          "quote_count": 14,
+          "reply_count": 33,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "你可以忍住很久不找他 \n却没办法在他找你的时候忍住不回"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "分享(发疯)日常 、有几只小仓鼠",
+        "id": "1776553425934909440",
+        "name": "抽象姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882442320240676865/CPJ-rS0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 42,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真至少要见面上万次｜ 放个创可贴 ᕳᕲ 创飞随意拿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 42,
+          "like_count": 4640,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

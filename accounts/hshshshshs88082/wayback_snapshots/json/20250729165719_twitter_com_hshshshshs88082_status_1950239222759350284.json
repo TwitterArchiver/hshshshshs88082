@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1950239222759350284",
+    "created_at": "2025-07-29T16:57:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T17:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950239222759350284"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950239222759350284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手上的伤口在深夜又开始隐隐作痛，像一棵仍在生长的枯木，张牙舞爪的爬满我的手臂。虽然是一个还在生长的树，可我感觉不到一点生命力，只闻到了土壤中阴暗潮湿、腐败的味道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1950239222759350284",
+        "created_at": "2025-07-29T16:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950239222759350284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950239222759350284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手上的伤口在深夜又开始隐隐作痛，像一棵仍在生长的枯木，张牙舞爪的爬满我的手臂。虽然是一个还在生长的树，可我感觉不到一点生命力，只闻到了土壤中阴暗潮湿、腐败的味道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 316
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1933417398364950984",
+    "created_at": "2025-06-13T07:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T08:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933423089582514274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675724518076329984",
+          "start": 0,
+          "username": "lowsugarplants"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933423089582514274",
+    "in_reply_to_user_id": "1675724518076329984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933417398364950984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lowsugarplants 我真想看🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1933417398364950984",
+        "created_at": "2025-06-13T07:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T08:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933423089582514274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675724518076329984",
+              "start": 0,
+              "username": "lowsugarplants"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933423089582514274",
+        "in_reply_to_user_id": "1675724518076329984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933417398364950984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lowsugarplants 我真想看🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675724518076329984",
+        "conversation_id": "1933417398364950984",
+        "created_at": "2025-06-13T06:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T07:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933417398364950984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "低糖健康植物饮料’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1rmxP…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1rmxPyQoopgKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1933417399929417728/Hpm29O5U?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933417399929417728/Hpm29O5U?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 低糖健康植物饮料’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1rmxPyQoopgKN/peek",
+              "url": "https://t.co/VZkjNWrLFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933417398364950984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VZkjNWrLFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 79,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 188
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T04:34:01.000Z",
+        "description": "一只狗 我是西兰花 绝赞鹦鹉激赞中 恐尖牙勿入 @broccoliandlove 我是宝宝罪人 求佛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "broccoliandlove"
+              }
+            ]
+          }
+        },
+        "id": "1675724518076329984",
+        "location": "小鸟飞咯",
+        "name": "低糖健康植物饮料",
+        "pinned_tweet_id": "1760569655650111642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721201972118949888/K2nUEzH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 492,
+          "like_count": 26674,
+          "listed_count": 7,
+          "media_count": 242,
+          "tweet_count": 7107
+        },
+        "username": "lowsugarplants",
+        "verified": false
+      }
+    ]
+  }
+}

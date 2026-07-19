@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2061321449508643320",
+    "created_at": "2026-06-01T14:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061454933736706186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        },
+        {
+          "end": 25,
+          "id": "2057729979677548544",
+          "start": 16,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061454933736706186",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061321449508643320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite @Numiouoo 十七和糯米的推文像被捆绑了一样，总是同时上下的出现！这种纯粹的关系最美好了，你们一定要一直一直当最好的伙伴呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2061321449508643320",
+        "created_at": "2026-06-01T14:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061454933736706186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            },
+            {
+              "end": 25,
+              "id": "2057729979677548544",
+              "start": 16,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061454933736706186",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061321449508643320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite @Numiouoo 十七和糯米的推文像被捆绑了一样，总是同时上下的出现！这种纯粹的关系最美好了，你们一定要一直一直当最好的伙伴呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2061321449508643320",
+        "created_at": "2026-06-01T05:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061321449508643320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2057729979677548544",
+              "start": 9,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061321449508643320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2585,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里澄清一下！我和@Numiouoo并没有处对象哦！我们都是单身主义、不婚主义、不育主义…我们没有任何谈恋爱的计划与动机，我们彼此的爱是自由而无条件的。\n\n我们不会产生其他关系，我们只是相互爱彼此、相互喜欢彼此、相互欣赏彼此，爱基于共鸣与共振。\n\n十七与糯米共同编辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060769752088457216/_Wn6uvfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 96,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 782
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回吱声)/备用号:@jiuyouforwhite2/偏爱:@Numiouoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 1498,
+          "like_count": 5109,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 2482
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护互关们🩵双胞胎已🧊@Numiouo\n偏爱：@jiuyouforwhite\n我素疯狗神经病🩵餐券磕歌同类查成分回fo🩵漏fo戳我🩵我素non-binary喵 友跨友全部 爱与和平🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Numiouo"
+              },
+              {
+                "end": 40,
+                "start": 25,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057730577764413441/YrmWh9zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 565,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 758
+        },
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

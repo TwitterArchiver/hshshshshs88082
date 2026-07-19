@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949397566543843328"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1949397568632606800",
+    "created_at": "2025-07-27T09:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949397568632606800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NBL2f5ZFSL",
+          "end": 37,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1949397568632606800/photo/1",
+          "media_key": "3_1949397566543843328",
+          "start": 14,
+          "url": "https://t.co/NBL2f5ZFSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949397568632606800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人。好好活着    熊爱你 https://t.co/NBL2f5ZFSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 976,
+        "media_key": "3_1949397566543843328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2mwifbUAABpnq.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949397566543843328"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1949397568632606800",
+        "created_at": "2025-07-27T09:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949397568632606800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBL2f5ZFSL",
+              "end": 37,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1949397568632606800/photo/1",
+              "media_key": "3_1949397566543843328",
+              "start": 14,
+              "url": "https://t.co/NBL2f5ZFSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949397568632606800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人。好好活着    熊爱你 https://t.co/NBL2f5ZFSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 83,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 303
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

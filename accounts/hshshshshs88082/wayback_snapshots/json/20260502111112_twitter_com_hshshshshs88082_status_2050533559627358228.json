@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2050533559627358228",
+    "created_at": "2026-05-02T11:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050533559627358228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851962067236065281",
+          "start": 3,
+          "username": "dzzzzz467732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050533559627358228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049821403592131026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dzzzzz467732: 不再依赖割手磕药解决问题算长大吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2050533559627358228",
+        "created_at": "2026-05-02T11:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050533559627358228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851962067236065281",
+              "start": 3,
+              "username": "dzzzzz467732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050533559627358228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049821403592131026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dzzzzz467732: 不再依赖割手磕药解决问题算长大吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851962067236065281",
+        "conversation_id": "2049821403592131026",
+        "created_at": "2026-04-30T12:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049821403592131026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049821403592131026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8802,
+          "like_count": 234,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "不再依赖割手磕药解决问题算长大吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 64,
+          "like_count": 152,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 747
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T12:19:07.000Z",
+        "description": "s",
+        "id": "1851962067236065281",
+        "name": "炸玉ちゃん，梦想笑了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 220,
+          "like_count": 1774,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 789
+        },
+        "username": "dzzzzz467732",
+        "verified": false
+      }
+    ]
+  }
+}

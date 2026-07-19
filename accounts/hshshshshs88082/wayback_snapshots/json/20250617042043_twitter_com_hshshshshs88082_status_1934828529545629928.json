@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1934790286741524764",
+    "created_at": "2025-06-17T04:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T05:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934828529545629928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934828529545629928",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934790286741524764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiia 拍的也好漂亮 什么口味的呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934790239433773056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtnBeMhX0AAuZom.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934790239450439680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtnBeMlWIAAcxJM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1934790286741524764",
+        "created_at": "2025-06-17T04:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934828529545629928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934828529545629928",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934790286741524764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiia 拍的也好漂亮 什么口味的呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934790239433773056",
+            "3_1934790239450439680"
+          ]
+        },
+        "author_id": "1870067454765838336",
+        "conversation_id": "1934790286741524764",
+        "created_at": "2025-06-17T01:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T02:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934790286741524764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jeMniEt9oB",
+              "end": 31,
+              "expanded_url": "https://x.com/chessiia/status/1934790286741524764/photo/1",
+              "media_key": "3_1934790239433773056",
+              "start": 8,
+              "url": "https://t.co/jeMniEt9oB"
+            },
+            {
+              "display_url": "pic.x.com/jeMniEt9oB",
+              "end": 31,
+              "expanded_url": "https://x.com/chessiia/status/1934790286741524764/photo/1",
+              "media_key": "3_1934790239450439680",
+              "start": 8,
+              "url": "https://t.co/jeMniEt9oB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934790286741524764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很漂亮的饮品… https://t.co/jeMniEt9oB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 81,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 244
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "脾气很坏/0社交能力求求你们别孤立我/xp混乱/不安。。/互fo宝宝加我v 爱泥萌 @航站楼站楼 我老公",
+        "id": "1870067454765838336",
+        "location": "🚪88（纯绿",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1931207454756372979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 176,
+          "like_count": 690,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 206
+        },
+        "username": "chessiia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2044063913244029261",
+    "created_at": "2026-04-14T15:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044068395222741108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1706309814454784000",
+          "start": 0,
+          "username": "BlueberryLM27"
+        },
+        {
+          "end": 30,
+          "id": "1757634899002216448",
+          "start": 15,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044068395222741108",
+    "in_reply_to_user_id": "1706309814454784000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044067896633049199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlueberryLM27 @haohaochifantt 我不行了 判给我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2044063913244029261",
+        "created_at": "2026-04-14T15:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044068395222741108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1706309814454784000",
+              "start": 0,
+              "username": "BlueberryLM27"
+            },
+            {
+              "end": 30,
+              "id": "1757634899002216448",
+              "start": 15,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044068395222741108",
+        "in_reply_to_user_id": "1706309814454784000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044067896633049199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueberryLM27 @haohaochifantt 我不行了 判给我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706309814454784000",
+        "conversation_id": "2044063913244029261",
+        "created_at": "2026-04-14T14:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044067896633049199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044067896633049199",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044065487093674146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 你现在被我判给吉隆坡那位老师了，因为她那免签，我这里要办签证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 61,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 661
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T14:09:03.000Z",
+        "description": "一颗蓝莓｜远渡重洋上水本者｜前妻姐前夫哥在天堂者｜终身减肥从未成功者｜原生家庭潮湿伤痛者｜恶俗文字无处安放者",
+        "id": "1706309814454784000",
+        "name": "蓝莓鱼🫐",
+        "pinned_tweet_id": "2041944611652845871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035086342753804288/dP1SP-sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 27,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 461
+        },
+        "username": "BlueberryLM27",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7391,
+          "following_count": 228,
+          "like_count": 17447,
+          "listed_count": 10,
+          "media_count": 1136,
+          "tweet_count": 7070
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1942303598047813968",
+    "created_at": "2025-07-12T02:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943867174596341793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1464197821318320131",
+          "start": 0,
+          "username": "didaioi"
+        },
+        {
+          "end": 22,
+          "id": "826519520",
+          "start": 9,
+          "username": "hello_yunshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943867174596341793",
+    "in_reply_to_user_id": "1464197821318320131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942547585132290473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didaioi @hello_yunshu 因为女性在这方面要承担的风险远比男性来的高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1942303598047813968",
+        "created_at": "2025-07-12T02:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943867174596341793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1464197821318320131",
+              "start": 0,
+              "username": "didaioi"
+            },
+            {
+              "end": 22,
+              "id": "826519520",
+              "start": 9,
+              "username": "hello_yunshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943867174596341793",
+        "in_reply_to_user_id": "1464197821318320131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942547585132290473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didaioi @hello_yunshu 因为女性在这方面要承担的风险远比男性来的高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464197821318320131",
+        "conversation_id": "1942303598047813968",
+        "created_at": "2025-07-08T11:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T12:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942547585132290473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "826519520",
+              "start": 0,
+              "username": "hello_yunshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942547585132290473",
+        "in_reply_to_user_id": "826519520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 82921,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942303598047813968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello_yunshu 为什么女的不饥渴？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 273
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T11:42:27.000Z",
+        "description": "ⓘ このアカウントは規約違反のため停止されました",
+        "id": "1464197821318320131",
+        "location": "Tokyo | Ginza",
+        "name": "アリス",
+        "pinned_tweet_id": "1933392773593641012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929052605436801025/GdcjL0Hd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 748,
+          "like_count": 6579,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1356
+        },
+        "username": "didaioi",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-16T05:05:18.000Z",
+        "description": "减不下肥我不活了 | 听妈妈👉 @zcy1224 的话把子宫切了，这辈子最大的梦想是所有在乎我的人都不要离开我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zcy1224"
+              }
+            ]
+          }
+        },
+        "id": "826519520",
+        "name": "云云猪🐽",
+        "pinned_tweet_id": "1934957177380524505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896231971954814976/sNEnmLma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17821,
+          "following_count": 1,
+          "like_count": 4054,
+          "listed_count": 51,
+          "media_count": 557,
+          "tweet_count": 1894
+        },
+        "username": "hello_yunshu",
+        "verified": false
+      }
+    ]
+  }
+}

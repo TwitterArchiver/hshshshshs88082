@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1957126939635847546",
+    "created_at": "2025-08-19T12:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T13:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957779352852258823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957779352852258823",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957126939635847546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 就喜欢这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1957126939635847546",
+        "created_at": "2025-08-19T12:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T13:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957779352852258823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957779352852258823",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957126939635847546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 就喜欢这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "1957126939635847546",
+        "created_at": "2025-08-17T17:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957126939635847546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957126939635847546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3161,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很需要一个能接受我随地大小唱的人😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 86,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 394
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "希望大家都能好好吃饭 天天开心 提问箱在这里！！➡️https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 49,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 26,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "🚪52｜互关免费",
+        "name": "宁宴",
+        "pinned_tweet_id": "1938911391056064533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934107749304180736/SmZV7_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 111,
+          "like_count": 5572,
+          "listed_count": 5,
+          "media_count": 401,
+          "tweet_count": 2360
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

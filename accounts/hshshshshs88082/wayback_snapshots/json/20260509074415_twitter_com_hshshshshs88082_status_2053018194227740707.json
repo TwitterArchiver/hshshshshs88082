@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052735568816250881",
+        "3_2052735568812105728"
+      ],
+      "media_source_tweet_id": [
+        "2052735574336061816",
+        "2052735574336061816"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "2053018194227740707",
+    "created_at": "2026-05-09T07:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053018194227740707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862060991275827200",
+          "start": 3,
+          "username": "skr__117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zSsJxAYKV5",
+          "end": 54,
+          "expanded_url": "https://x.com/skr__117/status/2052735574336061816/photo/1",
+          "media_key": "3_2052735568816250881",
+          "start": 31,
+          "url": "https://t.co/zSsJxAYKV5"
+        },
+        {
+          "display_url": "pic.x.com/zSsJxAYKV5",
+          "end": 54,
+          "expanded_url": "https://x.com/skr__117/status/2052735574336061816/photo/1",
+          "media_key": "3_2052735568812105728",
+          "start": 31,
+          "url": "https://t.co/zSsJxAYKV5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053018194227740707",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052735574336061816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skr__117: 我ながらスタイル良すぎる^ ^♡ https://t.co/zSsJxAYKV5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 604,
+        "media_key": "3_2052735568816250881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzIH70aIAEm8_r.jpg",
+        "width": 487
+      },
+      {
+        "height": 604,
+        "media_key": "3_2052735568812105728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzIH7za4AAo4xS.jpg",
+        "width": 487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052735568816250881",
+            "3_2052735568812105728"
+          ],
+          "media_source_tweet_id": [
+            "2052735574336061816",
+            "2052735574336061816"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "2053018194227740707",
+        "created_at": "2026-05-09T07:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053018194227740707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862060991275827200",
+              "start": 3,
+              "username": "skr__117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSsJxAYKV5",
+              "end": 54,
+              "expanded_url": "https://x.com/skr__117/status/2052735574336061816/photo/1",
+              "media_key": "3_2052735568816250881",
+              "start": 31,
+              "url": "https://t.co/zSsJxAYKV5"
+            },
+            {
+              "display_url": "pic.x.com/zSsJxAYKV5",
+              "end": 54,
+              "expanded_url": "https://x.com/skr__117/status/2052735574336061816/photo/1",
+              "media_key": "3_2052735568812105728",
+              "start": 31,
+              "url": "https://t.co/zSsJxAYKV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053018194227740707",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052735574336061816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skr__117: 我ながらスタイル良すぎる^ ^♡ https://t.co/zSsJxAYKV5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052735568816250881",
+            "3_2052735568812105728"
+          ]
+        },
+        "author_id": "1862060991275827200",
+        "conversation_id": "2052735574336061816",
+        "created_at": "2026-05-08T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052735574336061816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zSsJxAYKV5",
+              "end": 40,
+              "expanded_url": "https://x.com/skr__117/status/2052735574336061816/photo/1",
+              "media_key": "3_2052735568816250881",
+              "start": 17,
+              "url": "https://t.co/zSsJxAYKV5"
+            },
+            {
+              "display_url": "pic.x.com/zSsJxAYKV5",
+              "end": 40,
+              "expanded_url": "https://x.com/skr__117/status/2052735574336061816/photo/1",
+              "media_key": "3_2052735568812105728",
+              "start": 17,
+              "url": "https://t.co/zSsJxAYKV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052735574336061816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 848,
+          "impression_count": 204162,
+          "like_count": 5683,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "我ながらスタイル良すぎる^ ^♡ https://t.co/zSsJxAYKV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 68,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 765
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T09:08:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ll.99730?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/ll.99730?igsh=Zmk2anpxM2VtOWN5&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/AkRiD0akLj"
+              }
+            ]
+          }
+        },
+        "id": "1862060991275827200",
+        "name": "Ⓜ︎",
+        "pinned_tweet_id": "2051937216973455585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039407870308208640/A7wKZ2hH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42257,
+          "following_count": 4,
+          "like_count": 611,
+          "listed_count": 37,
+          "media_count": 188,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/AkRiD0akLj",
+        "username": "skr__117",
+        "verified": false
+      }
+    ]
+  }
+}

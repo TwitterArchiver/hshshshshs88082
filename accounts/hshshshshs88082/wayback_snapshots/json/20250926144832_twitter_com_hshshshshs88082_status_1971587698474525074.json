@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1971459791269843266",
+    "created_at": "2025-09-26T14:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971587698474525074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        },
+        {
+          "end": 23,
+          "id": "1847019405043224576",
+          "start": 7,
+          "username": "DennisA11510633"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971587698474525074",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971459791269843266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 @DennisA11510633 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1971459781073436674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wIOcPaAAIu_hT.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1971459791269843266",
+        "created_at": "2025-09-26T14:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971587698474525074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            },
+            {
+              "end": 23,
+              "id": "1847019405043224576",
+              "start": 7,
+              "username": "DennisA11510633"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971587698474525074",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971459791269843266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 @DennisA11510633 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971459781073436674"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1971459791269843266",
+        "created_at": "2025-09-26T06:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971459791269843266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "1847019405043224576",
+              "start": 70,
+              "username": "DennisA11510633"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDxeEsD9zZ",
+              "end": 181,
+              "expanded_url": "https://x.com/hgds0/status/1971459791269843266/photo/1",
+              "media_key": "3_1971459781073436674",
+              "start": 158,
+              "url": "https://t.co/RDxeEsD9zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971459791269843266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10528,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "来抽奖啦！🎁 这次送大家一个COACH蒄驰包，送人和自用都很有面子～奖品可折现（1199元），按礼盒当日售价直接发红包！参与方式：关注我和 @DennisA11510633 （帮缺钱的宝子找金主），并点赞评论+转发此条推文 ✅ 开奖时间：下个月的今天（10月26日）拒绝黑幕！开奖当天用随机数抽奖～希望大家喜欢 💕 https://t.co/RDxeEsD9zZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 80,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 468
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1971459791269843266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90097,
+          "following_count": 2812,
+          "like_count": 43152,
+          "listed_count": 114,
+          "media_count": 2788,
+          "tweet_count": 7093
+        },
+        "username": "hgds0",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-17T20:58:50.000Z",
+        "description": "欢迎关注星探小特，小美找金主可以私信，微卡颜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 23,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 0,
+                "url": "https://t.co/KQTFfL9yTC"
+              }
+            ]
+          }
+        },
+        "id": "1847019405043224576",
+        "location": "需要牵线进Mei官方社群👉",
+        "name": "星探小特（帮找金🐖）",
+        "pinned_tweet_id": "1969018923933687943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968625098371514369/neErPsg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14958,
+          "following_count": 35,
+          "like_count": 518,
+          "listed_count": 56,
+          "media_count": 37,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/KQTFfL9yTC",
+        "username": "DennisA11510633",
+        "verified": false
+      }
+    ]
+  }
+}

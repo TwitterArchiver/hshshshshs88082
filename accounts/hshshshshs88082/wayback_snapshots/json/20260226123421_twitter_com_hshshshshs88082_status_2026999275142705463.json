@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2026999275142705463",
+    "created_at": "2026-02-26T12:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026999275142705463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000484586544115712",
+          "start": 3,
+          "username": "Snow_KouKou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026999275142705463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026361426869416250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_KouKou: 烟明明是臭的为什么叫香烟\n而打扮漂亮的小女孩就叫臭美呢\n吸毒犯就吸毒犯还瘾君子\n强奸犯就强奸犯还采花大盗\n男生化妆打扮就叫娘我不化妆为什么没人叫我爹\n男生胸大就叫男妈妈我胸平怎么没人叫我女爸爸\n帅就是帅，丑就是丑\n丑帅是谁发明的精致土又是在干嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2026999275142705463",
+        "created_at": "2026-02-26T12:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026999275142705463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000484586544115712",
+              "start": 3,
+              "username": "Snow_KouKou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026999275142705463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026361426869416250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_KouKou: 烟明明是臭的为什么叫香烟\n而打扮漂亮的小女孩就叫臭美呢\n吸毒犯就吸毒犯还瘾君子\n强奸犯就强奸犯还采花大盗\n男生化妆打扮就叫娘我不化妆为什么没人叫我爹\n男生胸大就叫男妈妈我胸平怎么没人叫我女爸爸\n帅就是帅，丑就是丑\n丑帅是谁发明的精致土又是在干嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000484586544115712",
+        "conversation_id": "2026361426869416250",
+        "created_at": "2026-02-24T18:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026361426869416250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026361426869416250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 86299,
+          "like_count": 4201,
+          "quote_count": 10,
+          "reply_count": 41,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "烟明明是臭的为什么叫香烟\n而打扮漂亮的小女孩就叫臭美呢\n吸毒犯就吸毒犯还瘾君子\n强奸犯就强奸犯还采花大盗\n男生化妆打扮就叫娘我不化妆为什么没人叫我爹\n男生胸大就叫男妈妈我胸平怎么没人叫我女爸爸\n帅就是帅，丑就是丑\n丑帅是谁发明的精致土又是在干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 65,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 620
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T08:35:07.000Z",
+        "description": "｜老年人怎样生活才有意思｜",
+        "id": "2000484586544115712",
+        "name": "暴躁老奶历险记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000994115501404160/-EOt5-Pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 11,
+          "like_count": 62,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 75
+        },
+        "username": "Snow_KouKou",
+        "verified": false
+      }
+    ]
+  }
+}

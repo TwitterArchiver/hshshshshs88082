@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1941176467301466555",
+    "created_at": "2025-08-18T07:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T08:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957345948017074328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1516244118418202647",
+          "start": 0,
+          "username": "Jingzi1128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957345948017074328",
+    "in_reply_to_user_id": "1516244118418202647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941176467301466555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jingzi1128 是的一股男味🙂‍↕️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 662,
+        "media_key": "3_1941176454760497152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvBxs2haAAATRrZ.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1941176467301466555",
+        "created_at": "2025-08-18T07:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T08:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957345948017074328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1516244118418202647",
+              "start": 0,
+              "username": "Jingzi1128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957345948017074328",
+        "in_reply_to_user_id": "1516244118418202647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941176467301466555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jingzi1128 是的一股男味🙂‍↕️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941176454760497152"
+          ]
+        },
+        "author_id": "1516244118418202647",
+        "conversation_id": "1941176467301466555",
+        "created_at": "2025-07-04T16:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T17:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941176467301466555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQjQdt9uRx",
+              "end": 36,
+              "expanded_url": "https://x.com/Jingzi1128/status/1941176467301466555/photo/1",
+              "media_key": "3_1941176454760497152",
+              "start": 13,
+              "url": "https://t.co/OQjQdt9uRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941176467301466555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1071,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要给我发这三个表情包啊 https://t.co/OQjQdt9uRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 81,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 350
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T02:35:56.000Z",
+        "description": "滚",
+        "id": "1516244118418202647",
+        "name": "镜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940339780492959744/Iy9bw_l-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 100,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 148
+        },
+        "username": "Jingzi1128",
+        "verified": false
+      }
+    ]
+  }
+}

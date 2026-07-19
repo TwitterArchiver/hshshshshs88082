@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1931379167830106567",
+    "created_at": "2025-06-07T16:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931385942943875531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1290653989260931072",
+          "start": 0,
+          "username": "Throniexxx"
+        },
+        {
+          "end": 28,
+          "id": "1513454564418097156",
+          "start": 12,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931385942943875531",
+    "in_reply_to_user_id": "1290653989260931072",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931383766376955985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Throniexxx @nengyiqishuime1 Tq🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1931379167830106567",
+        "created_at": "2025-06-07T16:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931385942943875531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1290653989260931072",
+              "start": 0,
+              "username": "Throniexxx"
+            },
+            {
+              "end": 28,
+              "id": "1513454564418097156",
+              "start": 12,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931385942943875531",
+        "in_reply_to_user_id": "1290653989260931072",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931383766376955985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Throniexxx @nengyiqishuime1 Tq🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290653989260931072",
+        "conversation_id": "1931379167830106567",
+        "created_at": "2025-06-07T16:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931383766376955985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            },
+            {
+              "end": 33,
+              "id": "1513454564418097156",
+              "start": 17,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931383766376955985",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931382575949623407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 @nengyiqishuime1 阳痿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 71,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 166
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-04T14:21:14.000Z",
+        "description": "🙅🏻‍♀️推推恋 just chat",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/throniexxx1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/throniexxx1",
+                "start": 0,
+                "url": "https://t.co/IFSldHnMjI"
+              }
+            ]
+          }
+        },
+        "id": "1290653989260931072",
+        "location": "不语只是一味地冲浪🏄🏻‍♀️",
+        "name": "CallMeThroneee",
+        "pinned_tweet_id": "1929594549619278301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929215075942068224/6fdpRLsE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 460,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/IFSldHnMjI",
+        "username": "Throniexxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱欢迎点梗https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回 瓦陪玩10/h随缘接. 日常分享生活小号@NyWanju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "NyWanju"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 22,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1930486536400752809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84303,
+          "following_count": 578,
+          "like_count": 895,
+          "listed_count": 167,
+          "media_count": 57,
+          "tweet_count": 13304
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

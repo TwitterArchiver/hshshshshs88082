@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2046591227597066588",
+    "created_at": "2026-04-21T15:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046609674208977304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        },
+        {
+          "end": 26,
+          "id": "1529386038916829185",
+          "start": 16,
+          "username": "apixum792"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046609674208977304",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046609428435415376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt @apixum792 孩子哭吧哭吧不是罪！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2046591227597066588",
+        "created_at": "2026-04-21T15:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046609674208977304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            },
+            {
+              "end": 26,
+              "id": "1529386038916829185",
+              "start": 16,
+              "username": "apixum792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046609674208977304",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046609428435415376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt @apixum792 孩子哭吧哭吧不是罪！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "2046591227597066588",
+        "created_at": "2026-04-21T15:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046609428435415376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            },
+            {
+              "end": 27,
+              "id": "1529386038916829185",
+              "start": 17,
+              "username": "apixum792"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046609428435415376",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046609090961617074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 @apixum792 我操好心酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 65,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 711
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7653,
+          "following_count": 230,
+          "like_count": 17706,
+          "listed_count": 10,
+          "media_count": 1155,
+          "tweet_count": 7243
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T08:57:10.000Z",
+        "description": "我有很多心事｜@apixumm 只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "apixumm"
+              }
+            ]
+          }
+        },
+        "id": "1529386038916829185",
+        "name": "怎么又开学了",
+        "pinned_tweet_id": "2019085189813535068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046132364238307328/iPmdUtcF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8685,
+          "following_count": 142,
+          "like_count": 4679,
+          "listed_count": 34,
+          "media_count": 303,
+          "tweet_count": 2225
+        },
+        "username": "apixum792",
+        "verified": true
+      }
+    ]
+  }
+}

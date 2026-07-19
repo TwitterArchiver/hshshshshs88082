@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1931730911311372641",
+    "created_at": "2025-06-14T09:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T10:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933819599025521080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894753734149988353",
+          "start": 0,
+          "username": "yolo0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933819599025521080",
+    "in_reply_to_user_id": "1894753734149988353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933651237066400237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yolo0630 可以点个香薰  或者我很喜欢用咖啡渣加磨砂膏     就是他会很香然后滑滑的也洗得很干净😋😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1931730911311372641",
+        "created_at": "2025-06-14T09:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T10:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933819599025521080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933819599025521080",
+        "in_reply_to_user_id": "1894753734149988353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933651237066400237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 可以点个香薰  或者我很喜欢用咖啡渣加磨砂膏     就是他会很香然后滑滑的也洗得很干净😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894753734149988353",
+        "conversation_id": "1931730911311372641",
+        "created_at": "2025-06-13T22:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T23:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933651237066400237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933651237066400237",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933556928049000782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 洗浴中心洗吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 82,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 218
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:18:04.000Z",
+        "description": "07/巨蟹/infp 随缘回私信 不陪聊 不线下 好想睡觉💤",
+        "id": "1894753734149988353",
+        "location": "🚪88/128/188",
+        "name": "yolo",
+        "pinned_tweet_id": "1933219472828977572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930183882525290501/L3D2pelJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 101,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 549
+        },
+        "username": "yolo0630",
+        "verified": false
+      }
+    ]
+  }
+}

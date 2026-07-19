@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2026206493117395379",
+    "created_at": "2026-02-24T11:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T12:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026256087016767919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026256087016767919",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026206493117395379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkqlbxc 万达广场到底有谁在！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2026206490617651200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6IEWLbIAAnHbi.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2026206493117395379",
+        "created_at": "2026-02-24T11:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026256087016767919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026256087016767919",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026206493117395379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkqlbxc 万达广场到底有谁在！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026206490617651200"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "2026206493117395379",
+        "created_at": "2026-02-24T08:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026206493117395379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAfQWnyjWD",
+              "end": 33,
+              "expanded_url": "https://x.com/nkqlbxc/status/2026206493117395379/photo/1",
+              "media_key": "3_2026206490617651200",
+              "start": 10,
+              "url": "https://t.co/hAfQWnyjWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026206493117395379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 44728,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 155,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个真的是刚需了！ https://t.co/hAfQWnyjWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 66,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 619
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”\n\n防封小号（处哥在干嘛）：@chuge857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "chuge857"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97753,
+          "following_count": 256,
+          "like_count": 1673,
+          "listed_count": 118,
+          "media_count": 1953,
+          "tweet_count": 3131
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

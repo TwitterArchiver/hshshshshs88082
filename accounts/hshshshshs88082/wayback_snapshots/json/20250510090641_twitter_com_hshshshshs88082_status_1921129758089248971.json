@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1889879201282662702",
+    "created_at": "2025-05-10T09:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T10:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921129758089248971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873808055407960066",
+          "start": 0,
+          "username": "yzcloyalty"
+        },
+        {
+          "end": 25,
+          "id": "1757944489346568192",
+          "start": 12,
+          "username": "shaoguanwai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921129758089248971",
+    "in_reply_to_user_id": "1873808055407960066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890618101730844986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzcloyalty @shaoguanwai2 没有！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1889879201282662702",
+        "created_at": "2025-05-10T09:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921129758089248971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873808055407960066",
+              "start": 0,
+              "username": "yzcloyalty"
+            },
+            {
+              "end": 25,
+              "id": "1757944489346568192",
+              "start": 12,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921129758089248971",
+        "in_reply_to_user_id": "1873808055407960066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890618101730844986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzcloyalty @shaoguanwai2 没有！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873808055407960066",
+        "conversation_id": "1889879201282662702",
+        "created_at": "2025-02-15T04:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T05:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890618101730844986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            },
+            {
+              "end": 30,
+              "id": "1757944489346568192",
+              "start": 17,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890618101730844986",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890015390824386820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 @shaoguanwai2 白羊既渣又冷暴力🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921126949532893184/h7ygRv4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 80
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T19:07:25.000Z",
+        "description": "随便看看",
+        "id": "1873808055407960066",
+        "location": "good luck",
+        "name": "风殇兮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895505564337352704/7xHxAgos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 97,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 55
+        },
+        "username": "yzcloyalty",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T01:47:49.000Z",
+        "description": "一些碎碎念 一些奇奇怪怪的文案 提问箱 https://t.co/hcNRO2Dip0 希望大家一切顺利天天开心",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oiiiii36411",
+                "end": 43,
+                "expanded_url": "https://ngl.link/oiiiii36411",
+                "start": 20,
+                "url": "https://t.co/hcNRO2Dip0"
+              }
+            ]
+          }
+        },
+        "id": "1757944489346568192",
+        "location": "随便",
+        "name": "Oiiiii",
+        "pinned_tweet_id": "1866489037739250108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875547046725480449/wgthGEHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13070,
+          "following_count": 151,
+          "like_count": 21344,
+          "listed_count": 22,
+          "media_count": 899,
+          "tweet_count": 14288
+        },
+        "username": "shaoguanwai2",
+        "verified": false
+      }
+    ]
+  }
+}

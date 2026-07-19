@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1982443214574596359",
+    "created_at": "2025-10-26T23:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982587330969153863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898675806966341632",
+          "start": 0,
+          "username": "Lillcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982587330969153863",
+    "in_reply_to_user_id": "1898675806966341632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982443214574596359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lillcuainil 如此有梗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1982443214574596359",
+        "created_at": "2025-10-26T23:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982587330969153863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898675806966341632",
+              "start": 0,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982587330969153863",
+        "in_reply_to_user_id": "1898675806966341632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982443214574596359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lillcuainil 如此有梗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898675806966341632",
+        "conversation_id": "1982443214574596359",
+        "created_at": "2025-10-26T13:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982443214574596359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982443214574596359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1804,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "余额 你竟然背着我悄悄做0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 83,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 514
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T10:03:06.000Z",
+        "description": "我是小礼呀！碎碎念日常、别骚扰我了吧！欢迎投喂🥣我爱发啥发啥别他妈来贴脸。骂我的死全家不解释｜我家宝宝@jiayouyier｜锁评置顶推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "jiayouyier"
+              }
+            ]
+          }
+        },
+        "id": "1898675806966341632",
+        "location": "想了解我请戳👉🏻",
+        "name": "lii",
+        "pinned_tweet_id": "1982406891109339461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979464417348587520/fMkCAPlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5695,
+          "following_count": 285,
+          "like_count": 208,
+          "listed_count": 3,
+          "media_count": 1443,
+          "tweet_count": 25219
+        },
+        "username": "Lillcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

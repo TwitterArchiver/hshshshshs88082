@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1921198391364604374",
+    "created_at": "2025-05-10T13:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T14:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921198664808013914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1648522028113334273",
+          "start": 0,
+          "username": "Liwelldown"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921198664808013914",
+    "in_reply_to_user_id": "1648522028113334273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921198391364604374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liwelldown 刚好在手冲🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1921198391364604374",
+        "created_at": "2025-05-10T13:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921198664808013914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1648522028113334273",
+              "start": 0,
+              "username": "Liwelldown"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921198664808013914",
+        "in_reply_to_user_id": "1648522028113334273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921198391364604374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liwelldown 刚好在手冲🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648522028113334273",
+        "conversation_id": "1921198391364604374",
+        "created_at": "2025-05-10T13:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T14:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921198391364604374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "狸老师（强制训诫版）’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1vAGR…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1vAGRDgdyWqxl",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1920837703773351937/-ScAMtiX?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1920837703773351937/-ScAMtiX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Scheduled: 「深夜食堂」强制训诫怎么玩才够脸红与湿意🥵和你一起深夜颅内漫谈",
+              "unwound_url": "https://twitter.com/i/spaces/1vAGRDgdyWqxl/peek",
+              "url": "https://t.co/Lib7elQR1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921198391364604374",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Lib7elQR1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921126949532893184/h7ygRv4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 53,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 82
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T03:01:06.000Z",
+        "description": "Dom&Spanker｜专注于探讨训诫强制的规矩，帮助你获得更有激情的实践体验｜non-binary🌈｜腹黑手也黑｜防走失小号@realest66670277｜英文账号 @Auroradommm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "realest66670277"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Auroradommm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Lily_Aurora",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Lily_Aurora",
+                "start": 0,
+                "url": "https://t.co/cYn348TmoZ"
+              }
+            ]
+          }
+        },
+        "id": "1648522028113334273",
+        "location": "🇨🇦 Toronto",
+        "name": "狸老师（强制训诫版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698511826990821376/19w9i_Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82674,
+          "following_count": 36,
+          "like_count": 607,
+          "listed_count": 104,
+          "media_count": 91,
+          "tweet_count": 782
+        },
+        "url": "https://t.co/cYn348TmoZ",
+        "username": "Liwelldown",
+        "verified": true
+      }
+    ]
+  }
+}

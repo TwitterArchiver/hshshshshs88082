@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2072674677311590902",
+    "created_at": "2026-07-02T13:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072674677311590902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2055822314969665536",
+          "start": 3,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072674677311590902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072116629882720759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GrievousPotato1: 为啥洼地健全逼G点那么多，纹身不行紫餐痕迹不行穿孔不行打钉不行od不行，只是上班赚点米都要歧视来歧视去，歧视你妈，健全逼都是一群神经病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2072674677311590902",
+        "created_at": "2026-07-02T13:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072674677311590902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2055822314969665536",
+              "start": 3,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072674677311590902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072116629882720759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GrievousPotato1: 为啥洼地健全逼G点那么多，纹身不行紫餐痕迹不行穿孔不行打钉不行od不行，只是上班赚点米都要歧视来歧视去，歧视你妈，健全逼都是一群神经病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2072116629882720759",
+        "created_at": "2026-07-01T00:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072116629882720759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072116629882720759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6800,
+          "like_count": 237,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "为啥洼地健全逼G点那么多，纹身不行紫餐痕迹不行穿孔不行打钉不行od不行，只是上班赚点米都要歧视来歧视去，歧视你妈，健全逼都是一群神经病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070147787904385024/-ty10e9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 96,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 99,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 76,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 271,
+          "like_count": 8660,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

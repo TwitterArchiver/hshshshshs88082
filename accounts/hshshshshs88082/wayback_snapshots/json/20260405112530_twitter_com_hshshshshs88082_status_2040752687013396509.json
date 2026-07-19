@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2023730849058000913",
+    "created_at": "2026-04-05T11:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T12:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040752687013396509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529642134323621889",
+          "start": 0,
+          "username": "xxx92839871"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040752687013396509",
+    "in_reply_to_user_id": "1529642134323621889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023730849058000913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx92839871 我操 盗图狗你去死吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_2023730770272284676",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW8adMbcAQf1sH.jpg",
+        "width": 1128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2023730849058000913",
+        "created_at": "2026-04-05T11:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040752687013396509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529642134323621889",
+              "start": 0,
+              "username": "xxx92839871"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040752687013396509",
+        "in_reply_to_user_id": "1529642134323621889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023730849058000913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx92839871 我操 盗图狗你去死吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023730770272284676"
+          ]
+        },
+        "author_id": "1529642134323621889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2023730849058000913",
+        "created_at": "2026-02-17T12:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023730849058000913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/12HnIfz8Rb",
+              "end": 29,
+              "expanded_url": "https://x.com/xxx92839871/status/2023730849058000913/photo/1",
+              "media_key": "3_2023730770272284676",
+              "start": 6,
+              "url": "https://t.co/12HnIfz8Rb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023730849058000913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐呀 https://t.co/12HnIfz8Rb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 107,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 629
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T01:54:49.000Z",
+        "description": "1133",
+        "id": "1529642134323621889",
+        "name": "007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710669660205584384/IJb2435L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 291,
+          "like_count": 3679,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 323
+        },
+        "username": "xxx92839871",
+        "verified": false
+      }
+    ]
+  }
+}

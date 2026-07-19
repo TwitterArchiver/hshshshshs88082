@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1931333121146057099",
+    "created_at": "2025-06-07T16:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931388074359238855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1513454564418097156",
+          "start": 0,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931388074359238855",
+    "in_reply_to_user_id": "1513454564418097156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931333121146057099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nengyiqishuime1 牛子借我用用  体验一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 327656,
+        "height": 446,
+        "media_key": "13_1931332768056971264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931332768056971264/img/YdXnjFW8Cgi3Qx3N.jpg",
+        "public_metrics": {
+          "view_count": 3659
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931332768056971264/vid/avc1/536x270/TlB9up0S_USIhMYU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931332768056971264/vid/avc1/886x446/qj3ZZgBZVglDhk19.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931332768056971264/pl/sK2uGprFFjtesMSV.m3u8?v=769"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1931333121146057099",
+        "created_at": "2025-06-07T16:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931388074359238855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513454564418097156",
+              "start": 0,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931388074359238855",
+        "in_reply_to_user_id": "1513454564418097156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931333121146057099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nengyiqishuime1 牛子借我用用  体验一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931332768056971264"
+          ]
+        },
+        "author_id": "1513454564418097156",
+        "conversation_id": "1931333121146057099",
+        "created_at": "2025-06-07T12:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931333121146057099"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "男喘"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "女性向"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "手冲实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnTrEGijsO",
+              "end": 55,
+              "expanded_url": "https://x.com/nengyiqishuime1/status/1931333121146057099/video/1",
+              "media_key": "13_1931332768056971264",
+              "start": 32,
+              "url": "https://t.co/MnTrEGijsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931333121146057099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 9715,
+          "like_count": 285,
+          "quote_count": 1,
+          "reply_count": 62,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "禁欲七天用上润滑剂的超爽手冲实录\n#男喘 #女性向 #手冲实录 https://t.co/MnTrEGijsO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 71,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 168
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱欢迎点梗https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回 瓦陪玩10/h随缘接. 日常分享生活小号@NyWanju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "NyWanju"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 22,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1930486536400752809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84310,
+          "following_count": 578,
+          "like_count": 895,
+          "listed_count": 167,
+          "media_count": 57,
+          "tweet_count": 13304
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

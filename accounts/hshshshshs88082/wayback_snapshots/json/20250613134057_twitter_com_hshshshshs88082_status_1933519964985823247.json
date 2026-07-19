@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1932775224183042121",
+    "created_at": "2025-06-13T13:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933519964985823247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933519964985823247",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933451367332675604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 噢噢噢 好嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1932775224183042121",
+        "created_at": "2025-06-13T13:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933519964985823247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933519964985823247",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933451367332675604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 噢噢噢 好嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "1932775224183042121",
+        "created_at": "2025-06-13T09:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T10:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933451367332675604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933451367332675604",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933448027450323426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 这个是骗子 发了个链接让我去网站 俺没去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 81,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 197
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "https://t.co/E1HexE7AL6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 0,
+                "url": "https://t.co/E1HexE7AL6"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "name": "宁宴",
+        "pinned_tweet_id": "1932662794211794981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757640975512731648/0jPeP9Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 25,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 437
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

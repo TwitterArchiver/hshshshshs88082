@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1931163469187002424",
+    "created_at": "2025-06-07T16:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T17:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931381061457752197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1744396562632257536",
+          "start": 0,
+          "username": "chuanlema"
+        },
+        {
+          "end": 27,
+          "id": "1513454564418097156",
+          "start": 11,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931381061457752197",
+    "in_reply_to_user_id": "1744396562632257536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931163469187002424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanlema @nengyiqishuime1 第一次直观的感觉到我看过了多少男喘🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89466,
+        "height": 720,
+        "media_key": "13_1931163314094329856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931163314094329856/img/sYNrEn0XfzBsYxBe.jpg",
+        "public_metrics": {
+          "view_count": 21627
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931163314094329856/vid/avc1/480x270/aftljqdo80Dch0v8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931163314094329856/vid/avc1/640x360/LeWu-b0-3nswRMxq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931163314094329856/vid/avc1/1280x720/aoJ65dSsUbvgbxWC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931163314094329856/pl/eKoS_4atvKexhi8M.m3u8?v=a57"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1931163469187002424",
+        "created_at": "2025-06-07T16:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T17:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931381061457752197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1744396562632257536",
+              "start": 0,
+              "username": "chuanlema"
+            },
+            {
+              "end": 27,
+              "id": "1513454564418097156",
+              "start": 11,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931381061457752197",
+        "in_reply_to_user_id": "1744396562632257536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931163469187002424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanlema @nengyiqishuime1 第一次直观的感觉到我看过了多少男喘🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931163314094329856"
+          ]
+        },
+        "author_id": "1744396562632257536",
+        "conversation_id": "1931163469187002424",
+        "created_at": "2025-06-07T01:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T02:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931163469187002424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1513454564418097156",
+              "start": 10,
+              "username": "nengyiqishuime1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZeKEyiSK3",
+              "end": 99,
+              "expanded_url": "https://x.com/chuanlema/status/1931163469187002424/video/1",
+              "media_key": "13_1931163314094329856",
+              "start": 76,
+              "url": "https://t.co/NZeKEyiSK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931163469187002424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 52944,
+          "like_count": 444,
+          "quote_count": 13,
+          "reply_count": 141,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【糖果超甜】喘娱版\n@nengyiqishuime1 兄弟你想看的糖果超甜来了。\n*排列顺序不分先后，仅供娱乐没有任何黑的意思，都是很好的，补药骂我。 https://t.co/NZeKEyiSK3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 71,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 160
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T16:33:31.000Z",
+        "description": "真消费才敢说真话 这里是喘了么，【作品是男喘的一部分但入门后才是真正测评的关键。】喘了么带你走进男喘背后的🚪 （接投稿）https://t.co/bRcdUCIicX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clm81320",
+                "end": 83,
+                "expanded_url": "https://ngl.link/clm81320",
+                "start": 60,
+                "url": "https://t.co/bRcdUCIicX"
+              }
+            ]
+          }
+        },
+        "id": "1744396562632257536",
+        "name": "喘了么（男喘测评号）",
+        "pinned_tweet_id": "1920153558328177049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920148040809336832/GyjiKqds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8196,
+          "following_count": 43,
+          "like_count": 172,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 218
+        },
+        "username": "chuanlema",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱欢迎点梗https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回 瓦陪玩10/h随缘接. 日常分享生活小号@NyWanju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "NyWanju"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 22,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1930486536400752809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84279,
+          "following_count": 578,
+          "like_count": 895,
+          "listed_count": 167,
+          "media_count": 57,
+          "tweet_count": 13304
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

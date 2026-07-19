@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2062555956526133487",
+    "created_at": "2026-06-05T04:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062748418267910183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1834222306505490432",
+          "start": 0,
+          "username": "XiaoyOvOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062748418267910183",
+    "in_reply_to_user_id": "1834222306505490432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062555956526133487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoyOvOy 等一下什么的时候看！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062555956526133487].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062555956526133487",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062555956526133487"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2062555956526133487",
+        "created_at": "2026-06-05T04:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062748418267910183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1834222306505490432",
+              "start": 0,
+              "username": "XiaoyOvOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062748418267910183",
+        "in_reply_to_user_id": "1834222306505490432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062555956526133487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoyOvOy 等一下什么的时候看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060769752088457216/_Wn6uvfq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 100,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 791
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T13:27:39.000Z",
+        "description": "我要稳稳的幸福",
+        "id": "1834222306505490432",
+        "name": "猫的秘密基地",
+        "pinned_tweet_id": "1834236107942466044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050244265247473665/ScWVNLZx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 78,
+          "like_count": 5241,
+          "listed_count": 0,
+          "media_count": 694,
+          "tweet_count": 2415
+        },
+        "username": "XiaoyOvOy",
+        "verified": false
+      }
+    ]
+  }
+}

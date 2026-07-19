@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1932995992686932436",
+    "created_at": "2025-06-13T07:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T08:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933419580720119979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794745337837707264",
+          "start": 0,
+          "username": "cuzi523521"
+        },
+        {
+          "end": 28,
+          "id": "1513454564418097156",
+          "start": 12,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933419580720119979",
+    "in_reply_to_user_id": "1794745337837707264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933164939826569355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzi523521 @nengyiqishuime1 好美啊🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1932995992686932436",
+        "created_at": "2025-06-13T07:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T08:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933419580720119979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794745337837707264",
+              "start": 0,
+              "username": "cuzi523521"
+            },
+            {
+              "end": 28,
+              "id": "1513454564418097156",
+              "start": 12,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933419580720119979",
+        "in_reply_to_user_id": "1794745337837707264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933164939826569355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzi523521 @nengyiqishuime1 好美啊🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794745337837707264",
+        "conversation_id": "1932995992686932436",
+        "created_at": "2025-06-12T14:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933164939826569355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513454564418097156",
+              "start": 0,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933164939826569355",
+        "in_reply_to_user_id": "1513454564418097156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 811,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932995992686932436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nengyiqishuime1 宝宝们都来和我交友看见了都会夸 平时发点腿腿不嫌弃可以跟我互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 77,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 185
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T15:00:19.000Z",
+        "description": "entp白羊座没有🚪我只是一个苦逼学生党……⌯'▾'⌯终于愿意好好写一下简介了……不定时看私信基本都会回捏~重度手控！！！莫名其妙给我发手照我直接爱上！我也非常声控…）目前还是有点不敢发别的只发腿照（也不一定）以后可能会发果照……",
+        "id": "1794745337837707264",
+        "name": "cuzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794746870625144832/oPepvpgd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 49,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 27
+        },
+        "username": "cuzi523521",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回 日常分享生活小号@NyWanju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 65,
+                "username": "NyWanju"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 18,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1932816968564027861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87551,
+          "following_count": 619,
+          "like_count": 895,
+          "listed_count": 176,
+          "media_count": 60,
+          "tweet_count": 13687
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

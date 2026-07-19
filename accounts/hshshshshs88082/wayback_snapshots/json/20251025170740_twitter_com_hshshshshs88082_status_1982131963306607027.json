@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982003401865953280"
+      ],
+      "media_source_tweet_id": [
+        "1982003409751580734"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1982131963306607027",
+    "created_at": "2025-10-25T17:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T18:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982131963306607027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1918645361507471361",
+          "start": 3,
+          "username": "lllliiiiaaa1233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mUgKmo5RIg",
+          "end": 53,
+          "expanded_url": "https://x.com/lllliiiiaaa1233/status/1982003409751580734/photo/1",
+          "media_key": "3_1982003401865953280",
+          "start": 30,
+          "url": "https://t.co/mUgKmo5RIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982131963306607027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982003409751580734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lllliiiiaaa1233: 淡淡的就是顺顺的 https://t.co/mUgKmo5RIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_1982003401865953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4F9l8fWAAAo0lV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982003401865953280"
+          ],
+          "media_source_tweet_id": [
+            "1982003409751580734"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1982131963306607027",
+        "created_at": "2025-10-25T17:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T18:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982131963306607027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1918645361507471361",
+              "start": 3,
+              "username": "lllliiiiaaa1233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUgKmo5RIg",
+              "end": 53,
+              "expanded_url": "https://x.com/lllliiiiaaa1233/status/1982003409751580734/photo/1",
+              "media_key": "3_1982003401865953280",
+              "start": 30,
+              "url": "https://t.co/mUgKmo5RIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982131963306607027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982003409751580734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lllliiiiaaa1233: 淡淡的就是顺顺的 https://t.co/mUgKmo5RIg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982003401865953280"
+          ]
+        },
+        "author_id": "1918645361507471361",
+        "conversation_id": "1982003409751580734",
+        "created_at": "2025-10-25T08:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T09:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982003409751580734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUgKmo5RIg",
+              "end": 32,
+              "expanded_url": "https://x.com/lllliiiiaaa1233/status/1982003409751580734/photo/1",
+              "media_key": "3_1982003401865953280",
+              "start": 9,
+              "url": "https://t.co/mUgKmo5RIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982003409751580734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14050,
+          "like_count": 314,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "淡淡的就是顺顺的 https://t.co/mUgKmo5RIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 83,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 492
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-03T12:34:43.000Z",
+        "description": "抖音:94052912038\n男同别关注我了我会拉黑我真没招了\n小猫叫壮壮 两岁🦭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pingugugugu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pingugugugu",
+                "start": 0,
+                "url": "https://t.co/KrY2QbBxVH"
+              }
+            ]
+          }
+        },
+        "id": "1918645361507471361",
+        "location": "大连 欢迎大家找我扩列加v，谢谢你们🦭🦭",
+        "name": "睡觉睡觉困困困",
+        "pinned_tweet_id": "1975213996824478029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919276039471353856/tUnkLUfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 955,
+          "like_count": 11717,
+          "listed_count": 6,
+          "media_count": 785,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/KrY2QbBxVH",
+        "username": "lllliiiiaaa1233",
+        "verified": false
+      }
+    ]
+  }
+}

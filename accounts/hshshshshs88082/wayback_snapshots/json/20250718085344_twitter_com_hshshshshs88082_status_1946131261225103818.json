@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1945442733822460233",
+    "created_at": "2025-07-18T08:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946131261225103818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902229917510881281",
+          "start": 0,
+          "username": "bukeyannnshuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946131261225103818",
+    "in_reply_to_user_id": "1902229917510881281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945442733822460233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bukeyannnshuo 我真的会以为是辣椒酱塌房的......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1945442733822460233",
+        "created_at": "2025-07-18T08:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946131261225103818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902229917510881281",
+              "start": 0,
+              "username": "bukeyannnshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946131261225103818",
+        "in_reply_to_user_id": "1902229917510881281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945442733822460233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bukeyannnshuo 我真的会以为是辣椒酱塌房的......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902229917510881281",
+        "conversation_id": "1945442733822460233",
+        "created_at": "2025-07-16T11:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T12:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945442733822460233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945442733822460233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 70910,
+          "like_count": 269,
+          "quote_count": 3,
+          "reply_count": 77,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我滴妈呀为啥瓶装辣椒塌成这样还有人溺爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 84,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 283
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T05:25:56.000Z",
+        "description": "‧˚₊*̥(* ⁰̷̴͈꒨⁰̷̴͈)‧˚₊*̥卷卷卷卷卷卷卷卷卷卷卷卷卷‧˚₊*̥(* ⁰̷̴͈꒨⁰̷̴͈)‧˚₊*̥互关小宝宝多多找我玩🥺🫶🏻我爱发啥发啥你管我。泛性恋。我有精神病别惹我。只过互关@mentaikokaraage",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 99,
+                "username": "mentaikokaraage"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mentaikokaraage",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mentaikokaraage",
+                "start": 0,
+                "url": "https://t.co/i8JMDwY9v3"
+              }
+            ]
+          }
+        },
+        "id": "1902229917510881281",
+        "location": "🚪纯绿99",
+        "name": "卷卷大王",
+        "pinned_tweet_id": "1945082581721960802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930869318860029952/HdbQv4WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 289,
+          "like_count": 17171,
+          "listed_count": 7,
+          "media_count": 293,
+          "tweet_count": 5882
+        },
+        "url": "https://t.co/i8JMDwY9v3",
+        "username": "bukeyannnshuo",
+        "verified": false
+      }
+    ]
+  }
+}

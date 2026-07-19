@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990428747993063425",
+        "3_1990428748982927360"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990428751964836135",
+    "created_at": "2025-11-17T14:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990428751964836135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpPiLXt8nX",
+          "end": 39,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1990428751964836135/photo/1",
+          "media_key": "3_1990428747993063425",
+          "start": 16,
+          "url": "https://t.co/dpPiLXt8nX"
+        },
+        {
+          "display_url": "pic.x.com/dpPiLXt8nX",
+          "end": 39,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1990428751964836135/photo/1",
+          "media_key": "3_1990428748982927360",
+          "start": 16,
+          "url": "https://t.co/dpPiLXt8nX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990428751964836135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样乖乖地奉献了小咪的脚😾😾 https://t.co/dpPiLXt8nX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1990428747993063425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59sZoraIAENshU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2210,
+        "media_key": "3_1990428748982927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59sZsXaQAAHcX6.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990428747993063425",
+            "3_1990428748982927360"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990428751964836135",
+        "created_at": "2025-11-17T14:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990428751964836135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpPiLXt8nX",
+              "end": 39,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1990428751964836135/photo/1",
+              "media_key": "3_1990428747993063425",
+              "start": 16,
+              "url": "https://t.co/dpPiLXt8nX"
+            },
+            {
+              "display_url": "pic.x.com/dpPiLXt8nX",
+              "end": 39,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1990428751964836135/photo/1",
+              "media_key": "3_1990428748982927360",
+              "start": 16,
+              "url": "https://t.co/dpPiLXt8nX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990428751964836135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样乖乖地奉献了小咪的脚😾😾 https://t.co/dpPiLXt8nX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985788804607983622/oCE5-1Jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 91,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 598
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

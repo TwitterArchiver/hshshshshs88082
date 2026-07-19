@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1957381525953229311",
+    "created_at": "2025-08-18T16:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957485334419370150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610289819053330432",
+          "start": 0,
+          "username": "water_life147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957485334419370150",
+    "in_reply_to_user_id": "1610289819053330432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957381525953229311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water_life147 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_1957381523860262912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoEIBOakAA9Ri-.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1957381525953229311",
+        "created_at": "2025-08-18T16:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957485334419370150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957485334419370150",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957381525953229311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_life147 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957381523860262912"
+          ]
+        },
+        "author_id": "1610289819053330432",
+        "conversation_id": "1957381525953229311",
+        "created_at": "2025-08-18T09:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T10:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957381525953229311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kf0h8IfDes",
+              "end": 41,
+              "expanded_url": "https://x.com/water_life147/status/1957381525953229311/photo/1",
+              "media_key": "3_1957381523860262912",
+              "start": 18,
+              "url": "https://t.co/Kf0h8IfDes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957381525953229311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈爱在公厕打手枪的注意了 https://t.co/Kf0h8IfDes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 85,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 375
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "电子日记本🐶🐱🐰有自己的小世界│我超级爱钱我要努力赚钱│嘿嘿嘿我一直在偷偷努力靠近我想要的生活",
+        "id": "1610289819053330432",
+        "name": "米一兔物",
+        "pinned_tweet_id": "1954497552637694127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947578237930115073/8NL5Mqlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7957,
+          "following_count": 149,
+          "like_count": 9193,
+          "listed_count": 15,
+          "media_count": 1516,
+          "tweet_count": 16338
+        },
+        "username": "water_life147",
+        "verified": false
+      }
+    ]
+  }
+}

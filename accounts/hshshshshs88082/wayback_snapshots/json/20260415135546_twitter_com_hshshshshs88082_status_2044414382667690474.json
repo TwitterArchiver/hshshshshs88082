@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2044414382667690474",
+    "created_at": "2026-04-15T13:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044414382667690474"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044414382667690474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想急头白脸的圈一点钱，把想吃的蛋糕买来尝尝，再把想吃的药也买来尝尝，然后就这样安稳的死掉。光是这样想想都好幸福^⁠_⁠^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2044414382667690474",
+        "created_at": "2026-04-15T13:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044414382667690474"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044414382667690474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想急头白脸的圈一点钱，把想吃的蛋糕买来尝尝，再把想吃的药也买来尝尝，然后就这样安稳的死掉。光是这样想想都好幸福^⁠_⁠^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 63,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 669
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

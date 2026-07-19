@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1925868742933717174",
+    "created_at": "2025-09-06T02:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T03:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964158309541564751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1917927232905052160",
+          "start": 0,
+          "username": "Xy000812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964158309541564751",
+    "in_reply_to_user_id": "1917927232905052160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925868742933717174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xy000812 许愿谢谢你😭😭  昨晚四点多还焦虑的睡不着，什么方法都试了，最后还是听你这个音频睡着的🥹🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 992583,
+        "height": 480,
+        "media_key": "13_1925868238564462592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925868238564462592/img/ju-pCE7Cz1IW-VI5.jpg",
+        "public_metrics": {
+          "view_count": 25046
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925868238564462592/vid/avc1/270x270/1X0UClR_MBVhsHLl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925868238564462592/vid/avc1/360x360/ywOVKbvDa-Apr0pu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925868238564462592/vid/avc1/482x480/8YqBDUl7bMg5_M-Y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925868238564462592/pl/mJZx5TuMR4JqASrz.m3u8?v=512"
+          }
+        ],
+        "width": 482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1925868742933717174",
+        "created_at": "2025-09-06T02:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T03:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964158309541564751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1917927232905052160",
+              "start": 0,
+              "username": "Xy000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964158309541564751",
+        "in_reply_to_user_id": "1917927232905052160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925868742933717174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xy000812 许愿谢谢你😭😭  昨晚四点多还焦虑的睡不着，什么方法都试了，最后还是听你这个音频睡着的🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925868238564462592"
+          ]
+        },
+        "author_id": "1917927232905052160",
+        "conversation_id": "1925868742933717174",
+        "created_at": "2025-05-23T10:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T11:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925868742933717174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "哄睡"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "清水"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRnPeUHov4",
+              "end": 47,
+              "expanded_url": "https://x.com/Xy000812/status/1925868742933717174/video/1",
+              "media_key": "13_1925868238564462592",
+              "start": 24,
+              "url": "https://t.co/BRnPeUHov4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925868742933717174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 148226,
+          "like_count": 860,
+          "quote_count": 8,
+          "reply_count": 73,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "《小熊的故事》\n清水故事哄睡\n\n#哄睡 #清水 https://t.co/BRnPeUHov4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 78,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 446
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:01:16.000Z",
+        "description": "日常@Shadow000812/没有🚪 饭盒https://t.co/j520Y6mJtk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Shadow000812"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xuanyuan9527.fanbox.cc",
+                "end": 45,
+                "expanded_url": "https://xuanyuan9527.fanbox.cc",
+                "start": 22,
+                "url": "https://t.co/j520Y6mJtk"
+              }
+            ]
+          }
+        },
+        "id": "1917927232905052160",
+        "name": "许愿",
+        "pinned_tweet_id": "1958810968714006538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919327449453842432/OQUGgc_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101758,
+          "following_count": 31,
+          "like_count": 74,
+          "listed_count": 113,
+          "media_count": 144,
+          "tweet_count": 235
+        },
+        "username": "Xy000812",
+        "verified": false
+      }
+    ]
+  }
+}

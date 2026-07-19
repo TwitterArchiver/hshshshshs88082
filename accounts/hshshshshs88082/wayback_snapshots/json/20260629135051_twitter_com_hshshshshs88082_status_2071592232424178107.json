@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2071226960693563394",
+    "created_at": "2026-06-29T13:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T14:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071592232424178107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071592232424178107",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071226960693563394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 喜欢的是死目莉不论大小！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071226920776482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL556R4bwAAADjF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2071226920780591104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL556R5acAASNT0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2071226960693563394",
+        "created_at": "2026-06-29T13:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T14:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071592232424178107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071592232424178107",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071226960693563394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 喜欢的是死目莉不论大小！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071226920776482816",
+            "3_2071226920780591104"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2071226960693563394",
+        "created_at": "2026-06-28T13:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071226960693563394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 33,
+              "start": 27,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 60,
+              "start": 48,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 87,
+              "start": 70,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rxILamTMg",
+              "end": 112,
+              "expanded_url": "https://x.com/DrankghostU/status/2071226960693563394/photo/1",
+              "media_key": "3_2071226920776482816",
+              "start": 89,
+              "url": "https://t.co/1rxILamTMg"
+            },
+            {
+              "display_url": "pic.x.com/1rxILamTMg",
+              "end": 112,
+              "expanded_url": "https://x.com/DrankghostU/status/2071226960693563394/photo/1",
+              "media_key": "3_2071226920780591104",
+              "start": 89,
+              "url": "https://t.co/1rxILamTMg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071226960693563394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 991,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们更喜欢大的死目莉，还是小的死目莉喵？\n#雰囲気 ⁠#自撮り界隈\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠ https://t.co/1rxILamTMg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070147787904385024/-ty10e9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 98,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 807
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 203,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 837
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

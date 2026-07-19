@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1921605614704226697",
+    "created_at": "2025-05-13T15:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922311998680842690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1917927232905052160",
+          "start": 0,
+          "username": "Xy000812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922311998680842690",
+    "in_reply_to_user_id": "1917927232905052160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921605614704226697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xy000812 多录几个碎碎念吧🥹🙌，好爱这个好幸福的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 212041,
+        "height": 480,
+        "media_key": "13_1921605291831177216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921605291831177216/img/1mAJ1zChehEXLzZy.jpg",
+        "public_metrics": {
+          "view_count": 6136
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921605291831177216/vid/avc1/320x320/SvXGQKNHKBz-kH7d.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921605291831177216/vid/avc1/480x480/IzNQ4Wo2Bzx5hUdD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921605291831177216/pl/gn2RxNYRH4zbo0H0.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1921605614704226697",
+        "created_at": "2025-05-13T15:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922311998680842690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1917927232905052160",
+              "start": 0,
+              "username": "Xy000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922311998680842690",
+        "in_reply_to_user_id": "1917927232905052160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921605614704226697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xy000812 多录几个碎碎念吧🥹🙌，好爱这个好幸福的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921605291831177216"
+          ]
+        },
+        "author_id": "1917927232905052160",
+        "conversation_id": "1921605614704226697",
+        "created_at": "2025-05-11T16:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T17:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921605614704226697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKaqnForvy",
+              "end": 27,
+              "expanded_url": "https://x.com/Xy000812/status/1921605614704226697/video/1",
+              "media_key": "13_1921605291831177216",
+              "start": 4,
+              "url": "https://t.co/kKaqnForvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921605614704226697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 23678,
+          "like_count": 421,
+          "quote_count": 8,
+          "reply_count": 153,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "碎碎念 https://t.co/kKaqnForvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921126949532893184/h7ygRv4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 84
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:01:16.000Z",
+        "description": "https://t.co/j520Y6mJtk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xuanyuan9527.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://xuanyuan9527.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/j520Y6mJtk"
+              }
+            ]
+          }
+        },
+        "id": "1917927232905052160",
+        "name": "许愿",
+        "pinned_tweet_id": "1920857425625616848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919327449453842432/OQUGgc_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9981,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 10,
+          "media_count": 32,
+          "tweet_count": 54
+        },
+        "username": "Xy000812",
+        "verified": false
+      }
+    ]
+  }
+}

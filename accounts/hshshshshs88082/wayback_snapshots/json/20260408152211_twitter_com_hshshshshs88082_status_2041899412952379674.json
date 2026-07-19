@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2041898579246379228",
+    "created_at": "2026-04-08T15:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041899412952379674"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041899412952379674",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041898579246379228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说我装可爱，假装自己很笨很呆萌。我他爸那是吃药之后神智不清，我连路都看不清，我又没在你面前割腕，连疤都没给你看到，到底讨厌什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2041898579246379228",
+        "created_at": "2026-04-08T15:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041899412952379674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041899412952379674",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041898579246379228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我装可爱，假装自己很笨很呆萌。我他爸那是吃药之后神智不清，我连路都看不清，我又没在你面前割腕，连疤都没给你看到，到底讨厌什么。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2041898579246379228",
+        "created_at": "2026-04-08T15:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041898579246379228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041898579246379228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爸呀大哥，这个学我真的有点上不下去了。我没有惹任何人，我就每天专心经营自己的小唐人生活，又不迟到、又不违规、功课我也按时交了，我平时也不吵不闹就是爱上课的时候打瞌睡，我都这样了，你们还要讨厌我，到底怎么你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 643
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

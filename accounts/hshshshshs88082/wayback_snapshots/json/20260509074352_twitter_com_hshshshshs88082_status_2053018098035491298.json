@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052828071770918912"
+      ],
+      "media_source_tweet_id": [
+        "2052828086299918694"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "2053018098035491298",
+    "created_at": "2026-05-09T07:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053018098035491298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2049402409752121344",
+          "start": 3,
+          "username": "TvThsq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7FKFtwWZm",
+          "end": 55,
+          "expanded_url": "https://x.com/TvThsq/status/2052828086299918694/photo/1",
+          "media_key": "3_2052828071770918912",
+          "start": 32,
+          "url": "https://t.co/l7FKFtwWZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053018098035491298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052828086299918694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TvThsq: 哥哥…小兔子好可爱呀&gt;﹏&lt; https://t.co/l7FKFtwWZm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_2052828071770918912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH0cQULbEAA2C2Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052828071770918912"
+          ],
+          "media_source_tweet_id": [
+            "2052828086299918694"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "2053018098035491298",
+        "created_at": "2026-05-09T07:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053018098035491298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2049402409752121344",
+              "start": 3,
+              "username": "TvThsq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7FKFtwWZm",
+              "end": 55,
+              "expanded_url": "https://x.com/TvThsq/status/2052828086299918694/photo/1",
+              "media_key": "3_2052828071770918912",
+              "start": 32,
+              "url": "https://t.co/l7FKFtwWZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053018098035491298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052828086299918694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TvThsq: 哥哥…小兔子好可爱呀&gt;﹏&lt; https://t.co/l7FKFtwWZm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052828071770918912"
+          ]
+        },
+        "author_id": "2049402409752121344",
+        "conversation_id": "2052828086299918694",
+        "created_at": "2026-05-08T19:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T20:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052828086299918694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7FKFtwWZm",
+              "end": 43,
+              "expanded_url": "https://x.com/TvThsq/status/2052828086299918694/photo/1",
+              "media_key": "3_2052828071770918912",
+              "start": 20,
+              "url": "https://t.co/l7FKFtwWZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052828086299918694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 12742,
+          "like_count": 799,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥…小兔子好可爱呀&gt;﹏&lt; https://t.co/l7FKFtwWZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 68,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 758
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T08:17:57.000Z",
+        "description": "喜欢哥哥",
+        "id": "2049402409752121344",
+        "name": "TvT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049406649627246592/-6qge0Ti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 2,
+          "like_count": 4,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "username": "TvThsq",
+        "verified": false
+      }
+    ]
+  }
+}

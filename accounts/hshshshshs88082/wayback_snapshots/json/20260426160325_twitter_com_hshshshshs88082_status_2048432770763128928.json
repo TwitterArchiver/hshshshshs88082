@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2048431867402317934",
+    "created_at": "2026-04-26T16:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048432770763128928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048393340048293888",
+          "start": 0,
+          "username": "Numiouo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048432770763128928",
+    "in_reply_to_user_id": "2048393340048293888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048431867402317934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo2 Msk和举报我们糯米的健全逼过来道歉......."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2048431867402317934",
+        "created_at": "2026-04-26T16:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048432770763128928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048393340048293888",
+              "start": 0,
+              "username": "Numiouo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048432770763128928",
+        "in_reply_to_user_id": "2048393340048293888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048431867402317934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo2 Msk和举报我们糯米的健全逼过来道歉......."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048393340048293888",
+        "conversation_id": "2048431867402317934",
+        "created_at": "2026-04-26T15:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048431867402317934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048431867402317934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天前所未有地心情差，和推特三番四次禁我号有极大关联，现在头痛欲裂满脑子负面情绪，不敢发动态，怕发了又被禁，又要创一个号去一个个点互关还要等刷新cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 137,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 732
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:27:19.000Z",
+        "description": "bluesky🆔numiouo\n@Numiouo @Numiouo1 都是我\nfo受限制 没回fo就是还没刷新cd \n我爱你们 永远永远 其他的都不重要了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Numiouo"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "2048393340048293888",
+        "name": "糯米糖纸（另外两个号被害中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393697314979840/mkNygmZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 81,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "Numiouo2",
+        "verified": false
+      }
+    ]
+  }
+}

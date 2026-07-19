@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887755128851369984"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1887755131619582036",
+    "created_at": "2025-02-07T06:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887755131619582036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gSWFoeNUmT",
+          "end": 121,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1887755131619582036/photo/1",
+          "media_key": "3_1887755128851369984",
+          "start": 98,
+          "url": "https://t.co/gSWFoeNUmT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887755131619582036",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是新来我家的小仓鼠 在买他的时候没发现的生病了。到家之后才发现他的手上有一块很大的脓眼睛也睁不太开， 毕竟他只是刚满一个月的仓鼠宝宝💓 现在它来我家一个星期了 希望它可以越来越好， 变得胖胖的 https://t.co/gSWFoeNUmT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_1887755128851369984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKnSbYbkAAuDPU.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887755128851369984"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887755131619582036",
+        "created_at": "2025-02-07T06:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887755131619582036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSWFoeNUmT",
+              "end": 121,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1887755131619582036/photo/1",
+              "media_key": "3_1887755128851369984",
+              "start": 98,
+              "url": "https://t.co/gSWFoeNUmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887755131619582036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是新来我家的小仓鼠 在买他的时候没发现的生病了。到家之后才发现他的手上有一块很大的脓眼睛也睁不太开， 毕竟他只是刚满一个月的仓鼠宝宝💓 现在它来我家一个星期了 希望它可以越来越好， 变得胖胖的 https://t.co/gSWFoeNUmT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 41,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 36
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

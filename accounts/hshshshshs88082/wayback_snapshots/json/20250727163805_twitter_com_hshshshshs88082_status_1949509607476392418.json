@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1949374944263205033",
+    "created_at": "2025-07-27T16:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949509607476392418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895471254767104001",
+          "start": 0,
+          "username": "ling0100_miao"
+        },
+        {
+          "end": 27,
+          "id": "1617182103518515202",
+          "start": 15,
+          "username": "RyderMooney"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949509607476392418",
+    "in_reply_to_user_id": "1895471254767104001",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949476739534520505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling0100_miao @RyderMooney ."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1949374944263205033",
+        "created_at": "2025-07-27T16:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949509607476392418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895471254767104001",
+              "start": 0,
+              "username": "ling0100_miao"
+            },
+            {
+              "end": 27,
+              "id": "1617182103518515202",
+              "start": 15,
+              "username": "RyderMooney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949509607476392418",
+        "in_reply_to_user_id": "1895471254767104001",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949476739534520505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling0100_miao @RyderMooney ."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895471254767104001",
+        "conversation_id": "1949374944263205033",
+        "created_at": "2025-07-27T14:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949476739534520505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617182103518515202",
+              "start": 0,
+              "username": "RyderMooney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949476739534520505",
+        "in_reply_to_user_id": "1617182103518515202",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 884,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949374944263205033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyderMooney 👂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 308
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T13:49:27.000Z",
+        "description": "我爱我爱你. | 不准发鸡 | 喜欢183白皮青年音肌肉帅哥",
+        "id": "1895471254767104001",
+        "name": "凌晨一点的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946577893301129216/u2ASgXQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 102,
+          "like_count": 2247,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 717
+        },
+        "username": "ling0100_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T15:27:25.000Z",
+        "description": "brat | csj | 轻中度| 🪢| 推止于推 | 私信请带自我介绍 | 如果因我而感到幸福请上钩𐃆 ˒˒𑙕 .   ᩙ . ꛒ",
+        "id": "1617182103518515202",
+        "location": "广州",
+        "name": "Ryder Mooney",
+        "pinned_tweet_id": "1949497256651939896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889541836165033984/sz0CvdWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6405,
+          "following_count": 133,
+          "like_count": 249,
+          "listed_count": 15,
+          "media_count": 23,
+          "tweet_count": 206
+        },
+        "username": "RyderMooney",
+        "verified": false
+      }
+    ]
+  }
+}

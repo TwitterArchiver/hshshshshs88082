@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1793339643100025276",
+    "created_at": "2025-09-06T07:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T08:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964233933803212816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717356703182983168",
+          "start": 0,
+          "username": "chenmumu29"
+        },
+        {
+          "end": 27,
+          "id": "1600438389605429251",
+          "start": 12,
+          "username": "duojiaoyutouyu"
+        },
+        {
+          "end": 37,
+          "id": "1917927232905052160",
+          "start": 28,
+          "username": "Xy000812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964233933803212816",
+    "in_reply_to_user_id": "1717356703182983168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964225858291237167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenmumu29 @duojiaoyutouyu @Xy000812 对不起啊我不知道定制本不能录🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1793339643100025276",
+        "created_at": "2025-09-06T07:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964233933803212816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1717356703182983168",
+              "start": 0,
+              "username": "chenmumu29"
+            },
+            {
+              "end": 27,
+              "id": "1600438389605429251",
+              "start": 12,
+              "username": "duojiaoyutouyu"
+            },
+            {
+              "end": 37,
+              "id": "1917927232905052160",
+              "start": 28,
+              "username": "Xy000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964233933803212816",
+        "in_reply_to_user_id": "1717356703182983168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964225858291237167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenmumu29 @duojiaoyutouyu @Xy000812 对不起啊我不知道定制本不能录🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717356703182983168",
+        "conversation_id": "1793339643100025276",
+        "created_at": "2025-09-06T07:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964225858291237167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            },
+            {
+              "end": 32,
+              "id": "1600438389605429251",
+              "start": 17,
+              "username": "duojiaoyutouyu"
+            },
+            {
+              "end": 42,
+              "id": "1917927232905052160",
+              "start": 33,
+              "username": "Xy000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964225858291237167",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964054433320620451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 @duojiaoyutouyu @Xy000812 哥 这是我定制本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 77,
+          "like_count": 117,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 447
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T01:45:30.000Z",
+        "description": "只是喜欢分享自己的xp和欲望 补药扒我墙内身份球球了我要脸 不回私信是因为不知道回什么但是你可以随意在私信羞辱我 这会让我很爽",
+        "id": "1717356703182983168",
+        "name": "🧐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922936063275958273/rO1GhoJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 219,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 98
+        },
+        "username": "chenmumu29",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T10:33:52.000Z",
+        "description": "愿者上钩 | 台本娘 | 随缘更新 定制私信 | 录本自取 仅限于推上并艾特我 | 商用需本人许可 | 独家和定制不可录制 | 点梗请投https://t.co/BuUuhPuuUs | 🚫代入现实生活 | 搬运的一辈子发不了财 |  犯贱的当傻逼处理 | gl gb bg皆可代，🈲代bl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gyii10640",
+                "end": 91,
+                "expanded_url": "https://ngl.link/gyii10640",
+                "start": 68,
+                "url": "https://t.co/BuUuhPuuUs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "duojiaoyutou.fanbox.cc/posts",
+                "end": 23,
+                "expanded_url": "https://duojiaoyutou.fanbox.cc/posts",
+                "start": 0,
+                "url": "https://t.co/NxFzCCPJF0"
+              }
+            ]
+          }
+        },
+        "id": "1600438389605429251",
+        "location": "地球",
+        "name": "剁椒鱼头🐟（禁搬）",
+        "pinned_tweet_id": "1776288265978728848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865204729053335552/_iyly7wk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43889,
+          "following_count": 154,
+          "like_count": 15609,
+          "listed_count": 71,
+          "media_count": 454,
+          "tweet_count": 7223
+        },
+        "url": "https://t.co/NxFzCCPJF0",
+        "username": "duojiaoyutouyu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T13:01:16.000Z",
+        "description": "日常@Shadow000812/没有🚪 饭盒https://t.co/j520Y6mJtk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Shadow000812"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xuanyuan9527.fanbox.cc",
+                "end": 45,
+                "expanded_url": "https://xuanyuan9527.fanbox.cc",
+                "start": 22,
+                "url": "https://t.co/j520Y6mJtk"
+              }
+            ]
+          }
+        },
+        "id": "1917927232905052160",
+        "name": "许愿",
+        "pinned_tweet_id": "1958810968714006538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919327449453842432/OQUGgc_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101814,
+          "following_count": 31,
+          "like_count": 74,
+          "listed_count": 112,
+          "media_count": 144,
+          "tweet_count": 235
+        },
+        "username": "Xy000812",
+        "verified": false
+      }
+    ]
+  }
+}

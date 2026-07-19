@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1968652548866236891",
+    "created_at": "2025-09-18T12:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T13:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968656161646744025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968656161646744025",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968652548866236891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb 几分之几"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1968652548866236891",
+        "created_at": "2025-09-18T12:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968656161646744025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968656161646744025",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968652548866236891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb 几分之几"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867601056429223936",
+        "conversation_id": "1968652548866236891",
+        "created_at": "2025-09-18T12:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968652548866236891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "睦依’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MYxN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYxNlvnDBvGw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1968652591304151040/r4UrC9lu?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968652591304151040/r4UrC9lu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 爆爆爆",
+              "unwound_url": "https://twitter.com/i/spaces/1MYxNlvnDBvGw/peek",
+              "url": "https://t.co/AWftY3mDZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968652548866236891",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AWftY3mDZw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 456
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "接讲解题目文科5r一道，理科10r一道，大学20r包教会，私信题目（主播不会的学会了教你）🚪52+v。周二男粉福利。自用靠谱🪜：https://t.co/lgUT1XukjU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sulink.life/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://www.sulink.life/#/register?code=CSv9eIoC",
+                "start": 64,
+                "url": "https://t.co/lgUT1XukjU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccxxhmbb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccxxhmbb",
+                "start": 0,
+                "url": "https://t.co/GiNEYJ8Jbq"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "🚪52+v 匿名箱～",
+        "name": "睦依",
+        "pinned_tweet_id": "1966469502994149772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916067175665963012/uGwkZE0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16563,
+          "following_count": 70,
+          "like_count": 1703,
+          "listed_count": 22,
+          "media_count": 263,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/GiNEYJ8Jbq",
+        "username": "ccxxhmbb",
+        "verified": false
+      }
+    ]
+  }
+}

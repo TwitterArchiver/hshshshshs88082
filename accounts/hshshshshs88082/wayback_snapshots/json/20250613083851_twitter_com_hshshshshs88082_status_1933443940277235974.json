@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1932669659477913821",
+    "created_at": "2025-06-13T08:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T09:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933443940277235974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933443940277235974",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932669659477913821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 这个好好听🧟"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69535,
+        "height": 1280,
+        "media_key": "13_1932669550916743170",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932669550916743170/img/FsbONmKHnDTYE7fN.jpg",
+        "public_metrics": {
+          "view_count": 43
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932669550916743170/vid/avc1/320x568/BybtFHrvtsff84gH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932669550916743170/vid/avc1/480x852/k-TpS6VS45bfQ3ik.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932669550916743170/vid/avc1/720x1280/mD2aT8gMxcjvLuiJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932669550916743170/pl/68xmiAsA_7vF4zuo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1932669659477913821",
+        "created_at": "2025-06-13T08:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T09:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933443940277235974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933443940277235974",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932669659477913821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 这个好好听🧟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932669550916743170"
+          ]
+        },
+        "author_id": "1757634899002216448",
+        "conversation_id": "1932669659477913821",
+        "created_at": "2025-06-11T05:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932669659477913821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yuooNCQGl9",
+              "end": 35,
+              "expanded_url": "https://x.com/haohaochifantt/status/1932669659477913821/video/1",
+              "media_key": "13_1932669550916743170",
+              "start": 12,
+              "url": "https://t.co/yuooNCQGl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932669659477913821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "伴奏声音大了 这波我的 https://t.co/yuooNCQGl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 79,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 189
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "https://t.co/E1HexE7AL6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 0,
+                "url": "https://t.co/E1HexE7AL6"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "name": "宁宴",
+        "pinned_tweet_id": "1932662794211794981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757640975512731648/0jPeP9Fl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 430
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

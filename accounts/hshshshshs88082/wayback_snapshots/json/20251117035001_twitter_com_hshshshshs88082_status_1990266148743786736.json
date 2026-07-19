@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1986055902969962702",
+    "created_at": "2025-11-17T03:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T04:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990266148743786736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1055506212551188481",
+          "start": 0,
+          "username": "KuangKu57395139"
+        },
+        {
+          "end": 29,
+          "id": "1026144163002077184",
+          "start": 17,
+          "username": "JasonLi1996"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990266148743786736",
+    "in_reply_to_user_id": "1055506212551188481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986055902969962702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuangKu57395139 @JasonLi1996 欢迎"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83866,
+        "height": 1080,
+        "media_key": "13_1973407469738295296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1973407469738295296/img/7ye0FB09skq8GRM-.jpg",
+        "public_metrics": {
+          "view_count": 137219
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973407469738295296/vid/avc1/540x540/BSFZtvD5tUhjT4HN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1973407469738295296/pl/PBlKmA5uFEMn27VZ.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973407469738295296/vid/avc1/1080x1080/0VxbAw_ygGtqsjo1.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973407469738295296/vid/avc1/320x320/xOWaBSQY8R09FbP5.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1973407469738295296/vid/avc1/720x720/l_L-P5jD51Z2aOLg.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1986055902969962702",
+        "created_at": "2025-11-17T03:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T04:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990266148743786736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1055506212551188481",
+              "start": 0,
+              "username": "KuangKu57395139"
+            },
+            {
+              "end": 29,
+              "id": "1026144163002077184",
+              "start": 17,
+              "username": "JasonLi1996"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990266148743786736",
+        "in_reply_to_user_id": "1055506212551188481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986055902969962702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuangKu57395139 @JasonLi1996 欢迎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1973407469738295296"
+          ]
+        },
+        "author_id": "1055506212551188481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986055902969962702",
+        "created_at": "2025-11-05T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986055902969962702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1026144163002077184",
+              "start": 26,
+              "username": "JasonLi1996"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Free, Uncensored Photos/Videos Plus Premium Content. Watch HD videos and photos at JustFor.Fans. Login for free and interact with your favorite performers one on one. Text them, chat with them, and watch their videos.",
+              "display_url": "justfor.fans/LANG?Post=ZWI2…",
+              "end": 165,
+              "expanded_url": "https://justfor.fans/LANG?Post=ZWI2OTVhN2Q0MjA4OWFmMjNhODYxZTQ1MThlYjNhYzE=&OnlyShowOnePost=yes",
+              "start": 142,
+              "status": 200,
+              "title": "JustFor.Fans",
+              "unwound_url": "https://justfor.fans/ageverify.php",
+              "url": "https://t.co/Fb0KHOiNOk"
+            },
+            {
+              "display_url": "pic.x.com/sIq7BNylOI",
+              "end": 189,
+              "expanded_url": "https://x.com/KuangKu57395139/status/1986055902969962702/video/1",
+              "media_key": "13_1973407469738295296",
+              "start": 166,
+              "url": "https://t.co/sIq7BNylOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986055902969962702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1361,
+          "impression_count": 266781,
+          "like_count": 4797,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 665
+        },
+        "reply_settings": "everyone",
+        "text": "慾望中毒的兩位應該是色色病毒感染⋯剛被強暴的小獸醫\n@JasonLi1996居然自己玩起奶頭硬著勾引浪浪⋯浪狗胯下還挺著強暴人家的硬狗屌，下一秒就握著獸醫屌自己坐上去\n\n浪浪爽搖了幾下、又嫌抽插速度不過癮、立馬又推翻獸醫，反攻插入親自示範！\n——\n點看完整影片\nfull video\nhttps://t.co/Fb0KHOiNOk https://t.co/sIq7BNylOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985788804607983622/oCE5-1Jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 91,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 596
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-25T17:07:46.000Z",
+        "description": "⚠️注意⚠️ 含有成人內容🔞 ［已達法定年齡並同意進入網站始可申請追蹤，申請追蹤視同已達法定年齡並同意進入網站。］ 影片可能包含客觀上足以刺激或滿足性慾，而令一般人感覺不堪呈現於眾，或不能忍受之資訊。若網站內容可能造成您的不適，請勿申請追蹤並立刻離開。 👉🏻申請追蹤將視同已閱讀且同意以上資訊。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "justfor.fans/LANG",
+                "end": 23,
+                "expanded_url": "https://justfor.fans/LANG",
+                "start": 0,
+                "url": "https://t.co/2QNFQZZRCV"
+              }
+            ]
+          }
+        },
+        "id": "1055506212551188481",
+        "name": "肉便犬育成訓練",
+        "pinned_tweet_id": "1988592619321278907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973411670052769792/-y2Sha2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222360,
+          "following_count": 1365,
+          "like_count": 10925,
+          "listed_count": 4069,
+          "media_count": 876,
+          "tweet_count": 8227
+        },
+        "url": "https://t.co/2QNFQZZRCV",
+        "username": "KuangKu57395139",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-05T16:33:28.000Z",
+        "description": "17060💦🇹🇼https://t.co/fDt34Sagqk 【宣告事項 Announcement】 此推特作品為成人閱讀內容，瀏覽前請務必確認為18歲以上之成年人。 未成年請勿觀看",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/liltejason",
+                "end": 31,
+                "expanded_url": "http://onlyfans.com/liltejason",
+                "start": 8,
+                "url": "https://t.co/fDt34Sagqk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fansone.co/liltejason",
+                "end": 23,
+                "expanded_url": "https://fansone.co/liltejason",
+                "start": 0,
+                "url": "https://t.co/GC55RTsAsn"
+              }
+            ]
+          }
+        },
+        "id": "1026144163002077184",
+        "location": "Us, France",
+        "name": "子鈞 JASON",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918469527790288896/vPA5u-06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40407,
+          "following_count": 141,
+          "like_count": 27897,
+          "listed_count": 75,
+          "media_count": 278,
+          "tweet_count": 9576
+        },
+        "url": "https://t.co/GC55RTsAsn",
+        "username": "JasonLi1996",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1958883939298193747",
+    "created_at": "2025-08-23T05:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T06:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959123142401466415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959123142401466415",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959123003201266077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 天天  你怎么365天都在刷推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1958883939298193747",
+        "created_at": "2025-08-23T05:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T06:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959123142401466415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959123142401466415",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959123003201266077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 天天  你怎么365天都在刷推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "1958883939298193747",
+        "created_at": "2025-08-23T05:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T06:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959123003201266077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959123003201266077",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959122865434882193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 正常都这样…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 72,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 443
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "希望大家都能好好吃饭 天天开心 提问箱在这里！！➡️https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 49,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 26,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "🚪52｜互关免费",
+        "name": "宁宴",
+        "pinned_tweet_id": "1938911391056064533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934107749304180736/SmZV7_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 116,
+          "like_count": 5820,
+          "listed_count": 5,
+          "media_count": 413,
+          "tweet_count": 2467
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

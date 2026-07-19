@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2042274850669199473",
+    "created_at": "2026-04-09T16:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042274850669199473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042274850669199473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们这些雷霆大猪，下课大喊大叫就算了。能不能不要莫名其妙跟疯狗一样在教室跑，还要推来推去，一个个雷霆大猪撞到我多少回了。能不能对自己的体重体味有点自知之明，还在那里笑笑笑，笑你大爷。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2042274850669199473",
+        "created_at": "2026-04-09T16:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042274850669199473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042274850669199473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些雷霆大猪，下课大喊大叫就算了。能不能不要莫名其妙跟疯狗一样在教室跑，还要推来推去，一个个雷霆大猪撞到我多少回了。能不能对自己的体重体味有点自知之明，还在那里笑笑笑，笑你大爷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 57,
+          "like_count": 110,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 645
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2041898579246379228",
+    "created_at": "2026-04-08T15:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041902213254279637"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041902213254279637",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041898579246379228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要这样对我，我就是很脆弱，不要再欺负我了。你就算讨厌我也不要这么明显，在我面前翻白眼吼我什么的真的很过分。我讨厌这个世界。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2041898579246379228",
+        "created_at": "2026-04-08T15:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041902213254279637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041902213254279637",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041898579246379228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要这样对我，我就是很脆弱，不要再欺负我了。你就算讨厌我也不要这么明显，在我面前翻白眼吼我什么的真的很过分。我讨厌这个世界。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2041898579246379228",
+        "created_at": "2026-04-08T15:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041898579246379228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041898579246379228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爸呀大哥，这个学我真的有点上不下去了。我没有惹任何人，我就每天专心经营自己的小唐人生活，又不迟到、又不违规、功课我也按时交了，我平时也不吵不闹就是爱上课的时候打瞌睡，我都这样了，你们还要讨厌我，到底怎么你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 644
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

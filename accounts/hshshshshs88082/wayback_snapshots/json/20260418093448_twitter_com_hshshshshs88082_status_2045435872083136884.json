@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2045435872083136884",
+    "created_at": "2026-04-18T09:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045435872083136884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1785546408659148800",
+          "start": 3,
+          "username": "wandering10111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045435872083136884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044782578021056921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wandering10111: 你像是那种断联了还会反复回看聊天记录的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2045435872083136884",
+        "created_at": "2026-04-18T09:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045435872083136884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1785546408659148800",
+              "start": 3,
+              "username": "wandering10111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045435872083136884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044782578021056921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wandering10111: 你像是那种断联了还会反复回看聊天记录的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785546408659148800",
+        "conversation_id": "2044782578021056921",
+        "created_at": "2026-04-16T14:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T15:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044782578021056921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044782578021056921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 100696,
+          "like_count": 1736,
+          "quote_count": 62,
+          "reply_count": 187,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "你像是那种断联了还会反复回看聊天记录的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 64,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 696
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T05:47:02.000Z",
+        "description": "该如何安心入睡",
+        "id": "1785546408659148800",
+        "name": "树",
+        "pinned_tweet_id": "2013333737120113062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027421197391245312/NIufbQxq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 62,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 301
+        },
+        "username": "wandering10111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1889879201282662702",
+    "created_at": "2025-02-13T12:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T13:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890015390824386820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757944489346568192",
+          "start": 0,
+          "username": "shaoguanwai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890015390824386820",
+    "in_reply_to_user_id": "1757944489346568192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889879201282662702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoguanwai2 可以要一个白羊的吗?求求了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1889879201282662702",
+        "created_at": "2025-02-13T12:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T13:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890015390824386820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757944489346568192",
+              "start": 0,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890015390824386820",
+        "in_reply_to_user_id": "1757944489346568192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889879201282662702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoguanwai2 可以要一个白羊的吗?求求了😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889879190041927682"
+          ]
+        },
+        "author_id": "1757944489346568192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1889879201282662702",
+        "created_at": "2025-02-13T03:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T04:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889879201282662702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lceMkjxkkQ",
+              "end": 42,
+              "expanded_url": "https://x.com/shaoguanwai2/status/1889879201282662702/photo/1",
+              "media_key": "3_1889879190041927682",
+              "start": 19,
+              "url": "https://t.co/lceMkjxkkQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889879201282662702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24863,
+          "like_count": 118,
+          "quote_count": 15,
+          "reply_count": 45,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "有没有适合做主人的星座？\n有的有的🤲 https://t.co/lceMkjxkkQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 43,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 40
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T01:47:49.000Z",
+        "description": "一些碎碎念 一些奇奇怪怪的文案 提问箱 https://t.co/hcNRO2Dip0 希望大家一切顺利天天开心 不闲聊不接推广 🚪288 可以找我聊天 照片会比推上发的多 但是我可能也不经常发 不退门槛 谨慎入",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oiiiii36411",
+                "end": 43,
+                "expanded_url": "https://ngl.link/oiiiii36411",
+                "start": 20,
+                "url": "https://t.co/hcNRO2Dip0"
+              }
+            ]
+          }
+        },
+        "id": "1757944489346568192",
+        "location": "随便",
+        "name": "Oiiiii",
+        "pinned_tweet_id": "1866489037739250108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875547046725480449/wgthGEHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10794,
+          "following_count": 165,
+          "like_count": 20491,
+          "listed_count": 17,
+          "media_count": 881,
+          "tweet_count": 13656
+        },
+        "username": "shaoguanwai2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899358500146581504"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1899358502940004693",
+    "created_at": "2025-03-11T07:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T08:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899358502940004693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GVfUwNXwqh",
+          "end": 102,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1899358502940004693/photo/1",
+          "media_key": "3_1899358500146581504",
+          "start": 79,
+          "url": "https://t.co/GVfUwNXwqh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899358502940004693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和父母分享快乐 快乐会消失，和父母诉说烦恼 烦恼会加倍\n不说话=哑巴 \n解释＝顶嘴\n沉默＝耍性子\n不说话＝赌气 \n哭＝矫情\n不动＝傻了\n 那我到底要怎么办呢 https://t.co/GVfUwNXwqh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 703,
+        "media_key": "3_1899358500146581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glvgfh5bEAAmYhK.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899358500146581504"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1899358502940004693",
+        "created_at": "2025-03-11T07:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T08:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899358502940004693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVfUwNXwqh",
+              "end": 102,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1899358502940004693/photo/1",
+              "media_key": "3_1899358500146581504",
+              "start": 79,
+              "url": "https://t.co/GVfUwNXwqh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899358502940004693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和父母分享快乐 快乐会消失，和父母诉说烦恼 烦恼会加倍\n不说话=哑巴 \n解释＝顶嘴\n沉默＝耍性子\n不说话＝赌气 \n哭＝矫情\n不动＝傻了\n 那我到底要怎么办呢 https://t.co/GVfUwNXwqh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 45,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 57
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

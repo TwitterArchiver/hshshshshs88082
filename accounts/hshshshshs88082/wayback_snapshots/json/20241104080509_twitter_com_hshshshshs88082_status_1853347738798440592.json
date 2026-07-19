@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1851212565491433694",
+    "created_at": "2024-11-04T08:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T09:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853347738798440592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1849094193979052032",
+          "start": 0,
+          "username": "jieer2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853347738798440592",
+    "in_reply_to_user_id": "1849094193979052032",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851212565491433694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jieer2024 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1851212565491433694",
+        "created_at": "2024-11-04T08:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T09:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853347738798440592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849094193979052032",
+              "start": 0,
+              "username": "jieer2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853347738798440592",
+        "in_reply_to_user_id": "1849094193979052032",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851212565491433694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jieer2024 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849094193979052032",
+        "conversation_id": "1851212565491433694",
+        "created_at": "2024-10-29T10:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T11:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851212565491433694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851212565491433694",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 54448,
+          "like_count": 466,
+          "quote_count": 5,
+          "reply_count": 42,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "找点刺激的事情做\n本帖的点赞数决定未来一个月上班的状态\n500：真空\n1000：肛塞\n1500：无线跳蛋（电量大概能用2-3小时）\n2000：有线跳蛋（把电源绑在腿上 能用一整天）\n3000：肛塞换成郊狼的电击肛塞\n4000：郊狼随机交给一位粉丝控制\n4000以上：每100赞增加一天\n评论=2赞  转发=5赞\n截止到这个月底"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "",
+        "id": "1776553425934909440",
+        "name": "抽象姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838340710254383104/6WJJD_uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 48,
+          "like_count": 8,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T14:23:13.000Z",
+        "description": "在职国企前台，目标是睡遍公司所有男人，终极目标是睡公司总裁",
+        "id": "1849094193979052032",
+        "name": "中建魅魔 捷儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849095071238610944/5Wmqsm2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 1,
+          "tweet_count": 20
+        },
+        "username": "jieer2024",
+        "verified": false
+      }
+    ]
+  }
+}

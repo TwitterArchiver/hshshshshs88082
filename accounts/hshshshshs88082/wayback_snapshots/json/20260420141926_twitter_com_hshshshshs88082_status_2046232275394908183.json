@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2046230533068497001",
+    "created_at": "2026-04-20T14:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046232275394908183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046232275394908183",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046230533068497001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人的欲望是会越来越多的当简单的划破表皮已满足不了我的话我是不是会像大家一样越弄越深到我是不是会买药效更严重的药物服用大量的药物我会变成什么样子我不知道我一直在焦虑焦虑未来焦虑现在焦虑的后果就是做出一系列伤害自己的行为可是在做这些行为的时候我也在焦虑这简直就是一个死循环对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2046230533068497001",
+        "created_at": "2026-04-20T14:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046232275394908183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046232275394908183",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046230533068497001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人的欲望是会越来越多的当简单的划破表皮已满足不了我的话我是不是会像大家一样越弄越深到我是不是会买药效更严重的药物服用大量的药物我会变成什么样子我不知道我一直在焦虑焦虑未来焦虑现在焦虑的后果就是做出一系列伤害自己的行为可是在做这些行为的时候我也在焦虑这简直就是一个死循环对吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2046230533068497001",
+        "created_at": "2026-04-20T14:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046230533068497001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046230533068497001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天的比赛赢了，我应该是开心的吧。我应该要感到开心的，可是不知道为什么还是好低落，我真的好累好累，我不想上学不想考试不想研究一大堆看不懂的公式我讨厌花时间去维护人际关系讨厌要花一大堆的时间去听他们说他们的烦心事讨厌什么事情都要我出面讨厌没有任何东西能让我依赖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 707
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

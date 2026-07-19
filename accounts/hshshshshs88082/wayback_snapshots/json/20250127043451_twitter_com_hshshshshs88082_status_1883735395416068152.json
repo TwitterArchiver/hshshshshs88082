@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883735392408784896"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1882792761008767017",
+    "created_at": "2025-01-27T04:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T05:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883735395416068152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864468641305251844",
+          "start": 0,
+          "username": "AkaNpc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PkY5TCunwM",
+          "end": 46,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1883735395416068152/photo/1",
+          "media_key": "3_1883735392408784896",
+          "start": 23,
+          "url": "https://t.co/PkY5TCunwM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883735395416068152",
+    "in_reply_to_user_id": "1864468641305251844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882792761008767017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaNpc 还好我没道德，不会被道德绑架 https://t.co/PkY5TCunwM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1883735392408784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiRfW-NbUAAyi3J.jpg",
+        "width": 1043
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883735392408784896"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1882792761008767017",
+        "created_at": "2025-01-27T04:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T05:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883735395416068152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864468641305251844",
+              "start": 0,
+              "username": "AkaNpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkY5TCunwM",
+              "end": 46,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1883735395416068152/photo/1",
+              "media_key": "3_1883735392408784896",
+              "start": 23,
+              "url": "https://t.co/PkY5TCunwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883735395416068152",
+        "in_reply_to_user_id": "1864468641305251844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882792761008767017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaNpc 还好我没道德，不会被道德绑架 https://t.co/PkY5TCunwM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "1882792761008767017",
+        "created_at": "2025-01-24T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:08:52.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882792690146050500",
+          "1882792761008767017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882792761008767017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 58107,
+          "like_count": 1092,
+          "quote_count": 10,
+          "reply_count": 32,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "原生家庭最让人最窒息的 不是父母一味地压制你 而是他们让你窒息的同时\n又让你感觉到他们内心是爱你的\n这时候你的内心就会有一种很强烈的负罪感\n\n这种感觉像一件湿透的棉袄\n穿上冷，脱下也冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "分享(发疯)日常 、有几只小仓鼠",
+        "id": "1776553425934909440",
+        "name": "抽象姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882442320240676865/CPJ-rS0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 42,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 39
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️活着玩玩的，什么都没当真至少要见面上万次｜ 放个创可贴 ᕳᕲ 创飞随意拿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akanpc",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akanpc",
+                "start": 0,
+                "url": "https://t.co/axvcrnKSfM"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "迷失表參道",
+        "name": "曼醬⛓︎",
+        "pinned_tweet_id": "1868660805266473000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872590302583926785/o3oKSA94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 42,
+          "like_count": 4640,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/axvcrnKSfM",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

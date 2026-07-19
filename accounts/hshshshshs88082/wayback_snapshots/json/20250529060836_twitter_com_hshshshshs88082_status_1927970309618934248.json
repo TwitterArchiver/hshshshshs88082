@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1927959856004141266",
+    "created_at": "2025-05-29T06:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T07:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927970309618934248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        },
+        {
+          "end": 26,
+          "id": "1513454564418097156",
+          "start": 10,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927970309618934248",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927959856004141266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb @nengyiqishuime1 竟然是这个老师🌚？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50041,
+        "height": 480,
+        "media_key": "13_1927959757132025856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927959757132025856/img/sljxd1wox2QXotXF.jpg",
+        "public_metrics": {
+          "view_count": 1126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927959757132025856/vid/avc1/472x270/SchIlPVKAMKe2iPB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927959757132025856/vid/avc1/630x360/LnQKTy6Ys4to6C81.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927959757132025856/vid/avc1/842x480/IrqeIzL9eMlGSExJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927959757132025856/pl/RtNGocJtL0fcHSlk.m3u8"
+          }
+        ],
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1927959856004141266",
+        "created_at": "2025-05-29T06:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T07:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927970309618934248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            },
+            {
+              "end": 26,
+              "id": "1513454564418097156",
+              "start": 10,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927970309618934248",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927959856004141266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb @nengyiqishuime1 竟然是这个老师🌚？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927959757132025856"
+          ]
+        },
+        "author_id": "1867601056429223936",
+        "conversation_id": "1927959856004141266",
+        "created_at": "2025-05-29T05:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T06:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927959856004141266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1513454564418097156",
+              "start": 2,
+              "username": "nengyiqishuime1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfxjyFiOvM",
+              "end": 42,
+              "expanded_url": "https://x.com/ccxxhmbb/status/1927959856004141266/video/1",
+              "media_key": "13_1927959757132025856",
+              "start": 19,
+              "url": "https://t.co/bfxjyFiOvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927959856004141266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3856,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️@nengyiqishuime1 https://t.co/bfxjyFiOvM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 107
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "接讲解题目文科5r一道，理科10r一道，大学20r包教会，私信题目（主播不会的学会了教你）🚪52+v。周二男粉福利。自用靠谱🪜：https://t.co/lgUT1XtMum",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sulink.life/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://www.sulink.life/#/register?code=CSv9eIoC",
+                "start": 64,
+                "url": "https://t.co/lgUT1XtMum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccxxhmbb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccxxhmbb",
+                "start": 0,
+                "url": "https://t.co/GiNEYJ8blS"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "🚪52+v",
+        "name": "睦依",
+        "pinned_tweet_id": "1923220079463776417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916067175665963012/uGwkZE0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15749,
+          "following_count": 23,
+          "like_count": 593,
+          "listed_count": 18,
+          "media_count": 201,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/GiNEYJ8blS",
+        "username": "ccxxhmbb",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱https://t.co/nxBFBJXoz4  没门槛不加好友私信看到都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 18,
+                "url": "https://t.co/nxBFBJXoz4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYy69V"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1927352115929751955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76814,
+          "following_count": 459,
+          "like_count": 877,
+          "listed_count": 162,
+          "media_count": 38,
+          "tweet_count": 12360
+        },
+        "url": "https://t.co/WG38OYy69V",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

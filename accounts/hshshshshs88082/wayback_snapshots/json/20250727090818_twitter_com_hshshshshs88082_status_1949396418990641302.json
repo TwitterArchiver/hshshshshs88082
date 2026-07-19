@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949396415832264704"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1949106684317896927",
+    "created_at": "2025-07-27T09:08:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T10:08:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949396418990641302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894753734149988353",
+          "start": 0,
+          "username": "yolo0630"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kUlr1ZwpxD",
+          "end": 89,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1949396418990641302/photo/1",
+          "media_key": "3_1949396415832264704",
+          "start": 66,
+          "url": "https://t.co/kUlr1ZwpxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949396418990641302",
+    "in_reply_to_user_id": "1894753734149988353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949238680373375444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yolo0630 人别怕。是熊来晚了   好在一切都还来得及 ，熊的车就停在外面。走吧，这次我们一定会从讨厌的生活中成功逃掉的。 https://t.co/kUlr1ZwpxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_1949396415832264704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw2ltjwaEAAmO_V.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949396415832264704"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1949106684317896927",
+        "created_at": "2025-07-27T09:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T10:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949396418990641302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kUlr1ZwpxD",
+              "end": 89,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1949396418990641302/photo/1",
+              "media_key": "3_1949396415832264704",
+              "start": 66,
+              "url": "https://t.co/kUlr1ZwpxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949396418990641302",
+        "in_reply_to_user_id": "1894753734149988353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949238680373375444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 人别怕。是熊来晚了   好在一切都还来得及 ，熊的车就停在外面。走吧，这次我们一定会从讨厌的生活中成功逃掉的。 https://t.co/kUlr1ZwpxD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894753734149988353",
+        "conversation_id": "1949106684317896927",
+        "created_at": "2025-07-26T22:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T23:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949238680373375444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949238680373375444",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949236561113149590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 熊 人好怕  我不想忘记很多东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 83,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 302
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:18:04.000Z",
+        "description": "07/巨蟹/infp 随缘回私信 不陪聊 不线下 好想睡觉💤",
+        "id": "1894753734149988353",
+        "location": "🚪88/128/188",
+        "name": "yolo",
+        "pinned_tweet_id": "1933219472828977572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930183882525290501/L3D2pelJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 83,
+          "like_count": 871,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 756
+        },
+        "username": "yolo0630",
+        "verified": false
+      }
+    ]
+  }
+}

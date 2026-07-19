@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052526925428744192"
+      ],
+      "media_source_tweet_id": [
+        "2052526931393077426"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "2053018108093501752",
+    "created_at": "2026-05-09T07:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053018108093501752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2016263127890087936",
+          "start": 3,
+          "username": "indifferanii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AH3Vikx9y0",
+          "end": 49,
+          "expanded_url": "https://x.com/indifferanii/status/2052526931393077426/photo/1",
+          "media_key": "3_2052526925428744192",
+          "start": 26,
+          "url": "https://t.co/AH3Vikx9y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053018108093501752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052526931393077426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @indifferanii: 誇我（拜託啦） https://t.co/AH3Vikx9y0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052526925428744192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwKXSoa4AAHlJe.jpg",
+        "width": 1230
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052526925428744192"
+          ],
+          "media_source_tweet_id": [
+            "2052526931393077426"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "2053018108093501752",
+        "created_at": "2026-05-09T07:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053018108093501752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2016263127890087936",
+              "start": 3,
+              "username": "indifferanii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AH3Vikx9y0",
+              "end": 49,
+              "expanded_url": "https://x.com/indifferanii/status/2052526931393077426/photo/1",
+              "media_key": "3_2052526925428744192",
+              "start": 26,
+              "url": "https://t.co/AH3Vikx9y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053018108093501752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052526931393077426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @indifferanii: 誇我（拜託啦） https://t.co/AH3Vikx9y0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052526925428744192"
+          ]
+        },
+        "author_id": "2016263127890087936",
+        "conversation_id": "2052526931393077426",
+        "created_at": "2026-05-07T23:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T00:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052526931393077426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AH3Vikx9y0",
+              "end": 31,
+              "expanded_url": "https://x.com/indifferanii/status/2052526931393077426/photo/1",
+              "media_key": "3_2052526925428744192",
+              "start": 8,
+              "url": "https://t.co/AH3Vikx9y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052526931393077426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 39689,
+          "like_count": 2331,
+          "quote_count": 1,
+          "reply_count": 181,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "誇我（拜託啦） https://t.co/AH3Vikx9y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 68,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 759
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T21:38:19.000Z",
+        "description": "講話好笑再私訊 不好笑要收錢",
+        "id": "2016263127890087936",
+        "location": "小狗收容所",
+        "name": "“”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016264806328655872/5AI-s53Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 40,
+          "like_count": 205,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 167
+        },
+        "username": "indifferanii",
+        "verified": false
+      }
+    ]
+  }
+}

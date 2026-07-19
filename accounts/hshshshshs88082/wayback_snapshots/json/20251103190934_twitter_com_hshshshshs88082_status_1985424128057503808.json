@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1985424128057503808",
+    "created_at": "2025-11-03T19:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T20:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985424128057503808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1985424128057503808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起有个作业还没做去看了一下截止日期，发现是明天（周三 ）  我想了很久 今天怎么会是周二呢。我真的想了三个多小时怎么会是周二呢。然后发现 我是在凌晨12点多的时候看的   那今天确实是周二，我要被自己蠢笑了怎么搞🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1985424128057503808",
+        "created_at": "2025-11-03T19:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985424128057503808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985424128057503808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起有个作业还没做去看了一下截止日期，发现是明天（周三 ）  我想了很久 今天怎么会是周二呢。我真的想了三个多小时怎么会是周二呢。然后发现 我是在凌晨12点多的时候看的   那今天确实是周二，我要被自己蠢笑了怎么搞🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 558
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

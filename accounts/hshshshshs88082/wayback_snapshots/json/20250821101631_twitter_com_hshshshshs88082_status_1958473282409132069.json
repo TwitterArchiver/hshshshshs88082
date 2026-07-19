@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1958404342454890667",
+    "created_at": "2025-08-21T10:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T11:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958473282409132069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1121214017941323776",
+          "start": 0,
+          "username": "akf13978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958473282409132069",
+    "in_reply_to_user_id": "1121214017941323776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958404342454890667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akf13978 我和你的关系是你公开  还是我造谣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1958404342454890667",
+        "created_at": "2025-08-21T10:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T11:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958473282409132069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1121214017941323776",
+              "start": 0,
+              "username": "akf13978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958473282409132069",
+        "in_reply_to_user_id": "1121214017941323776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958404342454890667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akf13978 我和你的关系是你公开  还是我造谣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121214017941323776",
+        "conversation_id": "1958404342454890667",
+        "created_at": "2025-08-21T05:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T06:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958404342454890667"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958404342454890667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2324,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你好，怕你不知道 提醒一下还有一个星期就是七夕了，而你还没找到人陪你一起过。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 72,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 440
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-25T00:47:07.000Z",
+        "description": "常刷推/随口吐槽/碎碎念/会念念感兴趣的本",
+        "id": "1121214017941323776",
+        "location": "Taiwan",
+        "name": "青由也",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954457828523200512/cbxRnQHY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 734,
+          "like_count": 702,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 999
+        },
+        "username": "akf13978",
+        "verified": false
+      }
+    ]
+  }
+}

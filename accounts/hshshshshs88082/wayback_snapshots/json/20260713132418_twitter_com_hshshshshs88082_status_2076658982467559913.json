@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2076299473391894705",
+    "created_at": "2026-07-13T13:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076658982467559913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894753734149988353",
+          "start": 0,
+          "username": "yolo0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076658982467559913",
+    "in_reply_to_user_id": "1894753734149988353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076334338191569110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yolo0630 真正的好朋友的话，我希望不要强迫我对每句话每件事做出回应，然后请尊重我爱割、爱喝酒、爱自残，就算不理解。我又不会特地去给别人看，真的不小心看到吓到你了对不起，请尊重我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2076299473391894705",
+        "created_at": "2026-07-13T13:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076658982467559913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076658982467559913",
+        "in_reply_to_user_id": "1894753734149988353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076334338191569110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 真正的好朋友的话，我希望不要强迫我对每句话每件事做出回应，然后请尊重我爱割、爱喝酒、爱自残，就算不理解。我又不会特地去给别人看，真的不小心看到吓到你了对不起，请尊重我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894753734149988353",
+        "conversation_id": "2076299473391894705",
+        "created_at": "2026-07-12T15:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076334338191569110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076334338191569110",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076299473391894705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070147787904385024/-ty10e9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 95,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:18:04.000Z",
+        "description": "07/巨蟹/infp 随缘回私信 不陪聊 不线下 不约炮 好想睡觉💤",
+        "id": "1894753734149988353",
+        "location": "🚪88/128/188",
+        "name": "yolo",
+        "pinned_tweet_id": "2071651100445528072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066741004468957184/TMoVmGWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 99,
+          "like_count": 1560,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "yolo0630",
+        "verified": false
+      }
+    ]
+  }
+}

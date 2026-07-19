@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1988519634912350413",
+    "created_at": "2025-11-12T12:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988583315524481053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988583315524481053",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988519634912350413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 大学了还管玩手机啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_1988519626482085890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ikEI1bcAIMODw.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1988519634912350413",
+        "created_at": "2025-11-12T12:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988583315524481053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988583315524481053",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988519634912350413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 大学了还管玩手机啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988519626482085890"
+          ]
+        },
+        "author_id": "1757634899002216448",
+        "conversation_id": "1988519634912350413",
+        "created_at": "2025-11-12T08:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T09:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988519634912350413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzmvpZHGUP",
+              "end": 28,
+              "expanded_url": "https://x.com/haohaochifantt/status/1988519634912350413/photo/1",
+              "media_key": "3_1988519626482085890",
+              "start": 5,
+              "url": "https://t.co/mzmvpZHGUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988519634912350413",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1975,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。。 https://t.co/mzmvpZHGUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985788804607983622/oCE5-1Jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 587
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "希望大家都能好好吃饭 天天开心 提问箱在这里！！➡️https://t.co/E1HexE7AL6 推广自辨！！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 49,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 26,
+                "url": "https://t.co/E1HexE7AL6"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "🚪52",
+        "name": "宁宴",
+        "pinned_tweet_id": "1938911391056064533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934107749304180736/SmZV7_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 164,
+          "like_count": 10444,
+          "listed_count": 7,
+          "media_count": 635,
+          "tweet_count": 3967
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

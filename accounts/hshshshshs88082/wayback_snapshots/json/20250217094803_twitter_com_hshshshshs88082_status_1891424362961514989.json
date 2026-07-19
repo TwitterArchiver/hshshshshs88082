@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1891180716106363283",
+    "created_at": "2025-02-17T09:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T10:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891424362961514989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1272206846191734785",
+          "start": 0,
+          "username": "LINJIANG_AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891424362961514989",
+    "in_reply_to_user_id": "1272206846191734785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891180716106363283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINJIANG_AN 不管 发稿的原博主在不在意，没有经过别人同意偷别人东西就是不对啊!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1891180716106363283",
+        "created_at": "2025-02-17T09:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T10:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891424362961514989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1272206846191734785",
+              "start": 0,
+              "username": "LINJIANG_AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891424362961514989",
+        "in_reply_to_user_id": "1272206846191734785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891180716106363283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINJIANG_AN 不管 发稿的原博主在不在意，没有经过别人同意偷别人东西就是不对啊!!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891180713623629824"
+          ]
+        },
+        "author_id": "1272206846191734785",
+        "conversation_id": "1891180716106363283",
+        "created_at": "2025-02-16T17:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T18:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891180716106363283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pi7QYDLJ7H",
+              "end": 40,
+              "expanded_url": "https://x.com/LINJIANG_AN/status/1891180716106363283/photo/1",
+              "media_key": "3_1891180713623629824",
+              "start": 17,
+              "url": "https://t.co/pi7QYDLJ7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891180716106363283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4378,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "留到这个日记号吧，不影响大家观感 https://t.co/pi7QYDLJ7H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-14T16:38:50.000Z",
+        "description": "@AN_LINJIANG的零碎日常",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AN_LINJIANG"
+              }
+            ]
+          }
+        },
+        "id": "1272206846191734785",
+        "location": "太原",
+        "name": "临江的日记📸",
+        "pinned_tweet_id": "1855207322530005103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827983588111065088/4wLaMPRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3624,
+          "following_count": 24,
+          "like_count": 330,
+          "listed_count": 7,
+          "media_count": 163,
+          "tweet_count": 411
+        },
+        "username": "LINJIANG_AN",
+        "verified": false
+      }
+    ]
+  }
+}

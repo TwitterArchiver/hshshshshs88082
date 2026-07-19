@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1927844552242614595",
+    "created_at": "2025-05-29T13:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T14:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928083131908903009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1724478615973494784",
+          "start": 0,
+          "username": "yuan_7302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928083131908903009",
+    "in_reply_to_user_id": "1724478615973494784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927844552242614595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan_7302 我和朋友亲过也没什么呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1927844552242614595",
+        "created_at": "2025-05-29T13:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T14:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928083131908903009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1724478615973494784",
+              "start": 0,
+              "username": "yuan_7302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928083131908903009",
+        "in_reply_to_user_id": "1724478615973494784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927844552242614595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan_7302 我和朋友亲过也没什么呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724478615973494784",
+        "conversation_id": "1927844552242614595",
+        "created_at": "2025-05-28T21:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T22:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927844552242614595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927844552242614595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4815,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "亲过嘴的还可以说是朋友吗🌚❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 113
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T17:25:27.000Z",
+        "description": "滚",
+        "id": "1724478615973494784",
+        "name": "緣",
+        "pinned_tweet_id": "1923562748333654303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884892043652304896/jFPyLAbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4788,
+          "following_count": 199,
+          "like_count": 13700,
+          "listed_count": 11,
+          "media_count": 578,
+          "tweet_count": 5410
+        },
+        "username": "yuan_7302",
+        "verified": false
+      }
+    ]
+  }
+}

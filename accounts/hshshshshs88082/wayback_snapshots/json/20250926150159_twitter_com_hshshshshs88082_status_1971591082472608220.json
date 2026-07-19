@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1971520853469999120",
+    "created_at": "2025-09-26T15:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T16:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971591082472608220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868312744824582144",
+          "start": 0,
+          "username": "mengchaochenren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971591082472608220",
+    "in_reply_to_user_id": "1868312744824582144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971520853469999120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengchaochenren 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1971520846679388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1w_w7WaMAAUWIf.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1971520853469999120",
+        "created_at": "2025-09-26T15:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T16:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971591082472608220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868312744824582144",
+              "start": 0,
+              "username": "mengchaochenren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971591082472608220",
+        "in_reply_to_user_id": "1868312744824582144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971520853469999120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengchaochenren 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971520846679388160"
+          ]
+        },
+        "author_id": "1868312744824582144",
+        "conversation_id": "1971520853469999120",
+        "created_at": "2025-09-26T10:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T11:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971520853469999120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kstpxc5RMc",
+              "end": 141,
+              "expanded_url": "https://x.com/mengchaochenren/status/1971520853469999120/photo/1",
+              "media_key": "3_1971520846679388160",
+              "start": 118,
+              "url": "https://t.co/kstpxc5RMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971520853469999120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10919,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 98,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "【抽奖】\n这次依旧抽自选，中奖的从秒潮pro、迷路、分欣plus、偷欢mini、口口舱、元气葫芦中任选一个吧\n评+转+关参与，下周二晚开抽\n\n中秋国庆活动已开启，置顶已刷新，店铺产品太多就不一一调整价格了，提x来的可领取活动大额优惠券 https://t.co/kstpxc5RMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 81,
+          "like_count": 75,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 471
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T15:10:59.000Z",
+        "description": "淘宝店铺同名，下单说明X来的有额外优惠。询价包惊喜！利润看心情！撒娇更优惠！每周抽奖！可发海外。 支持比价，有更优惠的可截图改价！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.tb.cn/c.0DhALV",
+                "end": 23,
+                "expanded_url": "https://s.tb.cn/c.0DhALV",
+                "start": 0,
+                "url": "https://t.co/dnbkU1e8cx"
+              }
+            ]
+          }
+        },
+        "id": "1868312744824582144",
+        "location": "男店主，店铺直达👉",
+        "name": "啪啪熊的妙妙屋（卖大人玩具版）",
+        "pinned_tweet_id": "1971507800892473561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880596065097007104/Aly3Sdtc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 274,
+          "like_count": 2528,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 2771
+        },
+        "url": "https://t.co/dnbkU1e8cx",
+        "username": "mengchaochenren",
+        "verified": false
+      }
+    ]
+  }
+}

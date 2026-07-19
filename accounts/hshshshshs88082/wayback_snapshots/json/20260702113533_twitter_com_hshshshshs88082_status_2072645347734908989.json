@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2072592279630655552",
+    "created_at": "2026-07-02T11:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072645347734908989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        },
+        {
+          "end": 22,
+          "id": "1840708439544352768",
+          "start": 13,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072645347734908989",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072592279630655552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU @seiunn04 死目莉自信起来！你就是很漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18829,
+        "height": 3840,
+        "media_key": "13_2072592061560467456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072592061560467456/img/c3Nx1DtV_qtKTWHo.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072592061560467456/vid/avc1/720x1280/wCTFSQBLay0eJ30S.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072592061560467456/vid/avc1/320x568/D5zDg5UlWegobPgg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072592061560467456/vid/avc1/480x852/MzH9ICSCIwFSqqy6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072592061560467456/pl/pbRhAhzZXWQAjrtz.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072592061560467456/vid/avc1/2160x3840/ENNYdyEX_lumY0tQ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072592061560467456/vid/avc1/1080x1920/bP43GJOdSmnft-Nt.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2072592279630655552",
+        "created_at": "2026-07-02T11:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072645347734908989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            },
+            {
+              "end": 22,
+              "id": "1840708439544352768",
+              "start": 13,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072645347734908989",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072592279630655552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU @seiunn04 死目莉自信起来！你就是很漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072592061560467456"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2072592279630655552",
+        "created_at": "2026-07-02T08:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072592279630655552"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "踊ってみた"
+            },
+            {
+              "end": 122,
+              "start": 110,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 135,
+              "start": 123,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 143,
+              "start": 136,
+              "tag": "承認欲求の塊"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1840708439544352768",
+              "start": 21,
+              "username": "seiunn04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQmzEwBwR3",
+              "end": 167,
+              "expanded_url": "https://x.com/DrankghostU/status/2072592279630655552/video/1",
+              "media_key": "13_2072592061560467456",
+              "start": 144,
+              "url": "https://t.co/nQmzEwBwR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072592279630655552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "雰囲気"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "自撮り界隈"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "踊ってみた"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "tag": "病み垢さんと繋がりたい"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "tag": "地雷系女子と繋がりたい"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "承認欲求の塊"
+              },
+              {
+                "end": 162,
+                "start": 145,
+                "tag": "雰囲気嫌いじゃないよって人いいね"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 30,
+                "id": "1840708439544352768",
+                "start": 21,
+                "username": "seiunn04"
+              }
+            ]
+          },
+          "text": "不知道打什么文案那就感谢赞助本条视频穿搭的@seiunn04 😈\n\n大病初愈的死目莉酱堂堂复活！！最近发现自己打扮一下也可以很漂亮所以每次出门前都花半个小时学手势舞hhh……\n\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道打什么文案那就感谢赞助本条视频穿搭的@seiunn04 😈\n\n大病初愈的死目莉酱堂堂复活！！最近发现自己打扮一下也可以很漂亮所以每次出门前都花半个小时学手势舞hhh……\n\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊 https://t.co/nQmzEwBwR3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070147787904385024/-ty10e9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 96,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 811
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 203,
+          "like_count": 171,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 865
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "雨上がりの一番星",
+        "id": "1840708439544352768",
+        "location": "Davis,CA",
+        "name": "测地线上的魔法使",
+        "pinned_tweet_id": "1970613742728867938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028540981914853376/ru-GqwEY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 1322,
+          "like_count": 15783,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 3466
+        },
+        "url": "",
+        "username": "seiunn04",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1958224333572288654",
+    "created_at": "2025-08-20T22:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T23:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958301244260298940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955305837465116672",
+          "start": 0,
+          "username": "kiki_0368"
+        },
+        {
+          "end": 25,
+          "id": "1824731467815010305",
+          "start": 11,
+          "username": "ChunQingXiaoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958301244260298940",
+    "in_reply_to_user_id": "1955305837465116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958224333572288654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_0368 @ChunQingXiaoQ 这个超好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1958224333572288654",
+        "created_at": "2025-08-20T22:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T23:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958301244260298940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955305837465116672",
+              "start": 0,
+              "username": "kiki_0368"
+            },
+            {
+              "end": 25,
+              "id": "1824731467815010305",
+              "start": 11,
+              "username": "ChunQingXiaoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958301244260298940",
+        "in_reply_to_user_id": "1955305837465116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958224333572288654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_0368 @ChunQingXiaoQ 这个超好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955305837465116672",
+        "conversation_id": "1958224333572288654",
+        "created_at": "2025-08-20T17:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T18:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958224333572288654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958224333572288654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 814,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只喜欢看真情侣的小视频🥺\n做爱做爱得和爱的人做才有兴趣\n做前做后都很重要\n很享受躺在怀里长久的温存\n好多片纯虐待也是看不下去一点\n此女没救了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 72,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 438
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:30:23.000Z",
+        "description": "01 吃点好的 偶尔做饭 很多碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiyokiii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiyokiii",
+                "start": 0,
+                "url": "https://t.co/eNTdssAQrr"
+              }
+            ]
+          }
+        },
+        "id": "1955305837465116672",
+        "location": "右边提问箱👉🏻",
+        "name": "kiyoki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955310439526699012/CBEjyfD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 71,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/eNTdssAQrr",
+        "username": "kiki_0368",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T08:54:30.000Z",
+        "description": "记录和老公的恋/do爱碎片丨情侣丨不接推广 匿名信箱：https://t.co/nXJUhYtfCt丨只此一个号无完整版丨不玩墙内社交软件",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh98288",
+                "end": 50,
+                "expanded_url": "https://ngl.link/hhh98288",
+                "start": 27,
+                "url": "https://t.co/nXJUhYtfCt"
+              }
+            ]
+          }
+        },
+        "id": "1824731467815010305",
+        "location": "要你掏钱的都是假号",
+        "name": "纯情小泉",
+        "pinned_tweet_id": "1842552749784719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824732452017065984/PqfsByEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657676,
+          "following_count": 35,
+          "like_count": 3902,
+          "listed_count": 1048,
+          "media_count": 135,
+          "tweet_count": 2996
+        },
+        "username": "ChunQingXiaoQ",
+        "verified": true
+      }
+    ]
+  }
+}

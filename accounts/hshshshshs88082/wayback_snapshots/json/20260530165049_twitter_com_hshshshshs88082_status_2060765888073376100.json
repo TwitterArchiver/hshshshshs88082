@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2060738744827912363",
+    "created_at": "2026-05-30T16:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060765888073376100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044109004973191169",
+          "start": 0,
+          "username": "Kisskittyii7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060765888073376100",
+    "in_reply_to_user_id": "2044109004973191169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060738744827912363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisskittyii7 我就这样什么好事都赶不上。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2060738729392939008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk29MRbIAArnHA.jpg",
+        "width": 1132
+      },
+      {
+        "height": 1034,
+        "media_key": "3_2060738729405497344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk29MUawAAQZ-b.jpg",
+        "width": 1125
+      },
+      {
+        "height": 887,
+        "media_key": "3_2060738729397125120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk29MSbAAAtmKp.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2060738744827912363",
+        "created_at": "2026-05-30T16:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060765888073376100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044109004973191169",
+              "start": 0,
+              "username": "Kisskittyii7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060765888073376100",
+        "in_reply_to_user_id": "2044109004973191169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060738744827912363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisskittyii7 我就这样什么好事都赶不上。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060738729392939008",
+            "3_2060738729405497344",
+            "3_2060738729397125120"
+          ]
+        },
+        "author_id": "2044109004973191169",
+        "conversation_id": "2060738744827912363",
+        "created_at": "2026-05-30T15:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060738744827912363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xLP0jTLmEt",
+              "end": 55,
+              "expanded_url": "https://x.com/Kisskittyii7/status/2060738744827912363/photo/1",
+              "media_key": "3_2060738729392939008",
+              "start": 32,
+              "url": "https://t.co/xLP0jTLmEt"
+            },
+            {
+              "display_url": "pic.x.com/xLP0jTLmEt",
+              "end": 55,
+              "expanded_url": "https://x.com/Kisskittyii7/status/2060738744827912363/photo/1",
+              "media_key": "3_2060738729405497344",
+              "start": 32,
+              "url": "https://t.co/xLP0jTLmEt"
+            },
+            {
+              "display_url": "pic.x.com/xLP0jTLmEt",
+              "end": 55,
+              "expanded_url": "https://x.com/Kisskittyii7/status/2060738744827912363/photo/1",
+              "media_key": "3_2060738729397125120",
+              "start": 32,
+              "url": "https://t.co/xLP0jTLmEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060738744827912363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10580,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止有神奇宝贝说我引流 那我就先抽完啦 希望宝宝们天天开心 https://t.co/xLP0jTLmEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 78,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 768
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T17:47:43.000Z",
+        "description": "前任幸福了 暧昧对象恋爱了 喜欢的人互删了 常看的网站被封了 种的菜被人偷了",
+        "id": "2044109004973191169",
+        "name": "年糕",
+        "pinned_tweet_id": "2058918037978493419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044110688436793348/2-UK3npE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2378,
+          "following_count": 9,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 39
+        },
+        "username": "Kisskittyii7",
+        "verified": false
+      }
+    ]
+  }
+}

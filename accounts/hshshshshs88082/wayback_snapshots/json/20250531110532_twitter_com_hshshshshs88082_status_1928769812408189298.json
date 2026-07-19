@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1928690336802484242",
+    "created_at": "2025-05-31T11:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928769812408189298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896294590938021888",
+          "start": 0,
+          "username": "tuitearmond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928769812408189298",
+    "in_reply_to_user_id": "1896294590938021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928690336802484242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuitearmond 肛交？什么感觉喔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1928690327273017344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQVok7XEAAdYPy.jpg",
+        "width": 782
+      },
+      {
+        "height": 1643,
+        "media_key": "3_1928690327289827328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQVok_XkAAgJp9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928690327289774080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQVok_WwAAUeRc.jpg",
+        "width": 1547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1928690336802484242",
+        "created_at": "2025-05-31T11:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928769812408189298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896294590938021888",
+              "start": 0,
+              "username": "tuitearmond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928769812408189298",
+        "in_reply_to_user_id": "1896294590938021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928690336802484242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitearmond 肛交？什么感觉喔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928690327273017344",
+            "3_1928690327289827328",
+            "3_1928690327289774080"
+          ]
+        },
+        "author_id": "1896294590938021888",
+        "conversation_id": "1928690336802484242",
+        "created_at": "2025-05-31T05:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928690336802484242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xOKqjsSV84",
+              "end": 33,
+              "expanded_url": "https://x.com/tuitearmond/status/1928690336802484242/photo/1",
+              "media_key": "3_1928690327273017344",
+              "start": 10,
+              "url": "https://t.co/xOKqjsSV84"
+            },
+            {
+              "display_url": "pic.x.com/xOKqjsSV84",
+              "end": 33,
+              "expanded_url": "https://x.com/tuitearmond/status/1928690336802484242/photo/1",
+              "media_key": "3_1928690327289827328",
+              "start": 10,
+              "url": "https://t.co/xOKqjsSV84"
+            },
+            {
+              "display_url": "pic.x.com/xOKqjsSV84",
+              "end": 33,
+              "expanded_url": "https://x.com/tuitearmond/status/1928690336802484242/photo/1",
+              "media_key": "3_1928690327289774080",
+              "start": 10,
+              "url": "https://t.co/xOKqjsSV84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928690336802484242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直是个变态来的 https://t.co/xOKqjsSV84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 126
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T20:20:44.000Z",
+        "description": "做个自由的人。有门槛 没什么东西不建议入。可以私信问我。其他闲聊也可以私信我。 匿名提问https://t.co/Dcb7zTwwJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mang67630",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mang67630",
+                "start": 44,
+                "url": "https://t.co/Dcb7zTwwJf"
+              }
+            ]
+          }
+        },
+        "id": "1896294590938021888",
+        "name": "芒",
+        "pinned_tweet_id": "1921246029921361970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896297641379864576/EG1W9j8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 81,
+          "like_count": 527,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 342
+        },
+        "username": "tuitearmond",
+        "verified": false
+      }
+    ]
+  }
+}

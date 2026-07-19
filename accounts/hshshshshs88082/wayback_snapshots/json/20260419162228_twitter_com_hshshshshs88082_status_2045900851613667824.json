@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2045700550713389428",
+    "created_at": "2026-04-19T16:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045900851613667824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        },
+        {
+          "end": 26,
+          "id": "1954919788402343937",
+          "start": 17,
+          "username": "bie77862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045900851613667824",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045779262041698564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird @bie77862 我就这样每天都赶不上好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2045700550713389428",
+        "created_at": "2026-04-19T16:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045900851613667824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            },
+            {
+              "end": 26,
+              "id": "1954919788402343937",
+              "start": 17,
+              "username": "bie77862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045900851613667824",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045779262041698564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird @bie77862 我就这样每天都赶不上好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985353024244793345",
+        "conversation_id": "2045700550713389428",
+        "created_at": "2026-04-19T08:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045779262041698564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954919788402343937",
+              "start": 0,
+              "username": "bie77862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045779262041698564",
+        "in_reply_to_user_id": "1954919788402343937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045777231855988914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bie77862 活动刚结束。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 701
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv",
+        "id": "1985353024244793345",
+        "location": "好友位288",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2028806063185911906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 340,
+          "like_count": 21376,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 2241
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T14:56:27.000Z",
+        "description": "感谢您的到来，祝您生活愉快",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chsnlunbbb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chsnlunbbb",
+                "start": 0,
+                "url": "https://t.co/yAjDw3ComQ"
+              }
+            ]
+          }
+        },
+        "id": "1954919788402343937",
+        "location": "🚪199",
+        "name": "番薯仔",
+        "pinned_tweet_id": "2039293168752238914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020609612568035328/Zdk6W8ZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 124,
+          "like_count": 2988,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 5058
+        },
+        "url": "https://t.co/yAjDw3ComQ",
+        "username": "bie77862",
+        "verified": false
+      }
+    ]
+  }
+}

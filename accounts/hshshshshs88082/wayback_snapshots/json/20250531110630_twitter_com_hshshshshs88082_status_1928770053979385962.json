@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1928647450929115382",
+    "created_at": "2025-05-31T11:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928770053979385962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1896294590938021888",
+          "start": 0,
+          "username": "tuitearmond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928770053979385962",
+    "in_reply_to_user_id": "1896294590938021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928647450929115382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuitearmond 真的我也有这种感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1928647450929115382",
+        "created_at": "2025-05-31T11:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928770053979385962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1896294590938021888",
+              "start": 0,
+              "username": "tuitearmond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928770053979385962",
+        "in_reply_to_user_id": "1896294590938021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928647450929115382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuitearmond 真的我也有这种感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896294590938021888",
+        "conversation_id": "1928647450929115382",
+        "created_at": "2025-05-31T02:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T03:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928647450929115382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928647450929115382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 364,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里有一部分是搞玄学的\n我学了点但还是不太信，感觉都是数学大数据。\n但是我回老家之后\n每次到祠堂祭祖，我低头拜拜倾诉的时候，都能感觉到背后缓缓升起的暖意。\n\n或许真的有人在看不见的地方关照着我们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 127
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T20:20:44.000Z",
+        "description": "做个自由的人。有门槛 没什么东西不建议入。可以私信问我。其他闲聊也可以私信我。 匿名提问https://t.co/Dcb7zTwwJf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mang67630",
+                "end": 67,
+                "expanded_url": "https://ngl.link/mang67630",
+                "start": 44,
+                "url": "https://t.co/Dcb7zTwwJf"
+              }
+            ]
+          }
+        },
+        "id": "1896294590938021888",
+        "name": "芒",
+        "pinned_tweet_id": "1921246029921361970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896297641379864576/EG1W9j8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 81,
+          "like_count": 527,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 342
+        },
+        "username": "tuitearmond",
+        "verified": false
+      }
+    ]
+  }
+}

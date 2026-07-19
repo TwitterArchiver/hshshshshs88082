@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052394832363130880"
+      ],
+      "media_source_tweet_id": [
+        "2052394850801377644"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "2053018170194383216",
+    "created_at": "2026-05-09T07:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053018170194383216"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "les"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "wlw"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "女同性恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1671442034748719104",
+          "start": 3,
+          "username": "LuvSic_softlic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0Ume5Cd6e",
+          "end": 63,
+          "expanded_url": "https://x.com/LuvSic_softlic/status/2052394850801377644/photo/1",
+          "media_key": "3_2052394832363130880",
+          "start": 40,
+          "url": "https://t.co/K0Ume5Cd6e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053018170194383216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052394850801377644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuvSic_softlic: 两个字…#les #wlw #女同性恋 https://t.co/K0Ume5Cd6e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052394832363130880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuSOdnaEAAVUAN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052394832363130880"
+          ],
+          "media_source_tweet_id": [
+            "2052394850801377644"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "2053018170194383216",
+        "created_at": "2026-05-09T07:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053018170194383216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "les"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "wlw"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "女同性恋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1671442034748719104",
+              "start": 3,
+              "username": "LuvSic_softlic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0Ume5Cd6e",
+              "end": 63,
+              "expanded_url": "https://x.com/LuvSic_softlic/status/2052394850801377644/photo/1",
+              "media_key": "3_2052394832363130880",
+              "start": 40,
+              "url": "https://t.co/K0Ume5Cd6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053018170194383216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052394850801377644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuvSic_softlic: 两个字…#les #wlw #女同性恋 https://t.co/K0Ume5Cd6e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052394832363130880"
+          ]
+        },
+        "author_id": "1671442034748719104",
+        "conversation_id": "2052394850801377644",
+        "created_at": "2026-05-07T14:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052394850801377644"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "les"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "wlw"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0Ume5Cd6e",
+              "end": 43,
+              "expanded_url": "https://x.com/LuvSic_softlic/status/2052394850801377644/photo/1",
+              "media_key": "3_2052394832363130880",
+              "start": 20,
+              "url": "https://t.co/K0Ume5Cd6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052394850801377644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7957,
+          "like_count": 467,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "两个字…#les #wlw #女同性恋 https://t.co/K0Ume5Cd6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 68,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 764
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-21T08:57:00.000Z",
+        "description": "",
+        "id": "1671442034748719104",
+        "name": "Chloe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046641664094343168/7R1vjtPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 3,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 49
+        },
+        "username": "LuvSic_softlic",
+        "verified": false
+      }
+    ]
+  }
+}

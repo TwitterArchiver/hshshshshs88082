@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2072674794810871963",
+    "created_at": "2026-07-02T13:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072674794810871963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2036079525172523008",
+          "start": 3,
+          "username": "mnheraaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072674794810871963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071780135154356413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnheraaa: 和患有精神疾病的朋友相处，会让你感到更安全，也能和他们谈论任何你想谈的事情(⁠◡⁠ ⁠ω⁠ ⁠◡⁠)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2072674794810871963",
+        "created_at": "2026-07-02T13:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072674794810871963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2036079525172523008",
+              "start": 3,
+              "username": "mnheraaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072674794810871963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071780135154356413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnheraaa: 和患有精神疾病的朋友相处，会让你感到更安全，也能和他们谈论任何你想谈的事情(⁠◡⁠ ⁠ω⁠ ⁠◡⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036079525172523008",
+        "conversation_id": "2071780135154356413",
+        "created_at": "2026-06-30T02:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071780135154356413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071780135154356413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 481,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和患有精神疾病的朋友相处，会让你感到更安全，也能和他们谈论任何你想谈的事情(⁠◡⁠ ⁠ω⁠ ⁠◡⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070147787904385024/-ty10e9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 96,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:56:26.000Z",
+        "description": "NEET 一个年轻、孤独、爱猫且精神不稳定的女孩 🎀@divineleison 女朋友🩸‼️BFF @stonedkangel ❤️‍🩹🎀\n20y 🐾 INFP ❤️‍🩹 sh/drug ‼️ br📍@VirtualShoujo 🎀 @Mnherarin main",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "divineleison"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "stonedkangel"
+              },
+              {
+                "end": 114,
+                "start": 100,
+                "username": "VirtualShoujo"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Mnherarin"
+              }
+            ]
+          }
+        },
+        "id": "2036079525172523008",
+        "location": "nb 💢 she/he",
+        "name": "メンヘラ💢",
+        "pinned_tweet_id": "2065668188818301225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065984211945701376/1oOgOe0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 130,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "mnheraaa",
+        "verified": false
+      }
+    ]
+  }
+}

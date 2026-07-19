@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1927748603767927143",
+    "created_at": "2025-05-29T02:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T03:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927915879339008241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1513454564418097156",
+          "start": 0,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927915879339008241",
+    "in_reply_to_user_id": "1513454564418097156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927789243717259387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nengyiqishuime1 Hhhh什么突然间就反了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1927748603767927143",
+        "created_at": "2025-05-29T02:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T03:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927915879339008241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513454564418097156",
+              "start": 0,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927915879339008241",
+        "in_reply_to_user_id": "1513454564418097156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927789243717259387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nengyiqishuime1 Hhhh什么突然间就反了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513454564418097156",
+        "conversation_id": "1927748603767927143",
+        "created_at": "2025-05-28T18:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927789243717259387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927789243717259387",
+        "in_reply_to_user_id": "1513454564418097156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5539,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927748603767927143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不好看 别看 浪费时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 106
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱https://t.co/nxBFBJXoz4  没门槛不加好友私信看到都会回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 18,
+                "url": "https://t.co/nxBFBJXoz4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYy69V"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1927352115929751955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76753,
+          "following_count": 459,
+          "like_count": 877,
+          "listed_count": 160,
+          "media_count": 37,
+          "tweet_count": 12333
+        },
+        "url": "https://t.co/WG38OYy69V",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

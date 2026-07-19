@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2040835618587234806",
+    "created_at": "2026-04-05T16:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040835803983843824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040835803983843824",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040835618587234806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说什么我自杀了父母怎么办、朋友怎么办、亲人怎么办，他们爱咋办咋办，我都要自杀了你怎么不问问我咋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2040835618587234806",
+        "created_at": "2026-04-05T16:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040835803983843824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040835803983843824",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040835618587234806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说什么我自杀了父母怎么办、朋友怎么办、亲人怎么办，他们爱咋办咋办，我都要自杀了你怎么不问问我咋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2040835618587234806",
+        "created_at": "2026-04-05T16:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040835618587234806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040835618587234806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类早死晚死都是要死的，谁也不能保证最后一刻的时候不是痛苦的走的，能够安安稳稳死去的人很少对吧。那我自己选择死期和死法 ，早一点结束有什么问题，为什么全都在指责我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 637
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2045112765136916795",
+    "created_at": "2026-04-17T16:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045173655236460681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800150674761728000",
+          "start": 0,
+          "username": "0___qwq___0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045173655236460681",
+    "in_reply_to_user_id": "1800150674761728000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045112765136916795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0___qwq___0 生日快乐🎂！不哭不哭我请你喝奶茶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2045112765136916795",
+        "created_at": "2026-04-17T16:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045173655236460681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800150674761728000",
+              "start": 0,
+              "username": "0___qwq___0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045173655236460681",
+        "in_reply_to_user_id": "1800150674761728000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045112765136916795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0___qwq___0 生日快乐🎂！不哭不哭我请你喝奶茶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800150674761728000",
+        "conversation_id": "2045112765136916795",
+        "created_at": "2026-04-17T12:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045112765136916795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045112765136916795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的过生日我就只能一个人哭我好想死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 64,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 677
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:59:13.000Z",
+        "description": "she/they/any｜pan｜mostly nonsense｜some fanart ｜Think twice before you follow⚠️sh/od｜中文/EN🤏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq89065",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwq89065",
+                "start": 0,
+                "url": "https://t.co/B0VUQT66x1"
+              }
+            ]
+          }
+        },
+        "id": "1800150674761728000",
+        "location": "my room",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 685,
+          "like_count": 2304,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/B0VUQT66x1",
+        "username": "0___qwq___0",
+        "verified": false
+      }
+    ]
+  }
+}

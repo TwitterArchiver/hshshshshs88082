@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1934975143098380731",
+    "created_at": "2025-06-18T11:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935297309161685213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935297309161685213",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934975143098380731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiia 我以为会有一堆拉屎的来着🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1934975143098380731",
+        "created_at": "2025-06-18T11:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T12:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935297309161685213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935297309161685213",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934975143098380731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiia 我以为会有一堆拉屎的来着🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870067454765838336",
+        "conversation_id": "1934975143098380731",
+        "created_at": "2025-06-17T14:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T15:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934975143098380731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934975143098380731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1598,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊…大家在干嘛👁️👁️👁️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 81,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 257
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "脾气很坏/0社交能力求求你们别孤立我/xp混乱/不安。。/互fo宝宝加我v 爱泥萌 @航站楼站楼 我老公",
+        "id": "1870067454765838336",
+        "location": "🚪88（纯绿",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1935282401632018854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 204,
+          "like_count": 806,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 245
+        },
+        "username": "chessiia",
+        "verified": false
+      }
+    ]
+  }
+}

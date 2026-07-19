@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1957476676046401989",
+    "created_at": "2025-08-18T16:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T17:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957476676046401989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1826321786834944000",
+          "start": 3,
+          "username": "hgds520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957476676046401989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957099653834706974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds520: 在你看来很敷衍的回复是我这个文盲绞尽脑汁想的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1957476676046401989",
+        "created_at": "2025-08-18T16:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957476676046401989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1826321786834944000",
+              "start": 3,
+              "username": "hgds520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957476676046401989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957099653834706974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds520: 在你看来很敷衍的回复是我这个文盲绞尽脑汁想的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1957099653834706974",
+        "created_at": "2025-08-17T15:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957099653834706974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957099653834706974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20357,
+          "like_count": 234,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "在你看来很敷衍的回复是我这个文盲绞尽脑汁想的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 85,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 374
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "你读这句话的时候这几秒就没了 因为我是时间掠夺者 专门发无聊的东西来浪费你的时间",
+        "id": "1826321786834944000",
+        "location": "乱发的",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1953803355685372350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 430,
+          "like_count": 6648,
+          "listed_count": 6,
+          "media_count": 66,
+          "tweet_count": 407
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

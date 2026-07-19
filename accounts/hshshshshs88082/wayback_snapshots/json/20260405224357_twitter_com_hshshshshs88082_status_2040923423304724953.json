@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2039321091651612828",
+    "created_at": "2026-04-05T22:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T23:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040923423304724953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396136992866332680",
+          "start": 0,
+          "username": "anzai34714870"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040923423304724953",
+    "in_reply_to_user_id": "1396136992866332680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039321091651612828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anzai34714870 ？原始人舔来舔去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2039321091651612828",
+        "created_at": "2026-04-05T22:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T23:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040923423304724953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1396136992866332680",
+              "start": 0,
+              "username": "anzai34714870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040923423304724953",
+        "in_reply_to_user_id": "1396136992866332680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039321091651612828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anzai34714870 ？原始人舔来舔去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396136992866332680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Geology",
+              "id": "847897009281355776",
+              "name": "Geology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1352693397153222656",
+              "name": "Volcanology"
+            }
+          }
+        ],
+        "conversation_id": "2039321091651612828",
+        "created_at": "2026-04-01T12:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039321091651612828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039321091651612828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 792,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我的性癖是一起脱光光在浴室开淋浴(温水，模仿火山喷发后的雨)坐在瓷砖上假装是原始人啃水果啃完互相舔来舔去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 638
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T16:13:05.000Z",
+        "description": "苦は潮のようだ。\n每当以为心防稳固，它便又一次更凶猛地撞来，冲决堤溃，浸透心底荒芜。",
+        "id": "1396136992866332680",
+        "location": "SHANGHAI",
+        "name": "anzai里垢",
+        "pinned_tweet_id": "1910900566445945063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708648595204005888/1yPHCPhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 49,
+          "like_count": 116,
+          "listed_count": 2,
+          "media_count": 652,
+          "tweet_count": 1623
+        },
+        "username": "anzai34714870",
+        "verified": false
+      }
+    ]
+  }
+}

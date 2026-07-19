@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1936617354861092916",
+    "created_at": "2025-07-14T08:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944681616330358861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824731467815010305",
+          "start": 0,
+          "username": "ChunQingXiaoQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944681616330358861",
+    "in_reply_to_user_id": "1824731467815010305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936617354861092916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChunQingXiaoQ 姐夫说的话好爽啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 192466,
+        "height": 1080,
+        "media_key": "13_1936616905282043904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936616905282043904/img/Nm2YNo-oJa9Nx0ms.jpg",
+        "public_metrics": {
+          "view_count": 586119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/pl/tiZtcoxWOTMV_qG7.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/1280x720/5IGwEfUDahRTuI0V.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/480x270/cFBzvHj_3pctx3y4.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/640x360/jXshT_k_yJpMlvgP.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936616905282043904/vid/avc1/1920x1080/AatiE1AESMf5Puyd.mp4?tag=16"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1936617354861092916",
+        "created_at": "2025-07-14T08:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944681616330358861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824731467815010305",
+              "start": 0,
+              "username": "ChunQingXiaoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944681616330358861",
+        "in_reply_to_user_id": "1824731467815010305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936617354861092916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChunQingXiaoQ 姐夫说的话好爽啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936616905282043904"
+          ]
+        },
+        "author_id": "1824731467815010305",
+        "conversation_id": "1936617354861092916",
+        "created_at": "2025-06-22T02:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936617354861092916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "对话"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "情侣实录"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5IopjO2uC",
+              "end": 125,
+              "expanded_url": "https://x.com/ChunQingXiaoQ/status/1936617354861092916/video/1",
+              "media_key": "13_1936616905282043904",
+              "start": 102,
+              "url": "https://t.co/f5IopjO2uC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936617354861092916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3467,
+          "impression_count": 1369179,
+          "like_count": 15964,
+          "quote_count": 16,
+          "reply_count": 230,
+          "retweet_count": 922
+        },
+        "reply_settings": "everyone",
+        "text": "内含大量对话，是什么让我高潮到神志不清还要说一句经操…\n我：不要操我了\n他：“不操了你要说什么？”\n我：老公要射给我！\n他：“你这样的表现没法射给你宝宝，太不经操了。”\n我：经操的！\n#对话 #情侣实录 https://t.co/f5IopjO2uC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 84,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 279
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T08:54:30.000Z",
+        "description": "记录和老公的恋/do爱碎片丨情侣丨不接推广 匿名信箱：https://t.co/nXJUhYtfCt丨只此一个号无完整版丨不玩墙内社交软件",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hhh98288",
+                "end": 50,
+                "expanded_url": "https://ngl.link/hhh98288",
+                "start": 27,
+                "url": "https://t.co/nXJUhYtfCt"
+              }
+            ]
+          }
+        },
+        "id": "1824731467815010305",
+        "location": "要你掏钱的都是假号",
+        "name": "纯情小泉",
+        "pinned_tweet_id": "1842552749784719846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824732452017065984/PqfsByEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616139,
+          "following_count": 34,
+          "like_count": 3565,
+          "listed_count": 976,
+          "media_count": 125,
+          "tweet_count": 2714
+        },
+        "username": "ChunQingXiaoQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2050641420349038882",
+    "created_at": "2026-05-03T07:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050845803259039863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048393340048293888",
+          "start": 0,
+          "username": "Numiouo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050845803259039863",
+    "in_reply_to_user_id": "2048393340048293888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050641420349038882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo2 这样的糯米也好可爱吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2050641420349038882",
+        "created_at": "2026-05-03T07:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050845803259039863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048393340048293888",
+              "start": 0,
+              "username": "Numiouo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050845803259039863",
+        "in_reply_to_user_id": "2048393340048293888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050641420349038882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo2 这样的糯米也好可爱吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048393340048293888",
+        "conversation_id": "2050641420349038882",
+        "created_at": "2026-05-02T18:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050641420349038882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050641420349038882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 196,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意识丢失了、……我左手会打字？嗯谁的左手……666会打字……这只手？卧槽哪里来的……好克苏鲁……\n\n一闭眼认知全部消失 像被黑洞吸走 一片纯净 我是谁也成为了谜题\n\n准备昏迷了，明天变正常了再跟大家贴贴&lt;(ºOº)&gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 67,
+          "like_count": 158,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 750
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:27:19.000Z",
+        "description": "bluesky🆔numiouo\n@Numiouo @Numiouo1 都是我\nfo受限制 没回fo就是还没刷新cd \n我爱你们 永远永远 其他的都不重要了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Numiouo"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "2048393340048293888",
+        "name": "糯米3.0（大号二号被害中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393697314979840/mkNygmZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 230,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 134
+        },
+        "username": "Numiouo2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1933342727821029441",
+    "created_at": "2025-06-13T13:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933524127295607213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1870067454765838336",
+          "start": 0,
+          "username": "chessiia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933524127295607213",
+    "in_reply_to_user_id": "1870067454765838336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933342727821029441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiia 好可爱🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1933342715300691968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtSc9M6WQAAjUzz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1933342727821029441",
+        "created_at": "2025-06-13T13:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933524127295607213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1870067454765838336",
+              "start": 0,
+              "username": "chessiia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933524127295607213",
+        "in_reply_to_user_id": "1870067454765838336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933342727821029441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiia 好可爱🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933342715300691968"
+          ]
+        },
+        "author_id": "1870067454765838336",
+        "conversation_id": "1933342727821029441",
+        "created_at": "2025-06-13T01:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T02:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933342727821029441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3mvMRu5i8",
+              "end": 44,
+              "expanded_url": "https://x.com/chessiia/status/1933342727821029441/photo/1",
+              "media_key": "3_1933342715300691968",
+              "start": 21,
+              "url": "https://t.co/N3mvMRu5i8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933342727821029441",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "baby the star bright https://t.co/N3mvMRu5i8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 81,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 204
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "脾气很坏/0社交能力求求你们别孤立我/xp混乱/不安。。/互fo宝宝加我v 爱泥萌",
+        "id": "1870067454765838336",
+        "location": "🚪88（纯绿",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1931207454756372979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 136,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 148
+        },
+        "username": "chessiia",
+        "verified": false
+      }
+    ]
+  }
+}

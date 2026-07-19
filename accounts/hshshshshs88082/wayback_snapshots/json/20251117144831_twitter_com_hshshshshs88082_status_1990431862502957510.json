@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1989731314166268095",
+    "created_at": "2025-11-17T14:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990431862502957510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        },
+        {
+          "end": 27,
+          "id": "1324943600929529857",
+          "start": 14,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990431862502957510",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990015880735158642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 @chucaorenlei 包的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1989731314166268095",
+        "created_at": "2025-11-17T14:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990431862502957510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            },
+            {
+              "end": 27,
+              "id": "1324943600929529857",
+              "start": 14,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990431862502957510",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990015880735158642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 @chucaorenlei 包的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "1989731314166268095",
+        "created_at": "2025-11-16T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T12:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990015880735158642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1324943600929529857",
+              "start": 0,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990015880735158642",
+        "in_reply_to_user_id": "1324943600929529857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7257,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989731314166268095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucaorenlei * 教你如何快速伪装顺直男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985788804607983622/oCE5-1Jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 91,
+          "like_count": 72,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 599
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "可能是个开发者 | 性别男 | 无意义发癫警告 ⚠ | 内网更常用名: Roitium",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98S2km"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884576882760486912/fau5N8x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 423,
+          "like_count": 3261,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 2723
+        },
+        "url": "https://t.co/z8BZ98S2km",
+        "username": "yoshino_2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "1951701129282175430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909425903001829376/QvpNq1V5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 593,
+          "like_count": 823,
+          "listed_count": 8,
+          "media_count": 134,
+          "tweet_count": 861
+        },
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

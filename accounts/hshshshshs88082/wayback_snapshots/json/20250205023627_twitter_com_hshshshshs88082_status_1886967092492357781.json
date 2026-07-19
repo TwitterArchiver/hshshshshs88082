@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1882386807440248947",
+    "created_at": "2025-02-05T02:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T03:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886967092492357781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1376813917561757702",
+          "start": 0,
+          "username": "TaoTie_s"
+        },
+        {
+          "end": 22,
+          "id": "1813171609521561600",
+          "start": 10,
+          "username": "fumicoco089"
+        },
+        {
+          "end": 37,
+          "id": "1817146762379030528",
+          "start": 23,
+          "username": "maomaotutu817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886967092492357781",
+    "in_reply_to_user_id": "1376813917561757702",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882386807440248947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoTie_s @fumicoco089 @maomaotutu817"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1882386807440248947",
+        "created_at": "2025-02-05T02:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T03:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886967092492357781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1376813917561757702",
+              "start": 0,
+              "username": "TaoTie_s"
+            },
+            {
+              "end": 22,
+              "id": "1813171609521561600",
+              "start": 10,
+              "username": "fumicoco089"
+            },
+            {
+              "end": 37,
+              "id": "1817146762379030528",
+              "start": 23,
+              "username": "maomaotutu817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886967092492357781",
+        "in_reply_to_user_id": "1376813917561757702",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882386807440248947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoTie_s @fumicoco089 @maomaotutu817"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376813917561757702",
+        "conversation_id": "1882386807440248947",
+        "created_at": "2025-01-23T11:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882386807440248947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "女同笔记i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882386807440248947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1291,
+          "impression_count": 770750,
+          "like_count": 3076,
+          "quote_count": 6,
+          "reply_count": 112,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "🌈第三届  #女同笔记i\n\n安利专题：①请安利喜欢的女同博主②安利女同片子博主③安利女同情侣号\n以上任何平台均可\n\n参与须知：1.纯女同参与，🚫男留言/搭讪，会屏蔽拉黑所有留言男性。2.正在和男友恋爱会突然发屌子的双性恋博主勿推，单身/有女友的双性恋可推。3.欢迎各位老师自荐🎉\n\n㊗️大家小年快乐～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "分享(发疯)日常 、有几只小仓鼠",
+        "id": "1776553425934909440",
+        "name": "抽象姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882442320240676865/CPJ-rS0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 34
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T08:30:00.000Z",
+        "description": "les🌈 0S/女权主义/INTP/纯爱战士 dom偏刑主S    ❤️已有对象\n💰接推广or约稿定制文 （推广自辨）",
+        "id": "1376813917561757702",
+        "name": "饕餮s",
+        "pinned_tweet_id": "1870107005467406457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377498476674605058/Eeg1Jmac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135250,
+          "following_count": 100,
+          "like_count": 8025,
+          "listed_count": 138,
+          "media_count": 213,
+          "tweet_count": 5083
+        },
+        "username": "TaoTie_s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T11:19:52.000Z",
+        "description": "🌈les｜dom｜养狗中@maomaotutu817｜做爱备忘录｜男的关注阳痿一辈子｜提问箱https://t.co/2NmpRJwt1u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "maomaotutu817"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkuro",
+                "end": 69,
+                "expanded_url": "https://ngl.link/kkkuro",
+                "start": 46,
+                "url": "https://t.co/2NmpRJwt1u"
+              }
+            ]
+          }
+        },
+        "id": "1813171609521561600",
+        "location": "Tokyo-to, Japan",
+        "name": "Kuuuuro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834914942732189697/aGVK5whQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5339,
+          "following_count": 240,
+          "like_count": 236,
+          "listed_count": 4,
+          "media_count": 12,
+          "tweet_count": 194
+        },
+        "username": "fumicoco089",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T10:35:35.000Z",
+        "description": "les/1/dom（但给@fumicoco089当小狗版）成为幸福的姐管严中🦮提问箱https://t.co/iJxbaW7vVL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "fumicoco089"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ryukingyo1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ryukingyo1",
+                "start": 42,
+                "url": "https://t.co/iJxbaW7vVL"
+              }
+            ]
+          }
+        },
+        "id": "1817146762379030528",
+        "location": "Tokyo-to, Japan",
+        "name": "ryukinnnngyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834914818069086209/8fSzw6OL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 276,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 99
+        },
+        "username": "maomaotutu817",
+        "verified": false
+      }
+    ]
+  }
+}

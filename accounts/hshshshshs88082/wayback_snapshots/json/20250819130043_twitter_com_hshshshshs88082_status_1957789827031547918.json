@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1957480795096101301",
+    "created_at": "2025-08-19T13:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T14:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957789827031547918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947628495896477696",
+          "start": 0,
+          "username": "Verdurous0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957789827031547918",
+    "in_reply_to_user_id": "1947628495896477696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957480795096101301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Verdurous0 好可爱喔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957480776544714752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GypeZSSagAA1tGA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1957480795096101301",
+        "created_at": "2025-08-19T13:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T14:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957789827031547918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947628495896477696",
+              "start": 0,
+              "username": "Verdurous0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957789827031547918",
+        "in_reply_to_user_id": "1947628495896477696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957480795096101301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdurous0 好可爱喔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957480776544714752"
+          ]
+        },
+        "author_id": "1947628495896477696",
+        "conversation_id": "1957480795096101301",
+        "created_at": "2025-08-18T16:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957480795096101301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ojbKkWqGdB",
+              "end": 62,
+              "expanded_url": "https://x.com/Verdurous0/status/1957480795096101301/photo/1",
+              "media_key": "3_1957480776544714752",
+              "start": 39,
+              "url": "https://t.co/ojbKkWqGdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957480795096101301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 30677,
+          "like_count": 569,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "自己缝jellycat啊啊啊 我做了四个小时 好萌啊啊啊啊啊啊啊啊啊！！！！ https://t.co/ojbKkWqGdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 86,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 395
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T12:03:21.000Z",
+        "description": "",
+        "id": "1947628495896477696",
+        "name": "屁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954747056029097984/1UrQL8g6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 83,
+          "like_count": 18,
+          "listed_count": 5,
+          "media_count": 19,
+          "tweet_count": 137
+        },
+        "username": "Verdurous0",
+        "verified": false
+      }
+    ]
+  }
+}

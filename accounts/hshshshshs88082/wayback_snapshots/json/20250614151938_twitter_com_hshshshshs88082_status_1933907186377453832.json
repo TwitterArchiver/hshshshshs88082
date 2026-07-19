@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1933900445032026516",
+    "created_at": "2025-06-14T15:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933907186377453832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1729717534377594880",
+          "start": 0,
+          "username": "meetyou1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933907186377453832",
+    "in_reply_to_user_id": "1729717534377594880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933900445032026516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meetyou1005 宝宝假哭怪妈妈？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1933900445032026516",
+        "created_at": "2025-06-14T15:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933907186377453832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729717534377594880",
+              "start": 0,
+              "username": "meetyou1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933907186377453832",
+        "in_reply_to_user_id": "1729717534377594880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933900445032026516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meetyou1005 宝宝假哭怪妈妈？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729717534377594880",
+        "conversation_id": "1933900445032026516",
+        "created_at": "2025-06-14T14:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933900445032026516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小草’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Mnxn…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MnxnwvbqqmKO",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: D7 和往常一样普通的一天，结婚三周年纪念日",
+              "unwound_url": "https://twitter.com/i/spaces/1MnxnwvbqqmKO/peek",
+              "url": "https://t.co/RMEMgjWFyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933900445032026516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RMEMgjWFyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 81,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 234
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T04:22:59.000Z",
+        "description": "寂寞少妇流水账。 想与小草说：https://t.co/batRzD39lL 不定时开sps进行与粉丝的聊天与匿名问答，欢迎有礼貌的你来和小草一起说说话～请让我参与你的生活吧！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meetyou1005",
+                "end": 38,
+                "expanded_url": "https://ngl.link/meetyou1005",
+                "start": 15,
+                "url": "https://t.co/batRzD39lL"
+              }
+            ]
+          }
+        },
+        "id": "1729717534377594880",
+        "location": "小草家",
+        "name": "小草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929544398402195456/dz0BKBF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41123,
+          "following_count": 932,
+          "like_count": 37859,
+          "listed_count": 79,
+          "media_count": 2210,
+          "tweet_count": 21743
+        },
+        "username": "meetyou1005",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2045144163793174650",
+    "created_at": "2026-04-17T16:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045174541576716336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045174541576716336",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045144163793174650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 我不行了糯米好萌啊៸៸᳐&gt;⩊&lt;៸៸᳐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2045144163793174650",
+        "created_at": "2026-04-17T16:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045174541576716336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045174541576716336",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045144163793174650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 我不行了糯米好萌啊៸៸᳐&gt;⩊&lt;៸៸᳐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "2045144163793174650",
+        "created_at": "2026-04-17T14:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045144163793174650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 249,
+              "expanded_url": "https://twitter.com/bghtnya/status/2045086868182814783",
+              "start": 226,
+              "url": "https://t.co/YnOeUSwyoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045144163793174650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045086868182814783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请允许我在你的timeline上放糯米纸🍬！\n因为如果timeline有糯米纸在嗑药不会苦\n\n  🍬~              🍬~               🍬~\n          🍬~                  🍬~\n   🍬~                                 🍬~\n               ~🍬          🍬~\n 🍬~                               🍬~ https://t.co/YnOeUSwyoS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 64,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 679
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论/转发会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 2256,
+          "like_count": 9799,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 8081
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

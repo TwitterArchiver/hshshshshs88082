@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1951934806960623891",
+    "created_at": "2025-08-03T11:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T12:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951970743006228664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651273923114455041",
+          "start": 0,
+          "username": "X1anx1anZong"
+        },
+        {
+          "end": 26,
+          "id": "1291988176496545792",
+          "start": 14,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951970743006228664",
+    "in_reply_to_user_id": "1651273923114455041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951964384558821679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1anx1anZong @Vox35112635 我不行了  就你最好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1951934806960623891",
+        "created_at": "2025-08-03T11:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951970743006228664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651273923114455041",
+              "start": 0,
+              "username": "X1anx1anZong"
+            },
+            {
+              "end": 26,
+              "id": "1291988176496545792",
+              "start": 14,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951970743006228664",
+        "in_reply_to_user_id": "1651273923114455041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951964384558821679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1anx1anZong @Vox35112635 我不行了  就你最好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "conversation_id": "1951934806960623891",
+        "created_at": "2025-08-03T11:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T12:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951964384558821679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951964384558821679",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951934806960623891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 桀桀桀桀这具肉身老夫就勉强用一下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 83,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 331
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "大久保公园",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929489526441103360/Vkwpfqpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 40,
+          "like_count": 18643,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 8902
+        },
+        "username": "X1anx1anZong",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "防走丢小号@PDDBJS/抖音号：32625516049/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了/咱家御用卦师算卦找她@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "PDDBJS"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1944497508899762381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261920,
+          "following_count": 547,
+          "like_count": 488,
+          "listed_count": 296,
+          "media_count": 9778,
+          "tweet_count": 14066
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

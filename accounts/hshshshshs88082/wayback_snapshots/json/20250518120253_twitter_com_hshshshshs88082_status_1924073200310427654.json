@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1924073200310427654",
+    "created_at": "2025-05-18T12:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T13:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924073200310427654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1790831068729229312",
+          "start": 3,
+          "username": "Fkmaomaochong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924073200310427654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923015347113800176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fkmaomaochong: 感觉不紧就是你鸡巴小\n\n不紧就是你鸡巴小\n\n就是你鸡巴小\n\n你鸡巴小\n\n鸡小\n\n小\n\n鸡小\n\n你鸡巴小\n\n就是你鸡巴小\n\n不紧就是你鸡巴小\n\n感觉不紧就是你鸡巴小\n\n不紧就是你鸡巴小\n\n就是你鸡巴小\n\n你鸡巴小\n\n鸡小\n\n小\n\n鸡小\n\n你鸡…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1924073200310427654",
+        "created_at": "2025-05-18T12:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T13:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924073200310427654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1790831068729229312",
+              "start": 3,
+              "username": "Fkmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924073200310427654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923015347113800176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fkmaomaochong: 感觉不紧就是你鸡巴小\n\n不紧就是你鸡巴小\n\n就是你鸡巴小\n\n你鸡巴小\n\n鸡小\n\n小\n\n鸡小\n\n你鸡巴小\n\n就是你鸡巴小\n\n不紧就是你鸡巴小\n\n感觉不紧就是你鸡巴小\n\n不紧就是你鸡巴小\n\n就是你鸡巴小\n\n你鸡巴小\n\n鸡小\n\n小\n\n鸡小\n\n你鸡…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790831068729229312",
+        "conversation_id": "1923015347113800176",
+        "created_at": "2025-05-15T13:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T14:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923015347113800176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923015347113800176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 430884,
+          "like_count": 5339,
+          "quote_count": 38,
+          "reply_count": 227,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "感觉不紧就是你鸡巴小\n\n不紧就是你鸡巴小\n\n就是你鸡巴小\n\n你鸡巴小\n\n鸡小\n\n小\n\n鸡小\n\n你鸡巴小\n\n就是你鸡巴小\n\n不紧就是你鸡巴小\n\n感觉不紧就是你鸡巴小\n\n不紧就是你鸡巴小\n\n就是你鸡巴小\n\n你鸡巴小\n\n鸡小\n\n小\n\n鸡小\n\n你鸡巴小\n\n就是你鸡巴小\n\n不紧就是你鸡巴\n\n感觉不紧就是你鸡巴小\n\nover\n\nver\n\ner\n\nr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924072902523027456/YY6jEYMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 56,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 92
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "逻辑小猫没暹罗 ➡️ @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "qing2202"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒松松· ﾟ ₊",
+        "pinned_tweet_id": "1923764297747906787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903870962488987648/xXMjf-aw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35055,
+          "following_count": 69,
+          "like_count": 19912,
+          "listed_count": 37,
+          "media_count": 171,
+          "tweet_count": 4938
+        },
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

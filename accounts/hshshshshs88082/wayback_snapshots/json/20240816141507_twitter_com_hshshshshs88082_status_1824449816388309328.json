@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1824448757645164673",
+    "created_at": "2024-08-16T14:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T15:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824449816388309328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600438389605429251",
+          "start": 0,
+          "username": "duojiaoyutouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824449816388309328",
+    "in_reply_to_user_id": "1600438389605429251",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824449511655104770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duojiaoyutouyu 把她掰弯呗😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1824448757645164673",
+        "created_at": "2024-08-16T14:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T15:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824449816388309328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600438389605429251",
+              "start": 0,
+              "username": "duojiaoyutouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824449816388309328",
+        "in_reply_to_user_id": "1600438389605429251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824449511655104770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duojiaoyutouyu 把她掰弯呗😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600438389605429251",
+        "conversation_id": "1824448757645164673",
+        "created_at": "2024-08-16T14:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T15:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824449511655104770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824449511655104770",
+        "in_reply_to_user_id": "1600438389605429251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824448757645164673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过说真的，我这位朋友长得像迪丽热巴似的，如果她是个女同就好了（叹气）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "无聊才上线，女同，男的请绕道",
+        "id": "1776553425934909440",
+        "name": "落日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818302121009451009/QKa2Yh99_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 39,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 17
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-07T10:33:52.000Z",
+        "description": "愿者上钩 | 台本娘 | 随缘更新 定制私信 | 录本自取 仅限于推上并艾特我 | 商用需本人许可 | 独家和定制不可录制 | 🚫代入现实生活 | 搬运的一辈子发不了财 |  犯贱的一律当傻逼处理 | gl gb bg皆可代，🈲代bl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duojiaoyutou.fanbox.cc/posts",
+                "end": 23,
+                "expanded_url": "https://duojiaoyutou.fanbox.cc/posts",
+                "start": 0,
+                "url": "https://t.co/NxFzCCPJF0"
+              }
+            ]
+          }
+        },
+        "id": "1600438389605429251",
+        "location": "地球",
+        "name": "剁椒鱼头🐟（禁搬）",
+        "pinned_tweet_id": "1811591634821546068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813250274804572162/nwzoK1mE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30448,
+          "following_count": 159,
+          "like_count": 13873,
+          "listed_count": 63,
+          "tweet_count": 5829
+        },
+        "url": "https://t.co/NxFzCCPJF0",
+        "username": "duojiaoyutouyu",
+        "verified": false
+      }
+    ]
+  }
+}

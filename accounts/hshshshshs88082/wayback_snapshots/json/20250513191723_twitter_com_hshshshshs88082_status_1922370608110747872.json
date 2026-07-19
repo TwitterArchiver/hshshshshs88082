@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1922226790493233505",
+    "created_at": "2025-05-13T19:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T20:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922370608110747872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477695390619254794",
+          "start": 0,
+          "username": "shishishidifufu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922370608110747872",
+    "in_reply_to_user_id": "1477695390619254794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922226790493233505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishishidifufu 我以为我看错软件了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1922226787645587458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0fFDdbAAI_NYU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1922226790493233505",
+        "created_at": "2025-05-13T19:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T20:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922370608110747872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1477695390619254794",
+              "start": 0,
+              "username": "shishishidifufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922370608110747872",
+        "in_reply_to_user_id": "1477695390619254794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922226790493233505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishishidifufu 我以为我看错软件了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922226787645587458"
+          ]
+        },
+        "author_id": "1477695390619254794",
+        "conversation_id": "1922226790493233505",
+        "created_at": "2025-05-13T09:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T10:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922226790493233505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWJP0cQrvH",
+              "end": 31,
+              "expanded_url": "https://x.com/shishishidifufu/status/1922226790493233505/photo/1",
+              "media_key": "3_1922226787645587458",
+              "start": 8,
+              "url": "https://t.co/iWJP0cQrvH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922226790493233505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 46146,
+          "like_count": 425,
+          "quote_count": 5,
+          "reply_count": 145,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你会说什么呢？ https://t.co/iWJP0cQrvH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921126949532893184/h7ygRv4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 55,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 88
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T17:37:04.000Z",
+        "description": "我是史蒂夫 想和大家交朋友｜看包浆梗图 享百味人生｜language🇨🇳🇺🇸🇯🇵｜可以互fo❤️由于频繁目前不会全部回关，想互关麻烦私信，不论成分都会回关的٩(๑^o^๑)۶｜不鉴证🧐｜多多指教性格友好😘 若有冒犯请您指出🍀｜试试史蒂夫推荐的梯子？相当于给史蒂夫买瓶水噢谢谢啦(◍•ᴗ•◍)包好用的😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.shidifu.me",
+                "end": 23,
+                "expanded_url": "http://vpn.shidifu.me",
+                "start": 0,
+                "url": "https://t.co/ZfTKJVxQj8"
+              }
+            ]
+          }
+        },
+        "id": "1477695390619254794",
+        "location": "5元150g/月不限速机场 史蒂夫倾力推荐👇",
+        "name": "史蒂夫（不论成分互fo记得私信）",
+        "pinned_tweet_id": "1913860691502719187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910709431391920128/Dv1O0A-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4554,
+          "following_count": 784,
+          "like_count": 1059,
+          "listed_count": 5,
+          "media_count": 1038,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/ZfTKJVxQj8",
+        "username": "shishishidifufu",
+        "verified": true
+      }
+    ]
+  }
+}

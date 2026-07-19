@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1983166405366493478",
+    "created_at": "2025-10-30T13:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T14:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983889715666587956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1791005200695566336",
+          "start": 0,
+          "username": "ku34856"
+        },
+        {
+          "end": 21,
+          "id": "1534187424678498304",
+          "start": 9,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983889715666587956",
+    "in_reply_to_user_id": "1791005200695566336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983680690614071775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ku34856 @xihuanni030 你身上的伤是怎么来的🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 592,
+        "media_key": "3_1983680641930842112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4dzCKobUAAfly5.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1983166405366493478",
+        "created_at": "2025-10-30T13:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T14:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983889715666587956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1791005200695566336",
+              "start": 0,
+              "username": "ku34856"
+            },
+            {
+              "end": 21,
+              "id": "1534187424678498304",
+              "start": 9,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983889715666587956",
+        "in_reply_to_user_id": "1791005200695566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983680690614071775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ku34856 @xihuanni030 你身上的伤是怎么来的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983680641930842112"
+          ]
+        },
+        "author_id": "1791005200695566336",
+        "conversation_id": "1983166405366493478",
+        "created_at": "2025-10-29T23:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T00:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983680690614071775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmJ0zBKb67",
+              "end": 77,
+              "expanded_url": "https://x.com/ku34856/status/1983680690614071775/photo/1",
+              "media_key": "3_1983680641930842112",
+              "start": 54,
+              "url": "https://t.co/QmJ0zBKb67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983680690614071775",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 909,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983166405366493478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 现身说法，对我来说是没有想象中痛的，我觉得仅仅是比唇钉痛一点，但是没有鼻钉那么痛 https://t.co/QmJ0zBKb67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 86,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 528
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-16T07:18:25.000Z",
+        "description": "身高178cm体重51.5kg 我喜欢自残、做饭、心理学、血液、抽烟、和人聊天、回答问题、在减重、喜欢冷兵器、喜欢漂亮的头绳和发卡、最爱的是chat gpt",
+        "id": "1791005200695566336",
+        "name": "病号裤",
+        "pinned_tweet_id": "1922956084244881456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791005860547764224/AjsQMHKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 270,
+          "like_count": 276,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 288
+        },
+        "username": "ku34856",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/yExu57oEnK"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "自用蜂鸟vpn，海量节点任你选",
+        "name": "糯米侠",
+        "pinned_tweet_id": "1983606155239985540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12022,
+          "following_count": 135,
+          "like_count": 3915,
+          "listed_count": 22,
+          "media_count": 68,
+          "tweet_count": 4424
+        },
+        "url": "https://t.co/yExu57oEnK",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

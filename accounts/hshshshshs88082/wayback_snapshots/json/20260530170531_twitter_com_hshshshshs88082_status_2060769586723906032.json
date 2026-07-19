@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2060263209458917694",
+    "created_at": "2026-05-30T17:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060769586723906032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047499889094123520",
+          "start": 0,
+          "username": "yn_xxxjkjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060769586723906032",
+    "in_reply_to_user_id": "2047499889094123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060263209458917694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yn_xxxjkjk 笑死我了  大家谨慎这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1523,
+        "media_key": "3_2060263206082478080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeGeF5agAA8POu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2060263209458917694",
+        "created_at": "2026-05-30T17:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060769586723906032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047499889094123520",
+              "start": 0,
+              "username": "yn_xxxjkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060769586723906032",
+        "in_reply_to_user_id": "2047499889094123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060263209458917694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn_xxxjkjk 笑死我了  大家谨慎这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060263206082478080"
+          ]
+        },
+        "author_id": "2047499889094123520",
+        "conversation_id": "2060263209458917694",
+        "created_at": "2026-05-29T07:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060263209458917694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfTcRwCLAU",
+              "end": 112,
+              "expanded_url": "https://x.com/yn_xxxjkjk/status/2060263209458917694/photo/1",
+              "media_key": "3_2060263206082478080",
+              "start": 89,
+              "url": "https://t.co/YfTcRwCLAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060263209458917694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1384,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一切都是假的。X我是极端素食主义者，我用血液抗议人类吃动物，这些血液都是假的，都是动物，猪血，羊血，鸡血，牛血鸭血不是人的血，没有人受伤，没有人的伤口流出来血，没有人的血液。 https://t.co/YfTcRwCLAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 78,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 770
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的\n3.0 @ynxxx_jjkk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "ynxxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "旖旎2.0",
+        "pinned_tweet_id": "2060247040177943030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 149,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 54
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

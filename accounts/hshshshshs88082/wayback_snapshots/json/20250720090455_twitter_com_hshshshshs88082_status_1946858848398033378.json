@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1946829969826693599",
+    "created_at": "2025-07-20T09:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T10:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946858848398033378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894753734149988353",
+          "start": 0,
+          "username": "yolo0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946858848398033378",
+    "in_reply_to_user_id": "1894753734149988353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946829969826693599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yolo0630 这是什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25333,
+        "height": 720,
+        "media_key": "13_1946829862687444992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946829862687444992/img/GtaXZqQXDR5fniEt.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946829862687444992/vid/avc1/320x320/DHvH8cwqBfxpLQUN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946829862687444992/vid/avc1/540x540/t-Sxd5_QE5CHMR8e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946829862687444992/vid/avc1/720x720/eqzks6CKUrLDufMy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946829862687444992/pl/XuYon7JKWmwlzEBn.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1946829969826693599",
+        "created_at": "2025-07-20T09:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946858848398033378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946858848398033378",
+        "in_reply_to_user_id": "1894753734149988353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946829969826693599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 这是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946829862687444992"
+          ]
+        },
+        "author_id": "1894753734149988353",
+        "conversation_id": "1946829969826693599",
+        "created_at": "2025-07-20T07:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946829969826693599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZHdHw2Qmfj",
+              "end": 31,
+              "expanded_url": "https://x.com/yolo0630/status/1946829969826693599/video/1",
+              "media_key": "13_1946829862687444992",
+              "start": 8,
+              "url": "https://t.co/ZHdHw2Qmfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946829969826693599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出院我就去再穿 https://t.co/ZHdHw2Qmfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 83,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 285
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:18:04.000Z",
+        "description": "07/巨蟹/infp 随缘回私信 不陪聊 不线下 好想睡觉💤",
+        "id": "1894753734149988353",
+        "location": "🚪88/128/188",
+        "name": "yolo",
+        "pinned_tweet_id": "1933219472828977572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930183882525290501/L3D2pelJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 83,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 727
+        },
+        "username": "yolo0630",
+        "verified": false
+      }
+    ]
+  }
+}

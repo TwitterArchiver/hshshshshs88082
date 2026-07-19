@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1947865391444988409",
+    "created_at": "2025-07-26T11:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T12:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949074824942498052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1855040750838595585",
+          "start": 0,
+          "username": "boombi478"
+        },
+        {
+          "end": 25,
+          "id": "1785971585397993472",
+          "start": 11,
+          "username": "yynnnjn380977"
+        },
+        {
+          "end": 37,
+          "id": "1357145822966775814",
+          "start": 26,
+          "username": "koushanliu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949074824942498052",
+    "in_reply_to_user_id": "1855040750838595585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948727855304814873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boombi478 @yynnnjn380977 @koushanliu 翻墙和偷拍、女性安全根本是不同份量的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1947865391444988409",
+        "created_at": "2025-07-26T11:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T12:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949074824942498052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1855040750838595585",
+              "start": 0,
+              "username": "boombi478"
+            },
+            {
+              "end": 25,
+              "id": "1785971585397993472",
+              "start": 11,
+              "username": "yynnnjn380977"
+            },
+            {
+              "end": 37,
+              "id": "1357145822966775814",
+              "start": 26,
+              "username": "koushanliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949074824942498052",
+        "in_reply_to_user_id": "1855040750838595585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948727855304814873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boombi478 @yynnnjn380977 @koushanliu 翻墙和偷拍、女性安全根本是不同份量的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855040750838595585",
+        "conversation_id": "1947865391444988409",
+        "created_at": "2025-07-25T12:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T13:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948727855304814873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1785971585397993472",
+              "start": 0,
+              "username": "yynnnjn380977"
+            },
+            {
+              "end": 26,
+              "id": "1357145822966775814",
+              "start": 15,
+              "username": "koushanliu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948727855304814873",
+        "in_reply_to_user_id": "1785971585397993472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948614422882136111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yynnnjn380977 @koushanliu 都会翻墙了，已经对你不错了孩子，没请你进警察局你还想咋样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 295
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T00:12:48.000Z",
+        "description": "",
+        "id": "1855040750838595585",
+        "name": "水花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911864535096479744/4B_RJBQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 68,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 149
+        },
+        "username": "boombi478",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T09:56:41.000Z",
+        "description": "",
+        "id": "1785971585397993472",
+        "name": "熠言难尽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945505994131357696/rZrSxYYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "yynnnjn380977",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T01:56:04.000Z",
+        "description": "头像来自网络，侵权请联系我// 为什么明星和番剧都在塌房// 不管怎样尾田我相信你/// H×H更新了呜呜呜呜呜////  sbr动画化了啊啊啊啊啊！！！！！/只有一个🇨🇳",
+        "id": "1357145822966775814",
+        "location": "🇨🇳",
+        "name": "阿柳不知道哦",
+        "pinned_tweet_id": "1805801100915917137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675005786538508294/3vg72vyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 434
+        },
+        "username": "koushanliu",
+        "verified": false
+      }
+    ]
+  }
+}

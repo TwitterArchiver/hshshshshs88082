@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1982469240251879862",
+    "created_at": "2025-10-26T15:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982474369998999912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673523018893791233",
+          "start": 0,
+          "username": "yezz313344657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982474369998999912",
+    "in_reply_to_user_id": "1673523018893791233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982470339717403027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezz313344657 熊不能吃  对熊不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1982469240251879862",
+        "created_at": "2025-10-26T15:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982474369998999912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673523018893791233",
+              "start": 0,
+              "username": "yezz313344657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982474369998999912",
+        "in_reply_to_user_id": "1673523018893791233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982470339717403027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezz313344657 熊不能吃  对熊不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673523018893791233",
+        "conversation_id": "1982469240251879862",
+        "created_at": "2025-10-26T15:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982470339717403027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776553425934909440",
+              "start": 0,
+              "username": "hshshshshs88082"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982470339717403027",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982469240251879862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hshshshshs88082 给熊吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 83,
+          "like_count": 85,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 510
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T02:46:11.000Z",
+        "description": "",
+        "id": "1673523018893791233",
+        "location": "Nankan-machi, Kumamoto",
+        "name": "404",
+        "pinned_tweet_id": "1675907149728456705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706689755508064256/la5I1vIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "username": "yezz313344657",
+        "verified": false
+      }
+    ]
+  }
+}

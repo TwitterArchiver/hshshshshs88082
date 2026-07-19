@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1921109278653362225",
+    "created_at": "2025-05-10T07:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T08:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921109278653362225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921109278653362225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实有个小癖好，就是在读书的时候特别喜欢听男喘，越听越兴奋读书越有干劲（一直没找到合适的女喘老师🥹）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1921109278653362225",
+        "created_at": "2025-05-10T07:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T08:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921109278653362225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921109278653362225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实有个小癖好，就是在读书的时候特别喜欢听男喘，越听越兴奋读书越有干劲（一直没找到合适的女喘老师🥹）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 82
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925142405155897344"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1925142407685017811",
+    "created_at": "2025-05-21T10:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925142407685017811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qgcTt5ITtf",
+          "end": 35,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1925142407685017811/photo/1",
+          "media_key": "3_1925142405155897344",
+          "start": 12,
+          "url": "https://t.co/qgcTt5ITtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925142407685017811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁懂鸡巴这两个字的笑点 https://t.co/qgcTt5ITtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_1925142405155897344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grd60VFbwAAWpS1.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925142405155897344"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1925142407685017811",
+        "created_at": "2025-05-21T10:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925142407685017811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgcTt5ITtf",
+              "end": 35,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1925142407685017811/photo/1",
+              "media_key": "3_1925142405155897344",
+              "start": 12,
+              "url": "https://t.co/qgcTt5ITtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925142407685017811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂鸡巴这两个字的笑点 https://t.co/qgcTt5ITtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 57,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 91
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1929593444705452527",
+    "created_at": "2025-06-03T15:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929926314120593594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1638880609283059714",
+          "start": 0,
+          "username": "ccmaomaochong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929926314120593594",
+    "in_reply_to_user_id": "1638880609283059714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929593444705452527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccmaomaochong 还比格冰激凌的钱！！！（抗议"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929593444705452527].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929593444705452527",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929593444705452527"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1929593444705452527",
+        "created_at": "2025-06-03T15:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929926314120593594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638880609283059714",
+              "start": 0,
+              "username": "ccmaomaochong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929926314120593594",
+        "in_reply_to_user_id": "1638880609283059714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929593444705452527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccmaomaochong 还比格冰激凌的钱！！！（抗议"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 142
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T12:29:55.000Z",
+        "description": "海底小屋",
+        "id": "1638880609283059714",
+        "location": "净土",
+        "name": "清晨",
+        "pinned_tweet_id": "1883920398808658290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843974557902016512/LvxM0-oE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 2,
+          "like_count": 3041,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 386
+        },
+        "username": "ccmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

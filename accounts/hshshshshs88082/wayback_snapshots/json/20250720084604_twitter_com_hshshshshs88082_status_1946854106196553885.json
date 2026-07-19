@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1946571471100457353",
+    "created_at": "2025-07-20T08:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T09:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946854106196553885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1505586914547490818",
+          "start": 0,
+          "username": "22ershier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946854106196553885",
+    "in_reply_to_user_id": "1505586914547490818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946571471100457353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22ershier 欸就是礼貌发问一下   为什么男的好像都很喜欢蹭外面？导致我以为这个里面是没有洞的🙉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139533,
+        "height": 720,
+        "media_key": "7_1946571274425098240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1946571274425098240/pu/img/MtV95jrGo5ltnrUp.jpg",
+        "public_metrics": {
+          "view_count": 27763
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946571274425098240/pu/vid/avc1/480x270/DAvBXErkqLqjTUdX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946571274425098240/pu/vid/avc1/640x360/VFM0e63TL8vWCbeV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946571274425098240/pu/vid/avc1/1280x720/V3QRXq12SbxklYhF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1946571274425098240/pu/pl/eCpeV06iu69BRz2P.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1946571471100457353",
+        "created_at": "2025-07-20T08:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T09:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946854106196553885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1505586914547490818",
+              "start": 0,
+              "username": "22ershier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946854106196553885",
+        "in_reply_to_user_id": "1505586914547490818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946571471100457353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22ershier 欸就是礼貌发问一下   为什么男的好像都很喜欢蹭外面？导致我以为这个里面是没有洞的🙉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1946571274425098240"
+          ]
+        },
+        "author_id": "1505586914547490818",
+        "conversation_id": "1946571471100457353",
+        "created_at": "2025-07-19T14:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T15:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946571471100457353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s1drwz34kk",
+              "end": 41,
+              "expanded_url": "https://x.com/22ershier/status/1946571471100457353/video/1",
+              "media_key": "7_1946571274425098240",
+              "start": 18,
+              "url": "https://t.co/s1drwz34kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946571471100457353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 87177,
+          "like_count": 2474,
+          "quote_count": 1,
+          "reply_count": 139,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "续集测评失败最后还是直接射里面了（ https://t.co/s1drwz34kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 84,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 284
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T16:47:55.000Z",
+        "description": "关了评论区的是推广大家注意辨别呀 千万不要点推特上的陌生链接！！！！熟人互关好朋友可以来@15TTkx 找我玩                             畅联世界！无广告干扰，机场节点随便挑，自用蜂鸟VPN  https://t.co/DO0G6JpZc6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 44,
+                "username": "15TTkx"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 135,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=8I9UwxNj",
+                "start": 112,
+                "url": "https://t.co/DO0G6JpZc6"
+              }
+            ]
+          }
+        },
+        "id": "1505586914547490818",
+        "name": "十五",
+        "pinned_tweet_id": "1936719696231113112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874818743538520064/aDwIN1xR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171813,
+          "following_count": 837,
+          "like_count": 40146,
+          "listed_count": 324,
+          "media_count": 353,
+          "tweet_count": 10745
+        },
+        "username": "22ershier",
+        "verified": false
+      }
+    ]
+  }
+}

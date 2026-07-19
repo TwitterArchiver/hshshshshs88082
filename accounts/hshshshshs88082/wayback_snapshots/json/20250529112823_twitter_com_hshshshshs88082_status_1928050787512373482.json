@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1927989140357853382",
+    "created_at": "2025-05-29T11:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T12:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928050787512373482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928050787512373482",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927989140357853382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb 老师声音怎么像喝醉过后"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2830416,
+        "height": 854,
+        "media_key": "13_1927986382116675584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927986382116675584/img/tvloX9-hJj23qpdr.jpg",
+        "public_metrics": {
+          "view_count": 582
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927986382116675584/vid/avc1/320x692/sSVb1LNtbRUE6qkG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927986382116675584/vid/avc1/394x854/2JLHO1QDjWPTcnO9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927986382116675584/pl/Gp-uBwXYe2jmHGKQ.m3u8"
+          }
+        ],
+        "width": 394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1927989140357853382",
+        "created_at": "2025-05-29T11:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T12:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928050787512373482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928050787512373482",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927989140357853382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb 老师声音怎么像喝醉过后"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927986382116675584"
+          ]
+        },
+        "author_id": "1867601056429223936",
+        "conversation_id": "1927989140357853382",
+        "created_at": "2025-05-29T07:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T08:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927989140357853382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvLiO49PnT",
+              "end": 23,
+              "expanded_url": "https://x.com/ccxxhmbb/status/1927989140357853382/video/1",
+              "media_key": "13_1927986382116675584",
+              "start": 0,
+              "url": "https://t.co/YvLiO49PnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927989140357853382",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1644,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YvLiO49PnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 112
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "接讲解题目文科5r一道，理科10r一道，大学20r包教会，私信题目（主播不会的学会了教你）🚪52+v。周二男粉福利。自用靠谱🪜：https://t.co/lgUT1XtMum",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sulink.life/#/register?cod…",
+                "end": 87,
+                "expanded_url": "https://www.sulink.life/#/register?code=CSv9eIoC",
+                "start": 64,
+                "url": "https://t.co/lgUT1XtMum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccxxhmbb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccxxhmbb",
+                "start": 0,
+                "url": "https://t.co/GiNEYJ8blS"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "🚪52+v",
+        "name": "睦依",
+        "pinned_tweet_id": "1923220079463776417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916067175665963012/uGwkZE0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15788,
+          "following_count": 23,
+          "like_count": 593,
+          "listed_count": 18,
+          "media_count": 202,
+          "tweet_count": 790
+        },
+        "url": "https://t.co/GiNEYJ8blS",
+        "username": "ccxxhmbb",
+        "verified": false
+      }
+    ]
+  }
+}

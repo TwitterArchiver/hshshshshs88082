@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1972505880961937431",
+    "created_at": "2025-09-30T08:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T09:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972943249687118156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1398720753319645184",
+          "start": 0,
+          "username": "anansuisuinian"
+        },
+        {
+          "end": 31,
+          "id": "1788854643163877376",
+          "start": 16,
+          "username": "fffffffx286556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972943249687118156",
+    "in_reply_to_user_id": "1398720753319645184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972688642859729120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anansuisuinian @fffffffx286556 我跟你的想法一样！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1972505880961937431",
+        "created_at": "2025-09-30T08:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972943249687118156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1398720753319645184",
+              "start": 0,
+              "username": "anansuisuinian"
+            },
+            {
+              "end": 31,
+              "id": "1788854643163877376",
+              "start": 16,
+              "username": "fffffffx286556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972943249687118156",
+        "in_reply_to_user_id": "1398720753319645184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972688642859729120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anansuisuinian @fffffffx286556 我跟你的想法一样！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398720753319645184",
+        "conversation_id": "1972505880961937431",
+        "created_at": "2025-09-29T15:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972688642859729120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1788854643163877376",
+              "start": 0,
+              "username": "fffffffx286556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972688642859729120",
+        "in_reply_to_user_id": "1788854643163877376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 623,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972505880961937431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fffffffx286556 4张都好萌啊！如果是做头像的话，第一张就是最绝的！如果是做手机壁纸的话就选第三张！第二张和第4张做平板的锁屏和开屏刚刚好！怎么看都是很完美的4张照片吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 81,
+          "like_count": 75,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 474
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T19:19:56.000Z",
+        "description": "大家都睡个好觉！私信很容易被马斯克吞掉，找我的话，直接在我的帖子喊我就行！阿南的匿名信箱：https://t.co/05r3cQy4ya",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anansuisuinian",
+                "end": 68,
+                "expanded_url": "https://ngl.link/anansuisuinian",
+                "start": 45,
+                "url": "https://t.co/05r3cQy4ya"
+              }
+            ]
+          }
+        },
+        "id": "1398720753319645184",
+        "location": "银行保险库忙忙碌碌寻宝藏",
+        "name": "阿南碎碎念",
+        "pinned_tweet_id": "1962417342551671052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967957904558051328/9GU2Evte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 135,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 3492
+        },
+        "username": "anansuisuinian",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "猕猴桃朋友圈",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "1963468931634454682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890388842987077633/LeBW2kFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16867,
+          "following_count": 55,
+          "like_count": 1705,
+          "listed_count": 31,
+          "media_count": 95,
+          "tweet_count": 690
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

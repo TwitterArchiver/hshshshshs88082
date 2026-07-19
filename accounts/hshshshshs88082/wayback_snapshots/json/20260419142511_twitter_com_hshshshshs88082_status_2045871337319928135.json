@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2045820428149825549",
+    "created_at": "2026-04-19T14:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045871337319928135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        },
+        {
+          "end": 23,
+          "id": "1752693029096599552",
+          "start": 16,
+          "username": "diyi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045871337319928135",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045826424653992120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt @diyi77 是的强硬一点就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2045820428149825549",
+        "created_at": "2026-04-19T14:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045871337319928135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            },
+            {
+              "end": 23,
+              "id": "1752693029096599552",
+              "start": 16,
+              "username": "diyi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045871337319928135",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045826424653992120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt @diyi77 是的强硬一点就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "2045820428149825549",
+        "created_at": "2026-04-19T11:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045826424653992120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1752693029096599552",
+              "start": 0,
+              "username": "diyi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045826424653992120",
+        "in_reply_to_user_id": "1752693029096599552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045826337131385215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diyi77 我去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 699
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7593,
+          "following_count": 231,
+          "like_count": 17812,
+          "listed_count": 10,
+          "media_count": 1151,
+          "tweet_count": 7224
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T13:59:34.000Z",
+        "description": "一具孤独冰冷的尸体｜如果你认识我请装作没看见｜当朋友圈发｜不要離開我",
+        "id": "1752693029096599552",
+        "name": "過期眼淚存檔",
+        "pinned_tweet_id": "1902227340228190455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045290886519738368/fd48GAgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 143,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 446
+        },
+        "username": "diyi77",
+        "verified": false
+      }
+    ]
+  }
+}

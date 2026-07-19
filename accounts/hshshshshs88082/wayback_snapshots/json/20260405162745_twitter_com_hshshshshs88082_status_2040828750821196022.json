@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2040828491453825456",
+    "created_at": "2026-04-05T16:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T17:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040828750821196022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040828750821196022",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040828491453825456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你给我发血图有什么用，我低头一看全他妈是血，我需要看你的吗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2040828491453825456",
+        "created_at": "2026-04-05T16:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040828750821196022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040828750821196022",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040828491453825456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你给我发血图有什么用，我低头一看全他妈是血，我需要看你的吗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2040828491453825456",
+        "created_at": "2026-04-05T16:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040828491453825456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040828491453825456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀好了好了都别闹了好不好，我知道你的痛苦知道你的烦心事了，我知道你一直在哭，这个世界对我们都很坏。可是对不起我安慰不了你了，我也一直在哭啊。我他妈转了一圈发现一个两个都有自己的苦日子要过，那行呗，所有人小手割起来好吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 635
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931994688573050880"
+      ],
+      "media_source_tweet_id": [
+        "1931994695124890087"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1932454372233077059",
+    "created_at": "2025-06-10T15:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T16:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932454372233077059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1724478615973494784",
+          "start": 3,
+          "username": "yuan_7302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JnAkD7bBuH",
+          "end": 60,
+          "expanded_url": "https://x.com/yuan_7302/status/1931994695124890087/photo/1",
+          "media_key": "3_1931994688573050880",
+          "start": 37,
+          "url": "https://t.co/JnAkD7bBuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932454372233077059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931994695124890087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuan_7302: 我比labubu丑多了为什么没有人为我花钱 https://t.co/JnAkD7bBuH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 369,
+        "media_key": "3_1931994688573050880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_S7uBWkAAD8Pb.jpg",
+        "width": 372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931994688573050880"
+          ],
+          "media_source_tweet_id": [
+            "1931994695124890087"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1932454372233077059",
+        "created_at": "2025-06-10T15:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T16:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932454372233077059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1724478615973494784",
+              "start": 3,
+              "username": "yuan_7302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnAkD7bBuH",
+              "end": 60,
+              "expanded_url": "https://x.com/yuan_7302/status/1931994695124890087/photo/1",
+              "media_key": "3_1931994688573050880",
+              "start": 37,
+              "url": "https://t.co/JnAkD7bBuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932454372233077059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931994695124890087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuan_7302: 我比labubu丑多了为什么没有人为我花钱 https://t.co/JnAkD7bBuH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931994688573050880"
+          ]
+        },
+        "author_id": "1724478615973494784",
+        "conversation_id": "1931994695124890087",
+        "created_at": "2025-06-09T08:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T09:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931994695124890087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnAkD7bBuH",
+              "end": 45,
+              "expanded_url": "https://x.com/yuan_7302/status/1931994695124890087/photo/1",
+              "media_key": "3_1931994688573050880",
+              "start": 22,
+              "url": "https://t.co/JnAkD7bBuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931994695124890087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 70160,
+          "like_count": 887,
+          "quote_count": 16,
+          "reply_count": 62,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "我比labubu丑多了为什么没有人为我花钱 https://t.co/JnAkD7bBuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 73,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 181
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T17:25:27.000Z",
+        "description": "我有点想死",
+        "id": "1724478615973494784",
+        "location": "🚪88",
+        "name": "緣",
+        "pinned_tweet_id": "1932116967206637940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884892043652304896/jFPyLAbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5064,
+          "following_count": 188,
+          "like_count": 14349,
+          "listed_count": 10,
+          "media_count": 617,
+          "tweet_count": 5641
+        },
+        "username": "yuan_7302",
+        "verified": false
+      }
+    ]
+  }
+}

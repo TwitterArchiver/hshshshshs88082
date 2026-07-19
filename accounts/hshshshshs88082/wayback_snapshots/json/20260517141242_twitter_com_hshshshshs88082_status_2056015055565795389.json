@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2055989118069526968",
+    "created_at": "2026-05-17T14:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056015055565795389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056015055565795389",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055989118069526968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 冰块这个萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2055989109467029504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhXM7PaoAAzzj3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2055989118069526968",
+        "created_at": "2026-05-17T14:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056015055565795389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056015055565795389",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055989118069526968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 冰块这个萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055989109467029504"
+          ]
+        },
+        "author_id": "2042615716059451399",
+        "conversation_id": "2055989118069526968",
+        "created_at": "2026-05-17T12:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055989118069526968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcKZooyd79",
+              "end": 26,
+              "expanded_url": "https://x.com/lyxtd3s/status/2055989118069526968/photo/1",
+              "media_key": "3_2055989109467029504",
+              "start": 3,
+              "url": "https://t.co/CcKZooyd79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055989118069526968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "流血 https://t.co/CcKZooyd79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 69,
+          "like_count": 310,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 758
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜双相 重抑 割手 od ｜男的加我🚪52",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2055978351001829782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 214,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 390
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2040814311158010298",
+    "created_at": "2026-04-05T23:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T00:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040928917415157778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1849383863023480832",
+          "start": 0,
+          "username": "bo199999bo"
+        },
+        {
+          "end": 26,
+          "id": "1790786038287491072",
+          "start": 12,
+          "username": "yunaLin627853"
+        },
+        {
+          "end": 38,
+          "id": "1809531811342737408",
+          "start": 27,
+          "username": "tracy_2060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040928917415157778",
+    "in_reply_to_user_id": "1849383863023480832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040856502869844277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bo199999bo @yunaLin627853 @tracy_2060 你看起来很厌恶自己的出生地啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2040814311158010298",
+        "created_at": "2026-04-05T23:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040928917415157778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1849383863023480832",
+              "start": 0,
+              "username": "bo199999bo"
+            },
+            {
+              "end": 26,
+              "id": "1790786038287491072",
+              "start": 12,
+              "username": "yunaLin627853"
+            },
+            {
+              "end": 38,
+              "id": "1809531811342737408",
+              "start": 27,
+              "username": "tracy_2060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040928917415157778",
+        "in_reply_to_user_id": "1849383863023480832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040856502869844277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bo199999bo @yunaLin627853 @tracy_2060 你看起来很厌恶自己的出生地啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849383863023480832",
+        "conversation_id": "2040814311158010298",
+        "created_at": "2026-04-05T18:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040856502869844277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790786038287491072",
+              "start": 0,
+              "username": "yunaLin627853"
+            },
+            {
+              "end": 26,
+              "id": "1809531811342737408",
+              "start": 15,
+              "username": "tracy_2060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040856502869844277",
+        "in_reply_to_user_id": "1790786038287491072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040855527580905794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunaLin627853 @tracy_2060 还是那句话，控制不住的东西就切了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023640257380700160/zpiWxBO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 69,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 639
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T09:34:22.000Z",
+        "description": "",
+        "id": "1849383863023480832",
+        "name": "OnemoreBottle",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 221
+        },
+        "username": "bo199999bo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T16:47:33.000Z",
+        "description": "",
+        "id": "1790786038287491072",
+        "name": "yuna Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998795439152435200/dm3-JNwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 163,
+          "like_count": 861,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "yunaLin627853",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T10:16:42.000Z",
+        "description": "我是被炸了无数个号的Brady，我决定换个昵称。",
+        "id": "1809531811342737408",
+        "name": "万物皆数",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940760100316368900/ytfUnuIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 337,
+          "like_count": 33763,
+          "listed_count": 5,
+          "media_count": 55,
+          "tweet_count": 2933
+        },
+        "username": "tracy_2060",
+        "verified": false
+      }
+    ]
+  }
+}

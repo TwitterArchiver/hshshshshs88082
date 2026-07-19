@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1984742744439603716",
+    "created_at": "2025-11-02T18:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T19:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985056148270297505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1872574667527245824",
+          "start": 0,
+          "username": "ovo7Ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985056148270297505",
+    "in_reply_to_user_id": "1872574667527245824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984742744439603716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovo7Ye 我直接不管  就开导"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1984742744439603716",
+        "created_at": "2025-11-02T18:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T19:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985056148270297505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1872574667527245824",
+              "start": 0,
+              "username": "ovo7Ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985056148270297505",
+        "in_reply_to_user_id": "1872574667527245824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984742744439603716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovo7Ye 我直接不管  就开导"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872574667527245824",
+        "conversation_id": "1984742744439603716",
+        "created_at": "2025-11-01T22:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T23:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984742744439603716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984742744439603716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1578,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姨妈期想diy我就在床上乱拱然后无能狂怒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 85,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 554
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-27T09:26:26.000Z",
+        "description": "@ovoYeZhi｜不约不线下｜感谢喜欢和关注｜推广自辨⚠️｜我想发啥就发啥别烦我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ovoYeZhi"
+              }
+            ]
+          }
+        },
+        "id": "1872574667527245824",
+        "location": "同我啜泣共我悲鸣",
+        "name": "椰汁冻",
+        "pinned_tweet_id": "1983490334714962261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983117287097032704/O7lg-cAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 457,
+          "like_count": 829,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 222
+        },
+        "username": "ovo7Ye",
+        "verified": false
+      }
+    ]
+  }
+}

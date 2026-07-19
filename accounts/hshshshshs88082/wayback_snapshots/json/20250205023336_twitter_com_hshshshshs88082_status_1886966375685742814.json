@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886966373630533635"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1882386807440248947",
+    "created_at": "2025-02-05T02:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T03:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886966375685742814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1376813917561757702",
+          "start": 0,
+          "username": "TaoTie_s"
+        },
+        {
+          "end": 19,
+          "id": "1790883860034519041",
+          "start": 10,
+          "username": "qing2202"
+        },
+        {
+          "end": 34,
+          "id": "1790831068729229312",
+          "start": 20,
+          "username": "Fkmaomaochong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dvsVcz8whD",
+          "end": 69,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1886966375685742814/photo/1",
+          "media_key": "3_1886966373630533635",
+          "start": 46,
+          "url": "https://t.co/dvsVcz8whD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886966375685742814",
+    "in_reply_to_user_id": "1376813917561757702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882386807440248947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaoTie_s @qing2202 @Fkmaomaochong 两位老师的互动很可爱 https://t.co/dvsVcz8whD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1886966373630533635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi_Z61Na4AMHTJC.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886966373630533635"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1882386807440248947",
+        "created_at": "2025-02-05T02:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T03:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886966375685742814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1376813917561757702",
+              "start": 0,
+              "username": "TaoTie_s"
+            },
+            {
+              "end": 19,
+              "id": "1790883860034519041",
+              "start": 10,
+              "username": "qing2202"
+            },
+            {
+              "end": 34,
+              "id": "1790831068729229312",
+              "start": 20,
+              "username": "Fkmaomaochong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvsVcz8whD",
+              "end": 69,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1886966375685742814/photo/1",
+              "media_key": "3_1886966373630533635",
+              "start": 46,
+              "url": "https://t.co/dvsVcz8whD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886966375685742814",
+        "in_reply_to_user_id": "1376813917561757702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882386807440248947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaoTie_s @qing2202 @Fkmaomaochong 两位老师的互动很可爱 https://t.co/dvsVcz8whD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376813917561757702",
+        "conversation_id": "1882386807440248947",
+        "created_at": "2025-01-23T11:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882386807440248947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "女同笔记i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882386807440248947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1291,
+          "impression_count": 770738,
+          "like_count": 3076,
+          "quote_count": 6,
+          "reply_count": 111,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "🌈第三届  #女同笔记i\n\n安利专题：①请安利喜欢的女同博主②安利女同片子博主③安利女同情侣号\n以上任何平台均可\n\n参与须知：1.纯女同参与，🚫男留言/搭讪，会屏蔽拉黑所有留言男性。2.正在和男友恋爱会突然发屌子的双性恋博主勿推，单身/有女友的双性恋可推。3.欢迎各位老师自荐🎉\n\n㊗️大家小年快乐～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "分享(发疯)日常 、有几只小仓鼠",
+        "id": "1776553425934909440",
+        "name": "抽象姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882442320240676865/CPJ-rS0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T08:30:00.000Z",
+        "description": "les🌈 0S/女权主义/INTP/纯爱战士 dom偏刑主S    ❤️已有对象\n💰接推广or约稿定制文 （推广自辨）",
+        "id": "1376813917561757702",
+        "name": "饕餮s",
+        "pinned_tweet_id": "1870107005467406457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377498476674605058/Eeg1Jmac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135251,
+          "following_count": 100,
+          "like_count": 8025,
+          "listed_count": 138,
+          "media_count": 213,
+          "tweet_count": 5083
+        },
+        "username": "TaoTie_s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T23:16:18.000Z",
+        "description": "我的崽崽@fkmaomaochong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "fkmaomaochong"
+              }
+            ]
+          }
+        },
+        "id": "1790883860034519041",
+        "location": "深海",
+        "name": "ᗦ清ᯐ",
+        "pinned_tweet_id": "1836382596965765606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834024610482061313/AJ3QqaTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11193,
+          "following_count": 2,
+          "like_count": 1923,
+          "listed_count": 13,
+          "media_count": 47,
+          "tweet_count": 773
+        },
+        "username": "qing2202",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T19:47:54.000Z",
+        "description": "我的妻子 @qing2202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "qing2202"
+              }
+            ]
+          }
+        },
+        "id": "1790831068729229312",
+        "location": "极乐世界",
+        "name": "₊⁺ ·绒松松· ﾟ ₊",
+        "pinned_tweet_id": "1883918685175464242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834192244641062912/GEb3WfjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29579,
+          "following_count": 76,
+          "like_count": 16108,
+          "listed_count": 31,
+          "media_count": 122,
+          "tweet_count": 3959
+        },
+        "username": "Fkmaomaochong",
+        "verified": false
+      }
+    ]
+  }
+}

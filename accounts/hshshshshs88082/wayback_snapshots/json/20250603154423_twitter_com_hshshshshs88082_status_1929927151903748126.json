@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1929236562493292799",
+    "created_at": "2025-06-03T15:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T16:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929927151903748126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1396167804294819841",
+          "start": 0,
+          "username": "qingjiu___"
+        },
+        {
+          "end": 28,
+          "id": "1513454564418097156",
+          "start": 12,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929927151903748126",
+    "in_reply_to_user_id": "1396167804294819841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929236562493292799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingjiu___ @nengyiqishuime1 上次说帮你冲 他做到了🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1929236550401069056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsYGa8pbEAAMBB5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1929236562493292799",
+        "created_at": "2025-06-03T15:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T16:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929927151903748126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1396167804294819841",
+              "start": 0,
+              "username": "qingjiu___"
+            },
+            {
+              "end": 28,
+              "id": "1513454564418097156",
+              "start": 12,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929927151903748126",
+        "in_reply_to_user_id": "1396167804294819841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929236562493292799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingjiu___ @nengyiqishuime1 上次说帮你冲 他做到了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929236550401069056"
+          ]
+        },
+        "author_id": "1396167804294819841",
+        "conversation_id": "1929236562493292799",
+        "created_at": "2025-06-01T18:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T19:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929236562493292799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QofWyIERMY",
+              "end": 29,
+              "expanded_url": "https://x.com/qingjiu___/status/1929236562493292799/photo/1",
+              "media_key": "3_1929236550401069056",
+              "start": 6,
+              "url": "https://t.co/QofWyIERMY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929236562493292799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18457,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "禁不了一点 https://t.co/QofWyIERMY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 66,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 143
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T18:15:30.000Z",
+        "description": "🚪169/江湖路远/破干男喘的/@qingjiu0513 唯一小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "qingjiu0513"
+              }
+            ]
+          }
+        },
+        "id": "1396167804294819841",
+        "location": "江西",
+        "name": "清酒",
+        "pinned_tweet_id": "1913919585281282355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1396168055898574849/D-Yecybe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65870,
+          "following_count": 142,
+          "like_count": 2915,
+          "listed_count": 214,
+          "media_count": 928,
+          "tweet_count": 4333
+        },
+        "username": "qingjiu___",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回  瓦陪玩10/h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 41,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 18,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1929155384599613848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83040,
+          "following_count": 540,
+          "like_count": 892,
+          "listed_count": 164,
+          "media_count": 49,
+          "tweet_count": 12805
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

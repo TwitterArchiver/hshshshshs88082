@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1957034162914762754",
+    "created_at": "2025-08-20T12:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T13:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958140883188302038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790883860034519041",
+          "start": 0,
+          "username": "qing2202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958140883188302038",
+    "in_reply_to_user_id": "1790883860034519041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957034162914762754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing2202 水母怎么这么有妈感啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1957034162914762754",
+        "created_at": "2025-08-20T12:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T13:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958140883188302038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790883860034519041",
+              "start": 0,
+              "username": "qing2202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958140883188302038",
+        "in_reply_to_user_id": "1790883860034519041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957034162914762754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing2202 水母怎么这么有妈感啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790883860034519041",
+        "conversation_id": "1957034162914762754",
+        "created_at": "2025-08-17T10:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T11:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957034162914762754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 119,
+              "tag": "水母和她的小鲨鱼"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "婚后日常"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "les"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957034162914762754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19047,
+          "like_count": 262,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "家妻刚才突然说她要当作精，躺在床上就开始命令我抱着她，抱了之后说不对，要两个手抱，两个手抱了之后说不对，要抱着她拍拍，拍了之后就开始在我怀里自己嘀嘀咕咕的不知道在说什么，然后自己说了几分钟就在我怀里睡着了，小比你其实只是困了吧^ _ ^\n#水母和她的小鲨鱼 #婚后日常 #les"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 71,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 424
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T23:16:18.000Z",
+        "description": "邪恶小比没导弹 ➡️ @fkmaomaochong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "fkmaomaochong"
+              }
+            ]
+          }
+        },
+        "id": "1790883860034519041",
+        "location": "深海",
+        "name": "ᗦ清ᯐ •͈ᴗ•͈ ಣ",
+        "pinned_tweet_id": "1947631244478501358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903871149077045249/2HprU0cN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17250,
+          "following_count": 2,
+          "like_count": 4008,
+          "listed_count": 26,
+          "media_count": 58,
+          "tweet_count": 1235
+        },
+        "username": "qing2202",
+        "verified": false
+      }
+    ]
+  }
+}

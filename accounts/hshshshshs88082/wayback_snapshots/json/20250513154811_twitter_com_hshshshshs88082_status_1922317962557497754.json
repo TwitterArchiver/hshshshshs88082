@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1916460024609509678",
+    "created_at": "2025-05-13T15:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922317962557497754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1757944489346568192",
+          "start": 0,
+          "username": "shaoguanwai2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922317962557497754",
+    "in_reply_to_user_id": "1757944489346568192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916460024609509678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoguanwai2 这段文字给我一种破音的感觉🌚🌚🫴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1916460017194344448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpiiO1cboAAZ3Gv.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1916460024609509678",
+        "created_at": "2025-05-13T15:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922317962557497754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1757944489346568192",
+              "start": 0,
+              "username": "shaoguanwai2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922317962557497754",
+        "in_reply_to_user_id": "1757944489346568192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916460024609509678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoguanwai2 这段文字给我一种破音的感觉🌚🌚🫴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916460017194344448"
+          ]
+        },
+        "author_id": "1757944489346568192",
+        "conversation_id": "1916460024609509678",
+        "created_at": "2025-04-27T11:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T12:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916460024609509678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1ILyGQcDB",
+              "end": 41,
+              "expanded_url": "https://x.com/shaoguanwai2/status/1916460024609509678/photo/1",
+              "media_key": "3_1916460017194344448",
+              "start": 18,
+              "url": "https://t.co/E1ILyGQcDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916460024609509678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4843,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让！我成为你心中的一！根！刺！吧！ https://t.co/E1ILyGQcDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921126949532893184/h7ygRv4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 54,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 87
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T01:47:49.000Z",
+        "description": "一些碎碎念 一些奇奇怪怪的文案 提问箱 https://t.co/hcNRO2Dip0 希望大家一切顺利天天开心",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oiiiii36411",
+                "end": 43,
+                "expanded_url": "https://ngl.link/oiiiii36411",
+                "start": 20,
+                "url": "https://t.co/hcNRO2Dip0"
+              }
+            ]
+          }
+        },
+        "id": "1757944489346568192",
+        "location": "随便",
+        "name": "Oiiiii",
+        "pinned_tweet_id": "1866489037739250108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875547046725480449/wgthGEHl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13061,
+          "following_count": 149,
+          "like_count": 21280,
+          "listed_count": 22,
+          "media_count": 899,
+          "tweet_count": 14297
+        },
+        "username": "shaoguanwai2",
+        "verified": false
+      }
+    ]
+  }
+}

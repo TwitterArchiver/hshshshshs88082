@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1922622635055214884",
+    "created_at": "2025-05-21T10:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925143738520949184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925143738520949184",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922622635055214884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb 我甚至有那么一瞬间怀疑我打开错了软件，点错了主播。。。老师你不是男喘嘛老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 294050,
+        "height": 1098,
+        "media_key": "13_1922622264908066816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922622264908066816/img/Q1eenNndrze5lbbf.jpg",
+        "public_metrics": {
+          "view_count": 8643
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922622264908066816/vid/avc1/320x488/OvLFMqB0NXASDPHt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922622264908066816/vid/avc1/480x732/8cIJ8IjNNuvRPkmu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922622264908066816/vid/avc1/720x1098/ruecHgzxO-2M8_vn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922622264908066816/pl/0Y8s7Mr-LOYpndMH.m3u8?v=d62"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1922622635055214884",
+        "created_at": "2025-05-21T10:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925143738520949184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925143738520949184",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922622635055214884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb 我甚至有那么一瞬间怀疑我打开错了软件，点错了主播。。。老师你不是男喘嘛老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922622264908066816"
+          ]
+        },
+        "author_id": "1867601056429223936",
+        "conversation_id": "1922622635055214884",
+        "created_at": "2025-05-14T11:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T12:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922622635055214884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "学习"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwOAAapgNe",
+              "end": 31,
+              "expanded_url": "https://x.com/ccxxhmbb/status/1922622635055214884/video/1",
+              "media_key": "13_1922622264908066816",
+              "start": 8,
+              "url": "https://t.co/XwOAAapgNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922622635055214884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 29211,
+          "like_count": 146,
+          "quote_count": 1,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "必考题\n#学习 https://t.co/XwOAAapgNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 57,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 92
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "接讲解题目文科5r一道，理科10r一道，大学20r包教会，私信题目（主播不会的学会了教你！！！）自用靠谱🪜：https://t.co/lgUT1XukjU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sulink.life/#/register?cod…",
+                "end": 77,
+                "expanded_url": "https://www.sulink.life/#/register?code=CSv9eIoC",
+                "start": 54,
+                "url": "https://t.co/lgUT1XukjU"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "香港",
+        "name": "睦依",
+        "pinned_tweet_id": "1923220079463776417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916067175665963012/uGwkZE0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15178,
+          "following_count": 17,
+          "like_count": 585,
+          "listed_count": 16,
+          "media_count": 189,
+          "tweet_count": 754
+        },
+        "username": "ccxxhmbb",
+        "verified": false
+      }
+    ]
+  }
+}

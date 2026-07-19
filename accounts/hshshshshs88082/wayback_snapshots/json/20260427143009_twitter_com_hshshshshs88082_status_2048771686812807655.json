@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2048771686812807655",
+    "created_at": "2026-04-27T14:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048771686812807655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1891311621991219200",
+          "start": 3,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048771686812807655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048388060451336385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouo1: 刷到此条推文的精神病们，我是糯米！\n\n请问大家有搬去bluesky的吗，或者搬去其他什么地方了呢！(๑'ᵕ'๑)⸝*\n有的话请甩账号糯米和你在那边互关！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2048771686812807655",
+        "created_at": "2026-04-27T14:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048771686812807655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891311621991219200",
+              "start": 3,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048771686812807655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048388060451336385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouo1: 刷到此条推文的精神病们，我是糯米！\n\n请问大家有搬去bluesky的吗，或者搬去其他什么地方了呢！(๑'ᵕ'๑)⸝*\n有的话请甩账号糯米和你在那边互关！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2048388060451336385",
+        "created_at": "2026-04-26T13:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048388060451336385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048388060451336385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8545,
+          "like_count": 158,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刷到此条推文的精神病们，我是糯米！\n\n请问大家有搬去bluesky的吗，或者搬去其他什么地方了呢！(๑'ᵕ'๑)⸝*\n有的话请甩账号糯米和你在那边互关！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 143,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 744
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "成分请看@Numiouo @Numiouo2 \n同类都会回 关注限制只能一批批回\n致举报者：你大可以继续当老鼠偷偷视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "Numiouo"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Numiouo2"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米2.0（句末为叠甲 同类请无视）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 386,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 193
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

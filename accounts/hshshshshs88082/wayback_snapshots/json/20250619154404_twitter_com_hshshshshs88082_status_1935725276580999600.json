@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1935346915433935285",
+    "created_at": "2025-06-19T15:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T16:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935725276580999600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894753734149988353",
+          "start": 0,
+          "username": "yolo0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935725276580999600",
+    "in_reply_to_user_id": "1894753734149988353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935346915433935285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yolo0630 和三哥学了什么鬼玩意啊🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1935346915433935285",
+        "created_at": "2025-06-19T15:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935725276580999600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935725276580999600",
+        "in_reply_to_user_id": "1894753734149988353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935346915433935285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 和三哥学了什么鬼玩意啊🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894753734149988353",
+        "conversation_id": "1935346915433935285",
+        "created_at": "2025-06-18T14:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T15:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935346915433935285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hongpigu980/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/hongpigu980/status/1935301489947459779",
+              "start": 4,
+              "url": "https://t.co/F6suGCac8t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935346915433935285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935301489947459779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妈 https://t.co/F6suGCac8t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 81,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 263
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:18:04.000Z",
+        "description": "07/巨蟹/infp 随缘回私信 不陪聊 不线下 好想睡觉💤",
+        "id": "1894753734149988353",
+        "location": "🚪88/128/188",
+        "name": "yolo",
+        "pinned_tweet_id": "1933219472828977572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930183882525290501/L3D2pelJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 102,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 589
+        },
+        "username": "yolo0630",
+        "verified": false
+      }
+    ]
+  }
+}

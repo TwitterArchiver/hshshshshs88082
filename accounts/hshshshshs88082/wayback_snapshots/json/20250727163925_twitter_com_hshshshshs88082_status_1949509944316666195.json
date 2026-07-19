@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1949456710650700211",
+    "created_at": "2025-07-27T16:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949509944316666195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1373215321079697408",
+          "start": 0,
+          "username": "aa210067"
+        },
+        {
+          "end": 19,
+          "id": "1672957650194296832",
+          "start": 10,
+          "username": "Koii1212"
+        },
+        {
+          "end": 29,
+          "id": "1710303513333420032",
+          "start": 20,
+          "username": "Chen_XXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949509944316666195",
+    "in_reply_to_user_id": "1373215321079697408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949480643655868562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa210067 @Koii1212 @Chen_XXL 哇塞？。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1949456710650700211",
+        "created_at": "2025-07-27T16:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949509944316666195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1373215321079697408",
+              "start": 0,
+              "username": "aa210067"
+            },
+            {
+              "end": 19,
+              "id": "1672957650194296832",
+              "start": 10,
+              "username": "Koii1212"
+            },
+            {
+              "end": 29,
+              "id": "1710303513333420032",
+              "start": 20,
+              "username": "Chen_XXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949509944316666195",
+        "in_reply_to_user_id": "1373215321079697408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949480643655868562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa210067 @Koii1212 @Chen_XXL 哇塞？。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373215321079697408",
+        "conversation_id": "1949456710650700211",
+        "created_at": "2025-07-27T14:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949480643655868562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672957650194296832",
+              "start": 0,
+              "username": "Koii1212"
+            },
+            {
+              "end": 19,
+              "id": "1710303513333420032",
+              "start": 10,
+              "username": "Chen_XXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949480643655868562",
+        "in_reply_to_user_id": "1672957650194296832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949462381291319579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koii1212 @Chen_XXL 看私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 309
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-20T10:10:30.000Z",
+        "description": "",
+        "id": "1373215321079697408",
+        "name": "aa210067",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 934,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2561
+        },
+        "username": "aa210067",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T13:19:33.000Z",
+        "description": "172 52 废话很多的一个小女孩 喜欢我请给我打钱🚪128私信只回口令",
+        "id": "1672957650194296832",
+        "name": "无忧忧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944292629480386560/3Md9gGDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 47,
+          "like_count": 42,
+          "listed_count": 10,
+          "media_count": 44,
+          "tweet_count": 166
+        },
+        "username": "Koii1212",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T14:38:37.000Z",
+        "description": "4️⃣不原则：不加联系方式｜不线下｜不是gay｜不接广｜匿名信箱：https://t.co/lhU2P9Mlwj 什么都能问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chen_xxl",
+                "end": 56,
+                "expanded_url": "https://ngl.link/chen_xxl",
+                "start": 33,
+                "url": "https://t.co/lhU2P9Mlwj"
+              }
+            ]
+          }
+        },
+        "id": "1710303513333420032",
+        "location": "🌏",
+        "name": "晨✨",
+        "pinned_tweet_id": "1949267260251746510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948631716924719109/AUN9z0bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35615,
+          "following_count": 154,
+          "like_count": 209,
+          "listed_count": 56,
+          "media_count": 17,
+          "tweet_count": 203
+        },
+        "username": "Chen_XXL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1943534638812774688",
+    "created_at": "2025-07-12T02:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T03:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943866848350540132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943866848350540132",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943534638812774688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 我思考了好久🤔卤蛋为什么可以蹭你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1943534638812774688",
+        "created_at": "2025-07-12T02:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T03:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943866848350540132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943866848350540132",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943534638812774688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 我思考了好久🤔卤蛋为什么可以蹭你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757634899002216448",
+        "conversation_id": "1943534638812774688",
+        "created_at": "2025-07-11T04:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943534638812774688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943534638812774688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能再过十几年会突然想起来现在高考完暑假的一个下午 什么事情都没有就在妈妈家里躺在摇椅上带着按摩仪晒着太阳 左边一杯茶百道 右边放着pad看小说 手里再打着金铲铲的s7恭喜发财🤔时不时还有个卤蛋过来蹭我两下 其实自己一个人还蛮幸福的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 271
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "希望大家都能好好吃饭 天天开心 提问箱在这里！！➡️https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 49,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 26,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "🚪52｜互关免费",
+        "name": "宁宴",
+        "pinned_tweet_id": "1938911391056064533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934107749304180736/SmZV7_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 81,
+          "like_count": 2272,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 1327
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

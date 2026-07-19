@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907798257226661888"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1907798260661756329",
+    "created_at": "2025-04-03T14:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T15:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907798260661756329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8aC7aiw5pC",
+          "end": 39,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1907798260661756329/photo/1",
+          "media_key": "3_1907798257226661888",
+          "start": 16,
+          "url": "https://t.co/8aC7aiw5pC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907798260661756329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冲完的水管真的好像软掉了啊🙃🙃 https://t.co/8aC7aiw5pC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1907798257226661888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnncaDEawAA4N5S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907798257226661888"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1907798260661756329",
+        "created_at": "2025-04-03T14:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T15:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907798260661756329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aC7aiw5pC",
+              "end": 39,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1907798260661756329/photo/1",
+              "media_key": "3_1907798257226661888",
+              "start": 16,
+              "url": "https://t.co/8aC7aiw5pC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907798260661756329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲完的水管真的好像软掉了啊🙃🙃 https://t.co/8aC7aiw5pC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 46,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 68
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

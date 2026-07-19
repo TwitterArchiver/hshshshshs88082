@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1933902321119109242",
+    "created_at": "2025-06-14T15:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933902730898337840"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1933902730898337840",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933902321119109242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小睡的音色可以算是最戳我的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1804,
+        "media_key": "3_1933902318006886400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaZ6Xca4AAoZzo.jpg",
+        "width": 1076
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933902318409498624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaZ6Y8aQAADxf1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1933902321119109242",
+        "created_at": "2025-06-14T15:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933902730898337840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933902730898337840",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933902321119109242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小睡的音色可以算是最戳我的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933902318006886400",
+            "3_1933902318409498624"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1933902321119109242",
+        "created_at": "2025-06-14T15:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933902321119109242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lkaCyo3d1A",
+              "end": 34,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1933902321119109242/photo/1",
+              "media_key": "3_1933902318006886400",
+              "start": 11,
+              "url": "https://t.co/lkaCyo3d1A"
+            },
+            {
+              "display_url": "pic.x.com/lkaCyo3d1A",
+              "end": 34,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1933902321119109242/photo/1",
+              "media_key": "3_1933902318409498624",
+              "start": 11,
+              "url": "https://t.co/lkaCyo3d1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933902321119109242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主打一个独宠小睡^^ https://t.co/lkaCyo3d1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 81,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 233
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

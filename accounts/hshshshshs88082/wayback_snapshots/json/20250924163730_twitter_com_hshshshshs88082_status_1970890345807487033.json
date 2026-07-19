@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1970652556125986988",
+    "created_at": "2025-09-24T16:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970890345807487033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754023103339094016",
+          "start": 0,
+          "username": "zhangcw04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970890345807487033",
+    "in_reply_to_user_id": "1754023103339094016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970652556125986988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangcw04 切成块  加点调味料炒炒应该很好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_1970652519312523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1kqBn1aAAAJJgV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1970652556125986988",
+        "created_at": "2025-09-24T16:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970890345807487033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754023103339094016",
+              "start": 0,
+              "username": "zhangcw04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970890345807487033",
+        "in_reply_to_user_id": "1754023103339094016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970652556125986988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangcw04 切成块  加点调味料炒炒应该很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970652519312523264"
+          ]
+        },
+        "author_id": "1754023103339094016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1970652556125986988",
+        "created_at": "2025-09-24T00:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T01:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970652556125986988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0BpZAFbSK",
+              "end": 57,
+              "expanded_url": "https://x.com/zhangcw04/status/1970652556125986988/photo/1",
+              "media_key": "3_1970652519312523264",
+              "start": 34,
+              "url": "https://t.co/n0BpZAFbSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970652556125986988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13540,
+          "like_count": 92,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "电压力锅忘记拔插头了，米饭在里面保温了一下午，变板砖了，还能救吗？ https://t.co/n0BpZAFbSK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 77,
+          "like_count": 74,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 466
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T06:04:44.000Z",
+        "description": "美食",
+        "id": "1754023103339094016",
+        "name": "白雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754321141446115328/C3N53vHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11443,
+          "following_count": 10182,
+          "like_count": 8142,
+          "listed_count": 29,
+          "media_count": 2145,
+          "tweet_count": 8297
+        },
+        "username": "zhangcw04",
+        "verified": false
+      }
+    ]
+  }
+}

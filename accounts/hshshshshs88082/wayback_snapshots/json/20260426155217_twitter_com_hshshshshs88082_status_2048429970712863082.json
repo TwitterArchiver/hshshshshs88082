@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2048385828855189636",
+    "created_at": "2026-04-26T15:52:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:52:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048429970712863082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048429970712863082",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048385828855189636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 天呐  不要再欺负我们糯米了，不喜欢看就屏蔽啊。一直举报到底何意味！(⁠╯⁠︵⁠╰⁠,⁠)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048385818830786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1UDKZbUAAhaTD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2048385828855189636",
+        "created_at": "2026-04-26T15:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048429970712863082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048429970712863082",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048385828855189636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 天呐  不要再欺负我们糯米了，不喜欢看就屏蔽啊。一直举报到底何意味！(⁠╯⁠︵⁠╰⁠,⁠)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048385818830786560"
+          ]
+        },
+        "author_id": "1891311621991219200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048385828855189636",
+        "created_at": "2026-04-26T12:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048385828855189636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/De5vpOlRQU",
+              "end": 32,
+              "expanded_url": "https://x.com/Numiouo1/status/2048385828855189636/photo/1",
+              "media_key": "3_2048385818830786560",
+              "start": 9,
+              "url": "https://t.co/De5vpOlRQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048385828855189636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条也被举报了哦 https://t.co/De5vpOlRQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 730
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 关注限制只能一批批回\n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 287,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 126
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

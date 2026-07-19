@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2060717144044871933",
+    "created_at": "2026-05-30T16:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060765413995397489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044109004973191169",
+          "start": 0,
+          "username": "Kisskittyii7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060765413995397489",
+    "in_reply_to_user_id": "2044109004973191169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060717144044871933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisskittyii7 六百万？。姐一点架子也没有  你们还叫呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060717135131967488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkjUPYaAAAfMib.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2060717144044871933",
+        "created_at": "2026-05-30T16:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060765413995397489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044109004973191169",
+              "start": 0,
+              "username": "Kisskittyii7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060765413995397489",
+        "in_reply_to_user_id": "2044109004973191169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060717144044871933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisskittyii7 六百万？。姐一点架子也没有  你们还叫呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060717135131967488"
+          ]
+        },
+        "author_id": "2044109004973191169",
+        "conversation_id": "2060717144044871933",
+        "created_at": "2026-05-30T13:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060717144044871933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SZp7aeZ7PG",
+              "end": 118,
+              "expanded_url": "https://x.com/Kisskittyii7/status/2060717144044871933/photo/1",
+              "media_key": "3_2060717135131967488",
+              "start": 95,
+              "url": "https://t.co/SZp7aeZ7PG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060717144044871933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 53302,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 137,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于为什么不收🚪这件事我简单说三点。。。\n今天见识到太多神奇宝贝了，所以以后也不会开放好友位啦，喜欢我的宝宝可以给我发私信，我看到都会回（没有礼貌的大傻逼除外），欢迎大家找我聊天≡^ˇ^≡ https://t.co/SZp7aeZ7PG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 77,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 767
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T17:47:43.000Z",
+        "description": "前任幸福了 暧昧对象恋爱了 喜欢的人互删了 常看的网站被封了 种的菜被人偷了",
+        "id": "2044109004973191169",
+        "name": "年糕",
+        "pinned_tweet_id": "2058918037978493419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044110688436793348/2-UK3npE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 9,
+          "like_count": 28,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 39
+        },
+        "username": "Kisskittyii7",
+        "verified": false
+      }
+    ]
+  }
+}

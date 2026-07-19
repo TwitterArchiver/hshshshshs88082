@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2048568534805225810",
+    "created_at": "2026-04-27T10:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048714276718923861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048393340048293888",
+          "start": 0,
+          "username": "Numiouo2"
+        },
+        {
+          "end": 26,
+          "id": "1970857021588262912",
+          "start": 10,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048714276718923861",
+    "in_reply_to_user_id": "2048393340048293888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048605693780050087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo2 @RainEngine_2024 那糯米把互关都放进来之后再锁号是不是能减少被举报的风险😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2048568534805225810",
+        "created_at": "2026-04-27T10:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048714276718923861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048393340048293888",
+              "start": 0,
+              "username": "Numiouo2"
+            },
+            {
+              "end": 26,
+              "id": "1970857021588262912",
+              "start": 10,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048714276718923861",
+        "in_reply_to_user_id": "2048393340048293888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048605693780050087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo2 @RainEngine_2024 那糯米把互关都放进来之后再锁号是不是能减少被举报的风险😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048393340048293888",
+        "conversation_id": "2048568534805225810",
+        "created_at": "2026-04-27T03:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048605693780050087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048605693780050087",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048568534805225810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 里推上锁了吗qeq我正在测试锁号是否减少禁言概率"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 65,
+          "like_count": 138,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 739
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:27:19.000Z",
+        "description": "bluesky🆔numiouo\n@Numiouo @Numiouo1 都是我\nfo受限制 没回fo就是还没刷新cd \n我爱你们 永远永远 其他的都不重要了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Numiouo"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "2048393340048293888",
+        "name": "糯米3.0（大号被害中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393697314979840/mkNygmZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 148,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "Numiouo2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党，家长不管党，炸柜:03.12|OD|生产日期:11.13.2011|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭，渴望在家里躺尸😭|有点笨笨的🥺|同类互fo喵～|里推@UnkXyn|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 137,
+                "username": "UnkXyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 168,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 145,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk18062",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk18062",
+                "start": 0,
+                "url": "https://t.co/fX9aFesgGh"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "湖北省-孝感市-汉川市",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2137,
+          "following_count": 1429,
+          "like_count": 15949,
+          "listed_count": 2,
+          "media_count": 495,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/fX9aFesgGh",
+        "username": "RainEngine_2024",
+        "verified": true
+      }
+    ]
+  }
+}

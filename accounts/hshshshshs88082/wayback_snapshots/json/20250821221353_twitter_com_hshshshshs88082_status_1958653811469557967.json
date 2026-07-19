@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1958653811469557967",
+    "created_at": "2025-08-21T22:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T23:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958653811469557967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900688917902282752",
+          "start": 3,
+          "username": "icecake999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958653811469557967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958543930733023436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @icecake999: 睡前会变得超级黏糊 就想跟人撒娇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1958653811469557967",
+        "created_at": "2025-08-21T22:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T23:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958653811469557967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900688917902282752",
+              "start": 3,
+              "username": "icecake999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958653811469557967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958543930733023436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @icecake999: 睡前会变得超级黏糊 就想跟人撒娇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900688917902282752",
+        "conversation_id": "1958543930733023436",
+        "created_at": "2025-08-21T14:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T15:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958543930733023436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958543930733023436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "睡前会变得超级黏糊 就想跟人撒娇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 72,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 435
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T23:22:37.000Z",
+        "description": "羊村大王",
+        "id": "1900688917902282752",
+        "location": "🚪188",
+        "name": "冰煮羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906728949675081728/CUWsAtPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 39,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1035
+        },
+        "username": "icecake999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1957673939712274443",
+    "created_at": "2025-08-19T05:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T06:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957673939712274443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870067454765838336",
+          "start": 3,
+          "username": "chessi1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957673939712274443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957442832026808649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessi1a: 谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1957673939712274443",
+        "created_at": "2025-08-19T05:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T06:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957673939712274443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870067454765838336",
+              "start": 3,
+              "username": "chessi1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957673939712274443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957442832026808649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chessi1a: 谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870067454765838336",
+        "conversation_id": "1957442832026808649",
+        "created_at": "2025-08-18T14:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T15:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957442832026808649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chenore33/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/chenore33/status/1957438396219175361",
+              "start": 80,
+              "url": "https://t.co/EqaJsetjP6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957442832026808649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 858,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957438396219175361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢大家长久以来对我的忽视，我很喜欢这个软件，大家都各聊各的，没人鸟我，我也不想鸟你们，很温馨的一个软件，希望大家继续加油，我会一直和你们耗下去，你们这群叼毛 https://t.co/EqaJsetjP6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 86,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 379
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T11:23:27.000Z",
+        "description": "08/叫我小娅/私信仅回复过🚪相关/主人@航站楼 /自用vpn：https://t.co/QnxWbh1SjM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=TdtMGihT",
+                "start": 32,
+                "url": "https://t.co/QnxWbh1SjM"
+              }
+            ]
+          }
+        },
+        "id": "1870067454765838336",
+        "location": "🚪88/188/288口令即可",
+        "name": "生物损伤科",
+        "pinned_tweet_id": "1952269408459694174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891054663161565184/LboD5koF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4137,
+          "following_count": 564,
+          "like_count": 10945,
+          "listed_count": 7,
+          "media_count": 385,
+          "tweet_count": 2828
+        },
+        "username": "chessi1a",
+        "verified": false
+      }
+    ]
+  }
+}

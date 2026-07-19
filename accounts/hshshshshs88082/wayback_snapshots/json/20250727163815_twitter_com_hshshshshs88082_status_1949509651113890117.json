@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1949374944263205033",
+    "created_at": "2025-07-27T16:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949509651113890117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895471254767104001",
+          "start": 0,
+          "username": "ling0100_miao"
+        },
+        {
+          "end": 27,
+          "id": "1617182103518515202",
+          "start": 15,
+          "username": "RyderMooney"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/dantatatata070…",
+          "end": 51,
+          "expanded_url": "https://x.com/dantatatata0708/status/1949326526081532373?t=4qXSfKEsz20-raXIvosUaA&s=19",
+          "start": 28,
+          "url": "https://t.co/OICH9tUc0d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949509651113890117",
+    "in_reply_to_user_id": "1895471254767104001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949326526081532373",
+        "type": "quoted"
+      },
+      {
+        "id": "1949476739534520505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ling0100_miao @RyderMooney https://t.co/OICH9tUc0d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949326496201625600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1mHs1a0AAmwKa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949326496218431488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1mHs5bQAA-bvM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949326494741987328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1mHnZagAAX-Wp.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949326494754648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1mHncbsAA8YOk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1949374944263205033",
+        "created_at": "2025-07-27T16:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949509651113890117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895471254767104001",
+              "start": 0,
+              "username": "ling0100_miao"
+            },
+            {
+              "end": 27,
+              "id": "1617182103518515202",
+              "start": 15,
+              "username": "RyderMooney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dantatatata070…",
+              "end": 51,
+              "expanded_url": "https://x.com/dantatatata0708/status/1949326526081532373?t=4qXSfKEsz20-raXIvosUaA&s=19",
+              "start": 28,
+              "url": "https://t.co/OICH9tUc0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949509651113890117",
+        "in_reply_to_user_id": "1895471254767104001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949326526081532373",
+            "type": "quoted"
+          },
+          {
+            "id": "1949476739534520505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ling0100_miao @RyderMooney https://t.co/OICH9tUc0d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949326496201625600",
+            "3_1949326496218431488",
+            "3_1949326494741987328",
+            "3_1949326494754648064"
+          ]
+        },
+        "author_id": "1910021782914097154",
+        "conversation_id": "1949326526081532373",
+        "created_at": "2025-07-27T04:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949326526081532373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhcVQykhIf",
+              "end": 32,
+              "expanded_url": "https://x.com/dantatatata0708/status/1949326526081532373/photo/1",
+              "media_key": "3_1949326496201625600",
+              "start": 9,
+              "url": "https://t.co/yhcVQykhIf"
+            },
+            {
+              "display_url": "pic.x.com/yhcVQykhIf",
+              "end": 32,
+              "expanded_url": "https://x.com/dantatatata0708/status/1949326526081532373/photo/1",
+              "media_key": "3_1949326496218431488",
+              "start": 9,
+              "url": "https://t.co/yhcVQykhIf"
+            },
+            {
+              "display_url": "pic.x.com/yhcVQykhIf",
+              "end": 32,
+              "expanded_url": "https://x.com/dantatatata0708/status/1949326526081532373/photo/1",
+              "media_key": "3_1949326494741987328",
+              "start": 9,
+              "url": "https://t.co/yhcVQykhIf"
+            },
+            {
+              "display_url": "pic.x.com/yhcVQykhIf",
+              "end": 32,
+              "expanded_url": "https://x.com/dantatatata0708/status/1949326526081532373/photo/1",
+              "media_key": "3_1949326494754648064",
+              "start": 9,
+              "url": "https://t.co/yhcVQykhIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949326526081532373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 56169,
+          "like_count": 287,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "没人说那我来吧😅 https://t.co/yhcVQykhIf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895471254767104001",
+        "conversation_id": "1949374944263205033",
+        "created_at": "2025-07-27T14:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T15:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949476739534520505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1617182103518515202",
+              "start": 0,
+              "username": "RyderMooney"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949476739534520505",
+        "in_reply_to_user_id": "1617182103518515202",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 887,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949374944263205033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyderMooney 👂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 83,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 308
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T13:49:27.000Z",
+        "description": "我爱我爱你. | 不准发鸡 | 喜欢183白皮青年音肌肉帅哥",
+        "id": "1895471254767104001",
+        "name": "凌晨一点的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946577893301129216/u2ASgXQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 102,
+          "like_count": 2247,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 717
+        },
+        "username": "ling0100_miao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T15:27:25.000Z",
+        "description": "brat | csj | 轻中度| 🪢| 推止于推 | 私信请带自我介绍 | 如果因我而感到幸福请上钩𐃆 ˒˒𑙕 .   ᩙ . ꛒ",
+        "id": "1617182103518515202",
+        "location": "广州",
+        "name": "Ryder Mooney",
+        "pinned_tweet_id": "1949497256651939896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889541836165033984/sz0CvdWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6405,
+          "following_count": 133,
+          "like_count": 249,
+          "listed_count": 15,
+          "media_count": 23,
+          "tweet_count": 206
+        },
+        "username": "RyderMooney",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T17:27:50.000Z",
+        "description": "6 6 6 7 8",
+        "id": "1910021782914097154",
+        "location": "你家",
+        "name": "蛋挞挞挞挞挞～",
+        "pinned_tweet_id": "1949121247230718175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922364708075556864/Wxg8fx4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 149,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 264
+        },
+        "username": "dantatatata0708",
+        "verified": false
+      }
+    ]
+  }
+}

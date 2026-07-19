@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2055972358524182730",
+    "created_at": "2026-05-17T14:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056015650305516010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056015650305516010",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055972358524182730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 这妆容好帅!冰块的权威无需多言😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7683,
+        "height": 1280,
+        "media_key": "13_2055972284968718336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055972284968718336/img/vErHkZaXbTOUJ5Ot.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972284968718336/vid/avc1/320x568/iyzVw7-yWbT8ocjE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972284968718336/vid/avc1/480x852/KYtwB2DsXpqCP92g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972284968718336/vid/avc1/720x1280/e-_ZkyzY0vMhBJRa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055972284968718336/pl/xcxjlQg3pxnAQ_lz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2055972358524182730",
+        "created_at": "2026-05-17T14:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056015650305516010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056015650305516010",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055972358524182730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 这妆容好帅!冰块的权威无需多言😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055972284968718336"
+          ]
+        },
+        "author_id": "2042615716059451399",
+        "conversation_id": "2055972358524182730",
+        "created_at": "2026-05-17T11:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055972358524182730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PnA9SQGzM",
+              "end": 32,
+              "expanded_url": "https://x.com/lyxtd3s/status/2055972358524182730/video/1",
+              "media_key": "13_2055972284968718336",
+              "start": 9,
+              "url": "https://t.co/4PnA9SQGzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055972358524182730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我吗哇呀呀呀 https://t.co/4PnA9SQGzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 70,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 759
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜双相 重抑 割手 od ｜男的加我🚪52",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2055978351001829782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 214,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 390
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

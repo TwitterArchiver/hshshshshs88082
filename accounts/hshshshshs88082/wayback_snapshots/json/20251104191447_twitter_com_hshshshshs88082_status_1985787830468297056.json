@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985787827813302273",
+        "3_1985787828169818115"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1985787830468297056",
+    "created_at": "2025-11-04T19:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T20:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985787830468297056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S4BqlIj3do",
+          "end": 32,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1985787830468297056/photo/1",
+          "media_key": "3_1985787827813302273",
+          "start": 9,
+          "url": "https://t.co/S4BqlIj3do"
+        },
+        {
+          "display_url": "pic.x.com/S4BqlIj3do",
+          "end": 32,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1985787830468297056/photo/1",
+          "media_key": "3_1985787828169818115",
+          "start": 9,
+          "url": "https://t.co/S4BqlIj3do"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985787830468297056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个好萌啊🥹💗💗 https://t.co/S4BqlIj3do"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1985787827813302273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47vghwbQAEZo53.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_1985787828169818115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47vgjFbQAMGF6X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985787827813302273",
+            "3_1985787828169818115"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985787830468297056",
+        "created_at": "2025-11-04T19:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T20:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985787830468297056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4BqlIj3do",
+              "end": 32,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1985787830468297056/photo/1",
+              "media_key": "3_1985787827813302273",
+              "start": 9,
+              "url": "https://t.co/S4BqlIj3do"
+            },
+            {
+              "display_url": "pic.x.com/S4BqlIj3do",
+              "end": 32,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1985787830468297056/photo/1",
+              "media_key": "3_1985787828169818115",
+              "start": 9,
+              "url": "https://t.co/S4BqlIj3do"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985787830468297056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好萌啊🥹💗💗 https://t.co/S4BqlIj3do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 85,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 560
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

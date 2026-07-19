@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1891025074955694537",
+    "created_at": "2025-02-17T09:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T10:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891423535131713594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666862952027127831",
+          "start": 0,
+          "username": "kangyeon91"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891423535131713594",
+    "in_reply_to_user_id": "1666862952027127831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891025074955694537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kangyeon91 老师 我长得不好看 不要讨厌我啊🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1891025074955694537",
+        "created_at": "2025-02-17T09:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T10:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891423535131713594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666862952027127831",
+              "start": 0,
+              "username": "kangyeon91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891423535131713594",
+        "in_reply_to_user_id": "1666862952027127831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891025074955694537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kangyeon91 老师 我长得不好看 不要讨厌我啊🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666862952027127831",
+        "conversation_id": "1891025074955694537",
+        "created_at": "2025-02-16T07:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T08:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891025074955694537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891025074955694537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8414,
+          "like_count": 122,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我会因为面相而喜欢或者讨厌一个人，听上去很不讲道理，但会慢慢发现我莫名讨厌的人真的很值得被讨厌，并且还会被很多人发现它的讨厌之处。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T17:41:17.000Z",
+        "description": "饼干中的坏蛋 | 已婚@nishibigsb | https://t.co/HxUouXzPSL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "nishibigsb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kangyeon",
+                "end": 48,
+                "expanded_url": "https://ngl.link/kangyeon",
+                "start": 25,
+                "url": "https://t.co/HxUouXzPSL"
+              }
+            ]
+          }
+        },
+        "id": "1666862952027127831",
+        "name": "险恶曲奇",
+        "pinned_tweet_id": "1801474813023678805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883397638835343360/0fMsaWsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8148,
+          "following_count": 332,
+          "like_count": 9312,
+          "listed_count": 17,
+          "media_count": 1057,
+          "tweet_count": 14335
+        },
+        "username": "kangyeon91",
+        "verified": false
+      }
+    ]
+  }
+}

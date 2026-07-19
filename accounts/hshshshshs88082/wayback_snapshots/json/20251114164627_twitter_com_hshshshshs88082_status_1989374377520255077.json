@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989279507963170816"
+      ],
+      "media_source_tweet_id": [
+        "1989279515953316339"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1989374377520255077",
+    "created_at": "2025-11-14T16:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T17:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989374377520255077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gnzKlsOMAE",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/1989279515953316339/photo/1",
+          "media_key": "3_1989279507963170816",
+          "start": 11,
+          "url": "https://t.co/gnzKlsOMAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989374377520255077",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989279515953316339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/gnzKlsOMAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_1989279507963170816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tXLD8b0AAuUFB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989279507963170816"
+          ],
+          "media_source_tweet_id": [
+            "1989279515953316339"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1989374377520255077",
+        "created_at": "2025-11-14T16:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989374377520255077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnzKlsOMAE",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/1989279515953316339/photo/1",
+              "media_key": "3_1989279507963170816",
+              "start": 11,
+              "url": "https://t.co/gnzKlsOMAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989374377520255077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989279515953316339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/gnzKlsOMAE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989279507963170816"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1989279515953316339",
+        "created_at": "2025-11-14T10:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T11:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989279515953316339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnzKlsOMAE",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1989279515953316339/photo/1",
+              "media_key": "3_1989279507963170816",
+              "start": 0,
+              "url": "https://t.co/gnzKlsOMAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989279515953316339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12916,
+          "like_count": 529,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gnzKlsOMAE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985788804607983622/oCE5-1Jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 92,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 592
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "星探小特，诚心帮缺钱的宝子找金主👉： @CalliMauri98320 （有需求的宝子欢迎投稿）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "CalliMauri98320"
+              }
+            ]
+          }
+        },
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1988913870912598067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93926,
+          "following_count": 2750,
+          "like_count": 43312,
+          "listed_count": 127,
+          "media_count": 3051,
+          "tweet_count": 7366
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

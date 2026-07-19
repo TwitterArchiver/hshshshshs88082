@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1931739053747237335",
+    "created_at": "2025-06-08T15:55:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T16:55:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931741982101307727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1513454564418097156",
+          "start": 0,
+          "username": "nengyiqishuime1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931741982101307727",
+    "in_reply_to_user_id": "1513454564418097156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931739053747237335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nengyiqishuime1 相纸我前几天买一张也才3.5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1931739053747237335",
+        "created_at": "2025-06-08T15:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931741982101307727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513454564418097156",
+              "start": 0,
+              "username": "nengyiqishuime1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931741982101307727",
+        "in_reply_to_user_id": "1513454564418097156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931739053747237335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nengyiqishuime1 相纸我前几天买一张也才3.5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513454564418097156",
+        "conversation_id": "1931739053747237335",
+        "created_at": "2025-06-08T15:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931739053747237335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "能一起睡么’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1YqJD…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1YqJDZyzorzKV",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1931739054980427777/oIcIetg3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1931739054980427777/oIcIetg3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 沉浸式收拾残局",
+              "unwound_url": "https://twitter.com/i/spaces/1YqJDZyzorzKV/peek",
+              "url": "https://t.co/KBnsDdcQUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931739053747237335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1355,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 84,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KBnsDdcQUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 71,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 175
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:51:13.000Z",
+        "description": "很吵一个人 打扰到了请屏蔽 匿名信箱欢迎点梗https://t.co/nxBFBJXWoC 没门槛不加好友私信看到都会回 瓦陪玩10/h随缘接. 日常分享生活小号@NyWanju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "NyWanju"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nengyiqishuime1",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nengyiqishuime1",
+                "start": 22,
+                "url": "https://t.co/nxBFBJXWoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nengyiqishuime.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://nengyiqishuime.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/WG38OYyDZt"
+              }
+            ]
+          }
+        },
+        "id": "1513454564418097156",
+        "name": "能一起睡么",
+        "pinned_tweet_id": "1930486536400752809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534074055909076992/h8TPNaZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84713,
+          "following_count": 580,
+          "like_count": 894,
+          "listed_count": 168,
+          "media_count": 57,
+          "tweet_count": 13350
+        },
+        "url": "https://t.co/WG38OYyDZt",
+        "username": "nengyiqishuime1",
+        "verified": true
+      }
+    ]
+  }
+}

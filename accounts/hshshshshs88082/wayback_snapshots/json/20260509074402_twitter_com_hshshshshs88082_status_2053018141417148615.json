@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052721855807770625"
+      ],
+      "media_source_tweet_id": [
+        "2052721862631940267"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "2053018141417148615",
+    "created_at": "2026-05-09T07:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T08:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053018141417148615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1531134682704003073",
+          "start": 3,
+          "username": "ImnorealGG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ppERFFcI6n",
+          "end": 43,
+          "expanded_url": "https://x.com/ImnorealGG/status/2052721862631940267/photo/1",
+          "media_key": "3_2052721855807770625",
+          "start": 20,
+          "url": "https://t.co/ppERFFcI6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053018141417148615",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052721862631940267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ImnorealGG: ปัง https://t.co/ppERFFcI6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052721855807770625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy7pu4aUAEAX2i.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052721855807770625"
+          ],
+          "media_source_tweet_id": [
+            "2052721862631940267"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "2053018141417148615",
+        "created_at": "2026-05-09T07:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T08:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053018141417148615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1531134682704003073",
+              "start": 3,
+              "username": "ImnorealGG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppERFFcI6n",
+              "end": 43,
+              "expanded_url": "https://x.com/ImnorealGG/status/2052721862631940267/photo/1",
+              "media_key": "3_2052721855807770625",
+              "start": 20,
+              "url": "https://t.co/ppERFFcI6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053018141417148615",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052721862631940267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ImnorealGG: ปัง https://t.co/ppERFFcI6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052721855807770625"
+          ]
+        },
+        "author_id": "1531134682704003073",
+        "conversation_id": "2052721862631940267",
+        "created_at": "2026-05-08T12:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052721862631940267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppERFFcI6n",
+              "end": 27,
+              "expanded_url": "https://x.com/ImnorealGG/status/2052721862631940267/photo/1",
+              "media_key": "3_2052721855807770625",
+              "start": 4,
+              "url": "https://t.co/ppERFFcI6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052721862631940267",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 11955,
+          "like_count": 961,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "ปัง https://t.co/ppERFFcI6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 68,
+          "like_count": 205,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 762
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T04:45:50.000Z",
+        "description": "like cat and puppy แอคเค้าท์นี้เมนพี่แท ยอน",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "myfriendshipp.site/@DN",
+                "end": 23,
+                "expanded_url": "https://myfriendshipp.site/@DN",
+                "start": 0,
+                "url": "https://t.co/aBzAyXd064"
+              }
+            ]
+          }
+        },
+        "id": "1531134682704003073",
+        "location": "พระนครศรีอยุธยา",
+        "name": "Aeri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928332713708408832/8_lBNYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14688,
+          "following_count": 375,
+          "like_count": 94050,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 2680
+        },
+        "url": "https://t.co/aBzAyXd064",
+        "username": "ImnorealGG",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1933900445032026516",
+    "created_at": "2025-06-14T15:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933911639109357897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448984554983800835",
+          "start": 0,
+          "username": "buzhuoshadiao"
+        },
+        {
+          "end": 27,
+          "id": "1729717534377594880",
+          "start": 15,
+          "username": "meetyou1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933911639109357897",
+    "in_reply_to_user_id": "1448984554983800835",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933906589125358073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhuoshadiao @meetyou1005 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1933900445032026516",
+        "created_at": "2025-06-14T15:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933911639109357897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448984554983800835",
+              "start": 0,
+              "username": "buzhuoshadiao"
+            },
+            {
+              "end": 27,
+              "id": "1729717534377594880",
+              "start": 15,
+              "username": "meetyou1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933911639109357897",
+        "in_reply_to_user_id": "1448984554983800835",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933906589125358073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhuoshadiao @meetyou1005 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448984554983800835",
+        "conversation_id": "1933900445032026516",
+        "created_at": "2025-06-14T15:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933906589125358073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1729717534377594880",
+              "start": 0,
+              "username": "meetyou1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933906589125358073",
+        "in_reply_to_user_id": "1729717534377594880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933900445032026516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meetyou1005 听见吵架就窒息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 81,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 237
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T12:10:57.000Z",
+        "description": "不断学习",
+        "id": "1448984554983800835",
+        "name": "koov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920703496942186496/9rkYQtfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 245,
+          "like_count": 296,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 367
+        },
+        "username": "buzhuoshadiao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T04:22:59.000Z",
+        "description": "寂寞少妇流水账。 想与小草说：https://t.co/batRzD39lL 不定时开sps进行与粉丝的聊天与匿名问答，欢迎有礼貌的你来和小草一起说说话～请让我参与你的生活吧！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meetyou1005",
+                "end": 38,
+                "expanded_url": "https://ngl.link/meetyou1005",
+                "start": 15,
+                "url": "https://t.co/batRzD39lL"
+              }
+            ]
+          }
+        },
+        "id": "1729717534377594880",
+        "location": "小草家",
+        "name": "小草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929544398402195456/dz0BKBF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41131,
+          "following_count": 932,
+          "like_count": 37859,
+          "listed_count": 77,
+          "media_count": 2210,
+          "tweet_count": 21743
+        },
+        "username": "meetyou1005",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2043671967547703296"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "2043498938641314008",
+    "created_at": "2026-04-13T12:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043671982638870820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757634899002216448",
+          "start": 0,
+          "username": "haohaochifantt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/02FOwkyb0y",
+          "end": 48,
+          "expanded_url": "https://x.com/hshshshshs88082/status/2043671982638870820/photo/1",
+          "media_key": "16_2043671967547703296",
+          "start": 25,
+          "url": "https://t.co/02FOwkyb0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043671982638870820",
+    "in_reply_to_user_id": "1757634899002216448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043498938641314008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaochifantt 还以为你穿女装了 https://t.co/02FOwkyb0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 306,
+        "media_key": "16_2043671967547703296",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFyU058awAAubT0.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFyU058awAAubT0.mp4"
+          }
+        ],
+        "width": 220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043498929237721088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFv3cwAbAAAOXI7.jpg",
+        "width": 1570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043671967547703296"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "2043498938641314008",
+        "created_at": "2026-04-13T12:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043671982638870820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/02FOwkyb0y",
+              "end": 48,
+              "expanded_url": "https://x.com/hshshshshs88082/status/2043671982638870820/photo/1",
+              "media_key": "16_2043671967547703296",
+              "start": 25,
+              "url": "https://t.co/02FOwkyb0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043671982638870820",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043498938641314008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt 还以为你穿女装了 https://t.co/02FOwkyb0y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043498929237721088"
+          ]
+        },
+        "author_id": "1757634899002216448",
+        "conversation_id": "2043498938641314008",
+        "created_at": "2026-04-13T01:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043498938641314008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3t5LB94EE",
+              "end": 64,
+              "expanded_url": "https://x.com/haohaochifantt/status/2043498938641314008/photo/1",
+              "media_key": "3_2043498929237721088",
+              "start": 41,
+              "url": "https://t.co/H3t5LB94EE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043498938641314008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1697,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇塞我这样的屌丝也是有人生中第一张举牌了！感谢小马的祝福 一个王者农批就这样接了 https://t.co/H3t5LB94EE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 58,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 655
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "07 直男直男直男 大量碎碎念中夹杂着一点点喘 喜欢请多多找我玩 互关/过🚪@TTian0515 NGL👉🏻 https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "TTian0515"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 78,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 55,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "过🚪解锁陪玩定制等🫶",
+        "name": "宁宴",
+        "pinned_tweet_id": "2037013459133505536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027245230358241280/W3VyRDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7278,
+          "following_count": 227,
+          "like_count": 17284,
+          "listed_count": 10,
+          "media_count": 1131,
+          "tweet_count": 7028
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2050915224279187516",
+    "created_at": "2026-05-04T10:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051244735457816708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699840737221709824",
+          "start": 0,
+          "username": "conghuaer386979"
+        },
+        {
+          "end": 25,
+          "id": "1821560692140544000",
+          "start": 17,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051244735457816708",
+    "in_reply_to_user_id": "1699840737221709824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051214907534954750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@conghuaer386979 @Numiouo 是bluesky哦 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2050915224279187516",
+        "created_at": "2026-05-04T10:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051244735457816708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699840737221709824",
+              "start": 0,
+              "username": "conghuaer386979"
+            },
+            {
+              "end": 25,
+              "id": "1821560692140544000",
+              "start": 17,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051244735457816708",
+        "in_reply_to_user_id": "1699840737221709824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051214907534954750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@conghuaer386979 @Numiouo 是bluesky哦 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699840737221709824",
+        "conversation_id": "2050915224279187516",
+        "created_at": "2026-05-04T08:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051214907534954750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051214907534954750",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050915224279187516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 🦋 是什么平台，，跪求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /不约不约不约，操未成年你想屁吃呢。大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 68,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 45,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050767940014997504/-kCdka1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 66,
+          "like_count": 161,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 753
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T17:43:16.000Z",
+        "description": "我只是一个爱听歌爱打游戏的小女孩 会在推发复制的文案/负能 仅自娱自乐 请不要私信骚扰我♡₊",
+        "id": "1699840737221709824",
+        "location": "New York, USA",
+        "name": "Katr_M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849160668823343104/MueMuVTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 296,
+          "like_count": 4237,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 543
+        },
+        "username": "conghuaer386979",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-喜欢推文互动讨厌私信闲聊！评论互动会查成分回fo！随缘查fo列成分回w♡喜欢sex & drug @Numiouo1备用♡除推文外 不提供咨询解答⚠️请勿私信⚠️我素non-binary我友全部🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ（2.0-3.0禁言中）",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 2345,
+          "like_count": 10274,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 8486
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

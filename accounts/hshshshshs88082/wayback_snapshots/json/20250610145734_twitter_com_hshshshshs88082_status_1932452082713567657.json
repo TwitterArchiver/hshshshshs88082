@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1931774428486197368",
+    "created_at": "2025-06-10T14:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T15:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932452082713567657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931626835181490176",
+          "start": 0,
+          "username": "chenglei654830"
+        },
+        {
+          "end": 30,
+          "id": "1735935587876749312",
+          "start": 16,
+          "username": "Ha40294305175"
+        },
+        {
+          "end": 45,
+          "id": "1531200287733473280",
+          "start": 31,
+          "username": "PharosTheatre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932452082713567657",
+    "in_reply_to_user_id": "1931626835181490176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932329891518943516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenglei654830 @Ha40294305175 @PharosTheatre 高潮之前停下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1931774428486197368",
+        "created_at": "2025-06-10T14:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932452082713567657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931626835181490176",
+              "start": 0,
+              "username": "chenglei654830"
+            },
+            {
+              "end": 30,
+              "id": "1735935587876749312",
+              "start": 16,
+              "username": "Ha40294305175"
+            },
+            {
+              "end": 45,
+              "id": "1531200287733473280",
+              "start": 31,
+              "username": "PharosTheatre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932452082713567657",
+        "in_reply_to_user_id": "1931626835181490176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932329891518943516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenglei654830 @Ha40294305175 @PharosTheatre 高潮之前停下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931626835181490176",
+        "conversation_id": "1931774428486197368",
+        "created_at": "2025-06-10T06:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T07:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932329891518943516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1735935587876749312",
+              "start": 0,
+              "username": "Ha40294305175"
+            },
+            {
+              "end": 29,
+              "id": "1531200287733473280",
+              "start": 15,
+              "username": "PharosTheatre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932329891518943516",
+        "in_reply_to_user_id": "1735935587876749312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932093159112327335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ha40294305175 @PharosTheatre 寸止是啥意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925135729367347200/YmmetJtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 73,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 180
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:18:28.000Z",
+        "description": "",
+        "id": "1931626835181490176",
+        "name": "ccccllllei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931627273616232448/CtHQ8owV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "chenglei654830",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T08:11:23.000Z",
+        "description": "",
+        "id": "1735935587876749312",
+        "location": "瓷器",
+        "name": "哈哈哈哈哈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931459565817913344/A3t6NSLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 64,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "Ha40294305175",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T09:06:23.000Z",
+        "description": "Female／无属性写文机器／定制文90每千字／什么都写/ 任何需求请私信／兼职半个交友墙bot／不能回复为推广请自辨（吃完饭会好好回馈大家）",
+        "id": "1531200287733473280",
+        "location": "西風漂流帶",
+        "name": "灯塔Theatre",
+        "pinned_tweet_id": "1928710566031340021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929153272885182464/967lyuxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43890,
+          "following_count": 290,
+          "like_count": 111,
+          "listed_count": 71,
+          "media_count": 55,
+          "tweet_count": 751
+        },
+        "username": "PharosTheatre",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951319359743467523"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "conversation_id": "1951319053118939548",
+    "created_at": "2025-08-01T16:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T17:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951319363317014685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6UpP5hoh9O",
+          "end": 49,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1951319363317014685/photo/1",
+          "media_key": "3_1951319359743467523",
+          "start": 26,
+          "url": "https://t.co/6UpP5hoh9O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951319363317014685",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951319053118939548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以人你也千万不要抛弃熊。也不要抛弃那么可爱的人。 https://t.co/6UpP5hoh9O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1050,
+        "media_key": "3_1951319359743467523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxR6noDaIAMHG3s.jpg",
+        "width": 960
+      },
+      {
+        "height": 1057,
+        "media_key": "3_1951319049864122368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxR6VlqakAAm0rc.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951319359743467523"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1951319053118939548",
+        "created_at": "2025-08-01T16:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T17:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951319363317014685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6UpP5hoh9O",
+              "end": 49,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1951319363317014685/photo/1",
+              "media_key": "3_1951319359743467523",
+              "start": 26,
+              "url": "https://t.co/6UpP5hoh9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951319363317014685",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951319053118939548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以人你也千万不要抛弃熊。也不要抛弃那么可爱的人。 https://t.co/6UpP5hoh9O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951319049864122368"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1951319053118939548",
+        "created_at": "2025-08-01T16:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T17:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951319053118939548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jQmMJ2aiCL",
+              "end": 99,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1951319053118939548/photo/1",
+              "media_key": "3_1951319049864122368",
+              "start": 76,
+              "url": "https://t.co/jQmMJ2aiCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951319053118939548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人。你喜欢一个人嘛？熊喜欢，熊也不是很喜欢。喜欢是因为一个人独处的时候，很开心。有种世界属于自己的感觉。不喜欢是因为独处的时候，没有你了，熊离不开人。 https://t.co/jQmMJ2aiCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊🐻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949157132466847744/JllpwStQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 83,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 321
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

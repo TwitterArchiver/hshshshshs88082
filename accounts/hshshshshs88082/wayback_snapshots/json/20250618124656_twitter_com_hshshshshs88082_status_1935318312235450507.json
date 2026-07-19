@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1935318312235450507",
+    "created_at": "2025-06-18T12:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T13:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935318312235450507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935318312235450507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935013388679274622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hongpigu980: 我的xp就是故意勾引对方然后被对方强上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1935318312235450507",
+        "created_at": "2025-06-18T12:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935318312235450507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935318312235450507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935013388679274622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hongpigu980: 我的xp就是故意勾引对方然后被对方强上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "1935013388679274622",
+        "created_at": "2025-06-17T16:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935013388679274622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935013388679274622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 284195,
+          "like_count": 3345,
+          "quote_count": 76,
+          "reply_count": 176,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "我的xp就是故意勾引对方然后被对方强上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 81,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 260
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1935314257803100554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41334,
+          "following_count": 39,
+          "like_count": 28,
+          "listed_count": 37,
+          "media_count": 443,
+          "tweet_count": 581
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

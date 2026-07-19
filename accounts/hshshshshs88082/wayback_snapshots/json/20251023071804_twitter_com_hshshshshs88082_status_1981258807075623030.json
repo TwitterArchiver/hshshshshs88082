@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981258795507412992"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981258807075623030",
+    "created_at": "2025-10-23T07:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T08:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981258807075623030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W7OwKMPtyS",
+          "end": 41,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1981258807075623030/photo/1",
+          "media_key": "3_1981258795507412992",
+          "start": 18,
+          "url": "https://t.co/W7OwKMPtyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981258807075623030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类们  大胆的承认你们喜欢熊吧。 https://t.co/W7OwKMPtyS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_1981258795507412992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37YYJpWcAA03ns.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981258795507412992"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981258807075623030",
+        "created_at": "2025-10-23T07:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981258807075623030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7OwKMPtyS",
+              "end": 41,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1981258807075623030/photo/1",
+              "media_key": "3_1981258795507412992",
+              "start": 18,
+              "url": "https://t.co/W7OwKMPtyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981258807075623030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类们  大胆的承认你们喜欢熊吧。 https://t.co/W7OwKMPtyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 83,
+          "like_count": 80,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 482
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

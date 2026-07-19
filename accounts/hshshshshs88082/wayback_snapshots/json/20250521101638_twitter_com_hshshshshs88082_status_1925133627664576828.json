@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1925133627664576828",
+    "created_at": "2025-05-21T10:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925133627664576828"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925133627664576828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁懂！下课聊天的时候突然有不明液体飞到桌子上，还有我同学头上  主要是真的很像。。后来他们解释说只是水壶的水   原来是水呀 我还以为是水🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1925133627664576828",
+        "created_at": "2025-05-21T10:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925133627664576828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925133627664576828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂！下课聊天的时候突然有不明液体飞到桌子上，还有我同学头上  主要是真的很像。。后来他们解释说只是水壶的水   原来是水呀 我还以为是水🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924072902523027456/YY6jEYMW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 57,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 90
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      }
+    ]
+  }
+}

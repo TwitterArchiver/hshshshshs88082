@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1943932400129782111",
+    "created_at": "2025-07-13T09:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T10:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944332939438764153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923400569546588160",
+          "start": 0,
+          "username": "xycrf_1028"
+        },
+        {
+          "end": 27,
+          "id": "1757634899002216448",
+          "start": 12,
+          "username": "haohaochifantt"
+        },
+        {
+          "end": 41,
+          "id": "1183455971030396928",
+          "start": 28,
+          "username": "chunmomo0127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944332939438764153",
+    "in_reply_to_user_id": "1923400569546588160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943991714072433061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xycrf_1028 @haohaochifantt @chunmomo0127 我也同意🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1943932400129782111",
+        "created_at": "2025-07-13T09:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T10:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944332939438764153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923400569546588160",
+              "start": 0,
+              "username": "xycrf_1028"
+            },
+            {
+              "end": 27,
+              "id": "1757634899002216448",
+              "start": 12,
+              "username": "haohaochifantt"
+            },
+            {
+              "end": 41,
+              "id": "1183455971030396928",
+              "start": 28,
+              "username": "chunmomo0127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944332939438764153",
+        "in_reply_to_user_id": "1923400569546588160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943991714072433061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xycrf_1028 @haohaochifantt @chunmomo0127 我也同意🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923400569546588160",
+        "conversation_id": "1943932400129782111",
+        "created_at": "2025-07-12T11:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943991714072433061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757634899002216448",
+              "start": 0,
+              "username": "haohaochifantt"
+            },
+            {
+              "end": 29,
+              "id": "1183455971030396928",
+              "start": 16,
+              "username": "chunmomo0127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943991714072433061",
+        "in_reply_to_user_id": "1757634899002216448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943932400129782111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaochifantt @chunmomo0127 你真的很适合录四爱，叫的好娇我趣⌯ᵔ⤙ᵔ⌯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "爆炸难吃的蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933445156851855360/xjD8SP2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 83,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 278
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T15:30:27.000Z",
+        "description": "泥萌嚎！小猫好，小狗好，小魚应该也很好。infp的胡言乱语…只操心爱的人^ ^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/siiikeyw",
+                "end": 23,
+                "expanded_url": "http://ngl.link/siiikeyw",
+                "start": 0,
+                "url": "https://t.co/HXqsP5HDER"
+              }
+            ]
+          }
+        },
+        "id": "1923400569546588160",
+        "name": "小魚",
+        "pinned_tweet_id": "1928842129649828142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923400918311239680/EaMmveAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 103,
+          "like_count": 2130,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/HXqsP5HDER",
+        "username": "xycrf_1028",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T05:16:36.000Z",
+        "description": "希望大家都能好好吃饭 天天开心 提问箱在这里！！➡️https://t.co/E1HexE88AE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tian90603",
+                "end": 49,
+                "expanded_url": "https://ngl.link/tian90603",
+                "start": 26,
+                "url": "https://t.co/E1HexE88AE"
+              }
+            ]
+          }
+        },
+        "id": "1757634899002216448",
+        "location": "🚪52｜互关免费",
+        "name": "宁宴",
+        "pinned_tweet_id": "1938911391056064533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934107749304180736/SmZV7_V0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 84,
+          "like_count": 2442,
+          "listed_count": 2,
+          "media_count": 250,
+          "tweet_count": 1392
+        },
+        "username": "haohaochifantt",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-13T18:54:33.000Z",
+        "description": "感谢你的喜欢✨微博/抖音：蠢沫沫-，有偿约拍📸请私信～客服🚪388，本人vx🚪888",
+        "id": "1183455971030396928",
+        "location": "buy↑",
+        "name": "蠢沫沫momo-",
+        "pinned_tweet_id": "1862091039521296734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613802177230958592/L1zkH1sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148375,
+          "following_count": 67,
+          "like_count": 11,
+          "listed_count": 4642,
+          "media_count": 639,
+          "tweet_count": 861
+        },
+        "username": "chunmomo0127",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

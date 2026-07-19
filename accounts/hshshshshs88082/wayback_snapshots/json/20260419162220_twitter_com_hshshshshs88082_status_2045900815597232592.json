@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2045700550713389428",
+    "created_at": "2026-04-19T16:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045900815597232592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1985353024244793345",
+          "start": 0,
+          "username": "Bitterpearlbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045900815597232592",
+    "in_reply_to_user_id": "1985353024244793345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045700550713389428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bitterpearlbird 现在变性来得及吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2045700550713389428",
+        "created_at": "2026-04-19T16:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045900815597232592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1985353024244793345",
+              "start": 0,
+              "username": "Bitterpearlbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045900815597232592",
+        "in_reply_to_user_id": "1985353024244793345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045700550713389428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bitterpearlbird 现在变性来得及吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985353024244793345",
+        "conversation_id": "2045700550713389428",
+        "created_at": "2026-04-19T03:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045700550713389428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045700550713389428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9709,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "太喜欢给男人花钱怎么办…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。",
+        "id": "1776553425934909440",
+        "name": "被窝外的世界好残酷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041900243638480902/sdjjtifE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 700
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T14:27:54.000Z",
+        "description": "drink pure luv",
+        "id": "1985353024244793345",
+        "location": "好友位288",
+        "name": "珍珠鸟",
+        "pinned_tweet_id": "2028806063185911906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020454920315654145/-RaDH-dC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 340,
+          "like_count": 21376,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 2241
+        },
+        "username": "Bitterpearlbird",
+        "verified": false
+      }
+    ]
+  }
+}

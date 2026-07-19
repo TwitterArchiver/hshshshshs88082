@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1985002113878106445",
+    "created_at": "2025-11-02T16:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T17:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985018451921182790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894753734149988353",
+          "start": 0,
+          "username": "yolo0630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985018451921182790",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985018394907959635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yolo0630 熊也好喜欢好喜欢这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_1985018392861184000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wzthMbkAAeFHX.jpg",
+        "width": 565
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1985002113878106445",
+        "created_at": "2025-11-02T16:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985018451921182790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985018451921182790",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985018394907959635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 熊也好喜欢好喜欢这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985018392861184000"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "conversation_id": "1985002113878106445",
+        "created_at": "2025-11-02T16:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T17:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985018394907959635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894753734149988353",
+              "start": 0,
+              "username": "yolo0630"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZalvDepEJ",
+              "end": 42,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1985018394907959635/photo/1",
+              "media_key": "3_1985018392861184000",
+              "start": 19,
+              "url": "https://t.co/RZalvDepEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985018394907959635",
+        "in_reply_to_user_id": "1894753734149988353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985002113878106445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yolo0630 那人怎么不找熊玩 https://t.co/RZalvDepEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982117261373505536/UNbBp_RR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 86,
+          "like_count": 87,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 552
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T14:18:04.000Z",
+        "description": "07/巨蟹/infp 随缘回私信 不陪聊 不线下 好想睡觉💤",
+        "id": "1894753734149988353",
+        "name": "yolo",
+        "pinned_tweet_id": "1933219472828977572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930183882525290501/L3D2pelJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 89,
+          "like_count": 1191,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 986
+        },
+        "username": "yolo0630",
+        "verified": false
+      }
+    ]
+  }
+}

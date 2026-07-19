@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957316603504369664"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957106599702757681",
+    "created_at": "2025-08-18T05:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T06:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957316608013070770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQ4aW5Dqy2",
+          "end": 45,
+          "expanded_url": "https://x.com/hshshshshs88082/status/1957316608013070770/photo/1",
+          "media_key": "3_1957316603504369664",
+          "start": 22,
+          "url": "https://t.co/tQ4aW5Dqy2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957316608013070770",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957106599702757681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 带小熊出去吃东西 https://t.co/tQ4aW5Dqy2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1957316603504369664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GynJFKDaIAACD-G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957316603504369664"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957106599702757681",
+        "created_at": "2025-08-18T05:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T06:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957316608013070770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQ4aW5Dqy2",
+              "end": 45,
+              "expanded_url": "https://x.com/hshshshshs88082/status/1957316608013070770/photo/1",
+              "media_key": "3_1957316603504369664",
+              "start": 22,
+              "url": "https://t.co/tQ4aW5Dqy2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957316608013070770",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957106599702757681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 带小熊出去吃东西 https://t.co/tQ4aW5Dqy2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "1957106599702757681",
+        "created_at": "2025-08-17T15:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T16:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957106599702757681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957106599702757681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21899,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 74,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生活碎片：分享一张今天拍的图片！                \n\n(除牛子外 什么图或视频都行)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 81,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 347
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1954880852925780106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67975,
+          "following_count": 59,
+          "like_count": 70,
+          "listed_count": 63,
+          "media_count": 1018,
+          "tweet_count": 1312
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

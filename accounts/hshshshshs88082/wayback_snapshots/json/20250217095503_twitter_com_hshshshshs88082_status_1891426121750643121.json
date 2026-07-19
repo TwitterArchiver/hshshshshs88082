@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1891130306947682431",
+    "created_at": "2025-02-17T09:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T10:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891426121750643121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491828502886330368",
+          "start": 0,
+          "username": "ppjiangjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891426121750643121",
+    "in_reply_to_user_id": "1491828502886330368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891130306947682431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ppjiangjiang 大便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1891130306947682431",
+        "created_at": "2025-02-17T09:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T10:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891426121750643121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491828502886330368",
+              "start": 0,
+              "username": "ppjiangjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891426121750643121",
+        "in_reply_to_user_id": "1491828502886330368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891130306947682431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ppjiangjiang 大便"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891130298055684096"
+          ]
+        },
+        "author_id": "1491828502886330368",
+        "conversation_id": "1891130306947682431",
+        "created_at": "2025-02-16T14:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T15:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891130306947682431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ddlV9B6gD0",
+              "end": 39,
+              "expanded_url": "https://x.com/ppjiangjiang/status/1891130306947682431/photo/1",
+              "media_key": "3_1891130298055684096",
+              "start": 16,
+              "url": "https://t.co/ddlV9B6gD0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891130306947682431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6423,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥在干森莫捏 呼吸也要说一声吖 https://t.co/ddlV9B6gD0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "日常小碎片、不常玩推特",
+        "id": "1776553425934909440",
+        "name": "可爱喵。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887754233006727168/4TrZb9JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 43
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1890458251558314425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887516529836892165/QAONsznc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 345,
+          "like_count": 37122,
+          "listed_count": 9,
+          "media_count": 1155,
+          "tweet_count": 8505
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

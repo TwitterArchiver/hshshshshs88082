@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1986346310929453149",
+    "created_at": "2025-11-06T13:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T14:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986421725438087473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1630818056158183424",
+          "start": 0,
+          "username": "yesterday993"
+        },
+        {
+          "end": 29,
+          "id": "1892595590527377408",
+          "start": 14,
+          "username": "woshixiaoyu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986421725438087473",
+    "in_reply_to_user_id": "1630818056158183424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986419663736369293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yesterday993 @woshixiaoyu123 每天都打一次会不会对皮肤有损伤🥺👉👈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1986346310929453149",
+        "created_at": "2025-11-06T13:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986421725438087473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1630818056158183424",
+              "start": 0,
+              "username": "yesterday993"
+            },
+            {
+              "end": 29,
+              "id": "1892595590527377408",
+              "start": 14,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986421725438087473",
+        "in_reply_to_user_id": "1630818056158183424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986419663736369293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yesterday993 @woshixiaoyu123 每天都打一次会不会对皮肤有损伤🥺👉👈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630818056158183424",
+        "conversation_id": "1986346310929453149",
+        "created_at": "2025-11-06T13:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T14:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986419663736369293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1892595590527377408",
+              "start": 0,
+              "username": "woshixiaoyu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986419663736369293",
+        "in_reply_to_user_id": "1892595590527377408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986346310929453149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshixiaoyu123 我用的刀片（新手别学！！！），全都脱干净后敷上芦荟胶用激光仪打一遍，基本上是隔天就需要打一次，因为能量没有医院里的仪器那么高，你调的档位越高肯定效果越好但是也会很疼，以自己的接受程度为准，时间久了基本就会变成光溜溜的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "烤焦的披萨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985788804607983622/oCE5-1Jp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 85,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 565
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-01T06:31:49.000Z",
+        "description": "女/intp/双性恋/有傻逼恐惧症/没有🚪私信暂时不开.感谢支持🥺ps想做的事有很多，正在努力完成中... 匿名https://t.co/xZIoPQJZx3 偷我图的司全家",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luo94245",
+                "end": 79,
+                "expanded_url": "https://ngl.link/luo94245",
+                "start": 56,
+                "url": "https://t.co/xZIoPQJZx3"
+              }
+            ]
+          }
+        },
+        "id": "1630818056158183424",
+        "name": "宝宝你是一个蛋挞",
+        "pinned_tweet_id": "1955276402330099950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970623117275082752/0p5CZPwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 70,
+          "like_count": 1292,
+          "listed_count": 4,
+          "media_count": 544,
+          "tweet_count": 3864
+        },
+        "username": "yesterday993",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T15:22:22.000Z",
+        "description": "带我玩游戏好嘛(｡í _ ì｡)｜不接推广 转推 合作 不收口令｜匿名链接是我闺蜜的 她主页➡️https://t.co/kwrUsnEbr6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/shaomingan?t=Q…",
+                "end": 71,
+                "expanded_url": "https://x.com/shaomingan?t=QX_IUCf9eskP_WAcn3wlkQ&s=09",
+                "start": 48,
+                "url": "https://t.co/kwrUsnEbr6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xingfu99",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xingfu99",
+                "start": 0,
+                "url": "https://t.co/Qxp67WN3qp"
+              }
+            ]
+          }
+        },
+        "id": "1892595590527377408",
+        "location": "距离您0.1km",
+        "name": "咪",
+        "pinned_tweet_id": "1970181052334514194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969835560287293440/GOYwXr-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13977,
+          "following_count": 150,
+          "like_count": 300,
+          "listed_count": 12,
+          "media_count": 812,
+          "tweet_count": 4658
+        },
+        "url": "https://t.co/Qxp67WN3qp",
+        "username": "woshixiaoyu123",
+        "verified": false
+      }
+    ]
+  }
+}

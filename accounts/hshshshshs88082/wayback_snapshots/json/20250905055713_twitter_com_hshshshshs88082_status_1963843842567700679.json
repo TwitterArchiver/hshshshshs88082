@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "1958781826475933908",
+    "created_at": "2025-09-05T05:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T06:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963843842567700679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1748349589273608192",
+          "start": 0,
+          "username": "hlbdy550"
+        },
+        {
+          "end": 22,
+          "id": "1952196164000088064",
+          "start": 10,
+          "username": "li_hydrogen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963843842567700679",
+    "in_reply_to_user_id": "1748349589273608192",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958781826475933908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hlbdy550 @li_hydrogen"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "1958781826475933908",
+        "created_at": "2025-09-05T05:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T06:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963843842567700679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1748349589273608192",
+              "start": 0,
+              "username": "hlbdy550"
+            },
+            {
+              "end": 22,
+              "id": "1952196164000088064",
+              "start": 10,
+              "username": "li_hydrogen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963843842567700679",
+        "in_reply_to_user_id": "1748349589273608192",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958781826475933908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hlbdy550 @li_hydrogen"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748349589273608192",
+        "conversation_id": "1958781826475933908",
+        "created_at": "2025-08-22T06:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958781826475933908"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "墨西哥火龙果"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "墨西哥"
+            },
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "墨西哥毒贩"
+            }
+          ],
+          "urls": [
+            {
+              "description": "墨西哥卡特尔洛斯泽塔斯的残忍手段令人发指。著名的火龙果毒枭父子被擒，悲剧在光天化日下揭开。父亲被当着儿子的面斩首，鲜血喷涌，头颅滚落。儿子惊恐万分，却难逃厄运，卡特尔成员冷血剥下他的皮，活生生挖...",
+              "display_url": "hl365.com/archives/18630…",
+              "end": 70,
+              "expanded_url": "https://hl365.com/archives/186306.html",
+              "start": 47,
+              "status": 200,
+              "title": "慎点！墨西哥火龙果毒枭父子 惨遭卡特尔洛斯泽塔斯虐杀剥皮挖心",
+              "unwound_url": "https://hl365.com/archives/186306.html",
+              "url": "https://t.co/3vitGO4AvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958781826475933908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2620,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "墨西哥火龙果完整版视频\n #墨西哥火龙果 #墨西哥 #墨西哥毒贩\n点击下方观看完整版视频⬇️\nhttps://t.co/3vitGO4AvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "人和熊共用这个帐号，很好分辨。熊会自称熊。欢迎小女孩找熊聊天，熊很高兴能认识你们。",
+        "id": "1776553425934909440",
+        "name": "熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951920353103556608/uB5Ru3xh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 75,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 444
+        },
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T14:20:04.000Z",
+        "description": "黑料不打烊-正式开启网红黑料万篇长征路！我们致力于研究网络中最尖端的复习资料，现已攻克各种网红资源难题，我们课代表每天会在网站更新复习资料 \n\n最新学习入口：https://t.co/jkvIAM9Exg\napp最新下载地址：https://t.co/qK8zTsmyJN\n永久地址：https://t.co/8jQ6DpbWwd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "365bdy13.com",
+                "end": 102,
+                "expanded_url": "https://365bdy13.com/",
+                "start": 79,
+                "url": "https://t.co/jkvIAM9Exg"
+              },
+              {
+                "display_url": "92c.mctnzck.top",
+                "end": 136,
+                "expanded_url": "https://92c.mctnzck.top/",
+                "start": 113,
+                "url": "https://t.co/qK8zTsmyJN"
+              },
+              {
+                "display_url": "hlbdy1.com",
+                "end": 165,
+                "expanded_url": "https://hlbdy1.com",
+                "start": 142,
+                "url": "https://t.co/8jQ6DpbWwd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hlbdy1.com",
+                "end": 23,
+                "expanded_url": "http://hlbdy1.com",
+                "start": 0,
+                "url": "https://t.co/OoRmkxhUWp"
+              }
+            ]
+          }
+        },
+        "id": "1748349589273608192",
+        "name": "黑料不打烊",
+        "pinned_tweet_id": "1962858079692996987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922879726873395200/pv3UcvtC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 2,
+          "media_count": 507,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/OoRmkxhUWp",
+        "username": "hlbdy550",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T02:34:40.000Z",
+        "description": "be fidgety",
+        "id": "1952196164000088064",
+        "name": "Ли hydrogen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952211266308825088/2blkhNDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 30,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "li_hydrogen",
+        "verified": false
+      }
+    ]
+  }
+}
