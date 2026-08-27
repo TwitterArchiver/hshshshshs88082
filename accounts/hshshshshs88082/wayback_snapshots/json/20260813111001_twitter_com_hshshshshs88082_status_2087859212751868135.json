@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2087859212751868135",
+    "created_at": "2026-08-13T11:10:01.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087859212751868135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792721128705945600",
+          "start": 3,
+          "username": "chn1378877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087859212751868135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086765774170128759",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chn1378877: 为什么没有人可怜我看我过得这么惨给我大几千块钱说让我好好生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2087859212751868135",
+        "created_at": "2026-08-13T11:10:01.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087859212751868135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792721128705945600",
+              "start": 3,
+              "username": "chn1378877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087859212751868135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086765774170128759",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chn1378877: 为什么没有人可怜我看我过得这么惨给我大几千块钱说让我好好生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792721128705945600",
+        "conversation_id": "2086765774170128759",
+        "created_at": "2026-08-10T10:45:05.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086765774170128759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086765774170128759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1807,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有人可怜我看我过得这么惨给我大几千块钱说让我好好生活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087859212751868135",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 110,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 852
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-21T00:56:55.000Z",
+        "description": "我只是一个缺爱逼 我是双 推特啥都发 喜欢可怜我给我打钱 过得不好别问了",
+        "id": "1792721128705945600",
+        "is_identity_verified": false,
+        "location": "🚪 88  只回复口令 支付截图",
+        "most_recent_tweet_id": "2087773554385260833",
+        "name": "恋の痛み",
+        "pinned_tweet_id": "2085526301759185406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1792721128705945600/1781357700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085650313378168832/wiMS-8yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 152,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "chn1378877",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2081722356675076562",
+    "created_at": "2026-07-27T12:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T13:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081722356675076562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2026259002813005824",
+          "start": 3,
+          "username": "OHOHOH121121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081722356675076562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081687714550980964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OHOHOH121121: 小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2081722356675076562",
+        "created_at": "2026-07-27T12:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081722356675076562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2026259002813005824",
+              "start": 3,
+              "username": "OHOHOH121121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081722356675076562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081687714550980964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OHOHOH121121: 小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026259002813005824",
+        "conversation_id": "2081687714550980964",
+        "created_at": "2026-07-27T10:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081687714550980964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todorokidoya1/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/todorokidoya1/status/2081664491432108307",
+              "start": 43,
+              "url": "https://t.co/xswsp2QNjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081687714550980964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081664491432108307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼 https://t.co/xswsp2QNjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070147787904385024/-ty10e9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 105,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T11:33:13.000Z",
+        "description": "マレーシアの女の子です。日本語はあまり話せません😭 英語は少しだけ、中国語は大丈夫です！\n多重意識システムの方や日本の方と仲良くなれたら嬉しいです……\n現在、MDD（うつ病）、ADHD、自閉スペクトラム症と診断されています。\n（翻訳機を使っているので、変なところがあったらごめんなさい💦）",
+        "id": "2026259002813005824",
+        "name": "梦幻的奇迹乐园",
+        "pinned_tweet_id": "2070738909764698427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043507606573236224/EkW7gXpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1002,
+          "like_count": 7620,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 1928
+        },
+        "url": "",
+        "username": "OHOHOH121121",
+        "verified": false
+      }
+    ]
+  }
+}

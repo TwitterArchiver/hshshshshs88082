@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2081801572250718544",
+    "created_at": "2026-07-29T11:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082425447149662225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044822380233588736",
+          "start": 0,
+          "username": "clc1883"
+        },
+        {
+          "end": 20,
+          "id": "1660510716934361088",
+          "start": 9,
+          "username": "S_Studio42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082425447149662225",
+    "in_reply_to_user_id": "2044822380233588736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081964314676863043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clc1883 @S_Studio42 前男友别走......我还想看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2081801572250718544",
+        "created_at": "2026-07-29T11:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082425447149662225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044822380233588736",
+              "start": 0,
+              "username": "clc1883"
+            },
+            {
+              "end": 20,
+              "id": "1660510716934361088",
+              "start": 9,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082425447149662225",
+        "in_reply_to_user_id": "2044822380233588736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081964314676863043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clc1883 @S_Studio42 前男友别走......我还想看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044822380233588736",
+        "conversation_id": "2081801572250718544",
+        "created_at": "2026-07-28T04:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081964314676863043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660510716934361088",
+              "start": 0,
+              "username": "S_Studio42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081964314676863043",
+        "in_reply_to_user_id": "1660510716934361088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13614,
+          "like_count": 154,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081801572250718544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Studio42 前男友别走......我还想看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 105,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 830
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T16:57:23.000Z",
+        "description": "妈妈",
+        "id": "2044822380233588736",
+        "name": "小草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044836046417092608/k7HcBrv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "clc1883",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T04:59:51.000Z",
+        "description": "在冒犯之前，容许我鞠躬。",
+        "id": "1660510716934361088",
+        "name": "𝐒𝐨𝐭𝐚",
+        "pinned_tweet_id": "2046830700196933905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717815555242287104/ldxEV5Sk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84421,
+          "following_count": 92,
+          "like_count": 13034,
+          "listed_count": 142,
+          "media_count": 14,
+          "tweet_count": 2757
+        },
+        "url": "",
+        "username": "S_Studio42",
+        "verified": true
+      }
+    ]
+  }
+}

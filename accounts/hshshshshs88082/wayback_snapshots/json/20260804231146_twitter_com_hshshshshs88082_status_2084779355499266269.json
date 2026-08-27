@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2084267327999426575",
+    "created_at": "2026-08-04T23:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T00:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084779355499266269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545549962419007488",
+          "start": 0,
+          "username": "saiiiii123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084779355499266269",
+    "in_reply_to_user_id": "1545549962419007488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084267327999426575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saiiiii123 就是就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2084267327999426575",
+        "created_at": "2026-08-04T23:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084779355499266269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545549962419007488",
+              "start": 0,
+              "username": "saiiiii123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084779355499266269",
+        "in_reply_to_user_id": "1545549962419007488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084267327999426575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saiiiii123 就是就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545549962419007488",
+        "conversation_id": "2084267327999426575",
+        "created_at": "2026-08-03T13:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084267327999426575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084267327999426575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5198,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的是个很小气的人，我无法忍受任何人在我家蹭吃蹭喝蹭住，我亲妹都不行\n每次出门都是我请客，结果打包回来的剩菜都不能给我留到晚上当晚饭\n没有作为客人的自觉就赶紧滚蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 109,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 838
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T23:26:52.000Z",
+        "description": "🌈女同热恋中丨爱老婆会发财丨接产品推广\n\n匿名提问：https://t.co/cUcPfaXZoq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saiiiii123",
+                "end": 49,
+                "expanded_url": "https://ngl.link/saiiiii123",
+                "start": 26,
+                "url": "https://t.co/cUcPfaXZoq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw05.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw05.damoplane1.com/#/register?code=eQL1vsjk",
+                "start": 0,
+                "url": "https://t.co/i1txkGqAzZ"
+              }
+            ]
+          }
+        },
+        "id": "1545549962419007488",
+        "location": "自用VPN⬇️",
+        "name": "宇宙鲨",
+        "pinned_tweet_id": "1960355468737712205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010228979484291072/WHEOwpBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20955,
+          "following_count": 253,
+          "like_count": 25032,
+          "listed_count": 15,
+          "media_count": 382,
+          "tweet_count": 3887
+        },
+        "url": "https://t.co/i1txkGqAzZ",
+        "username": "saiiiii123",
+        "verified": false
+      }
+    ]
+  }
+}

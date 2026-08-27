@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2082500768947691561",
+    "created_at": "2026-07-30T23:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082966134522089630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1969724121027407872",
+          "start": 0,
+          "username": "Acidrain_ame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082966134522089630",
+    "in_reply_to_user_id": "1969724121027407872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082500768947691561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acidrain_ame 老大我好喜欢的画风啊👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082500755853062144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaHZ2UasAAOcuQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2082500768947691561",
+        "created_at": "2026-07-30T23:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082966134522089630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969724121027407872",
+              "start": 0,
+              "username": "Acidrain_ame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082966134522089630",
+        "in_reply_to_user_id": "1969724121027407872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082500768947691561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acidrain_ame 老大我好喜欢的画风啊👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082500755853062144"
+          ]
+        },
+        "author_id": "1969724121027407872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2082500768947691561",
+        "created_at": "2026-07-29T16:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082500768947691561"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "yakui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zpkVCIbxKf",
+              "end": 60,
+              "expanded_url": "https://x.com/Acidrain_ame/status/2082500768947691561/photo/1",
+              "media_key": "3_2082500755853062144",
+              "start": 37,
+              "url": "https://t.co/zpkVCIbxKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082500768947691561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#yakui \n女孩我们小药片也吃完了原神家庭也聊完了 我们来做点什么吧 https://t.co/zpkVCIbxKf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了https://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 55,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 32,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 105,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 831
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T11:23:28.000Z",
+        "description": "",
+        "id": "1969724121027407872",
+        "name": "Acid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080296771696353280/OPXiZU10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 82,
+          "like_count": 2376,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Acidrain_ame",
+        "verified": false
+      }
+    ]
+  }
+}
