@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2099414437824192582",
+    "created_at": "2026-09-14T08:26:21.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T09:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099414437824192582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804721568955912192",
+          "start": 3,
+          "username": "tart_egg25188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099414437824192582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098819437973668249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tart_egg25188: 请不要因为美女多，就把长得还不错的女生定义为普女，也不要因为现实里帅哥很稀少，就强行把普男叫做小帅或丑帅，谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2099414437824192582",
+        "created_at": "2026-09-14T08:26:21.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099414437824192582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804721568955912192",
+              "start": 3,
+              "username": "tart_egg25188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099414437824192582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098819437973668249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tart_egg25188: 请不要因为美女多，就把长得还不错的女生定义为普女，也不要因为现实里帅哥很稀少，就强行把普男叫做小帅或丑帅，谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804721568955912192",
+        "conversation_id": "2098819437973668249",
+        "created_at": "2026-09-12T17:02:02.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098819437973668249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098819437973668249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 164782,
+          "like_count": 9621,
+          "quote_count": 29,
+          "reply_count": 343,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "请不要因为美女多，就把长得还不错的女生定义为普女，也不要因为现实里帅哥很稀少，就强行把普男叫做小帅或丑帅，谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了\n🈲私信 私信一律不回，给我私信会被毕业喔!🤤\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 79,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 56,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099414437824192582",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 122,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 871
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T03:42:29.000Z",
+        "description": "和我一起涨粉吧～关注我的朋友都会得到回关\n00后/商科硕士/雅思7.5/web3/萌妹/互联网该溜子",
+        "id": "1804721568955912192",
+        "is_identity_verified": false,
+        "location": "我要发好多好多好多文案",
+        "most_recent_tweet_id": "2099302968621478353",
+        "name": "egg tart（互～回～）",
+        "pinned_tweet_id": "2098819437973668249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804721568955912192/1789077908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098170890928455680/Sm19-I1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 745,
+          "like_count": 8916,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1171
+        },
+        "url": "",
+        "username": "tart_egg25188",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

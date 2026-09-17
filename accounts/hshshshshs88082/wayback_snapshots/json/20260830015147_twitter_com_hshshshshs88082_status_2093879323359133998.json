@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093315836908093440"
+      ],
+      "media_source_tweet_id": [
+        "2093315843350507764"
+      ]
+    },
+    "author_id": "1776553425934909440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093879323359133998",
+    "created_at": "2026-08-30T01:51:47.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093879323359133998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1509391402484080646",
+          "start": 3,
+          "username": "moran_neko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V56B8xAmMo",
+          "end": 54,
+          "expanded_url": "https://x.com/moran_neko/status/2093315843350507764/photo/1",
+          "media_key": "3_2093315836908093440",
+          "start": 31,
+          "url": "https://t.co/V56B8xAmMo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093879323359133998",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093315836908093440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093315843350507764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moran_neko: 这辈子听不到这样的话就不死了 https://t.co/V56B8xAmMo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1123,
+        "media_key": "3_2093315836908093440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzzqa2bQAA-lt0.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093315836908093440"
+          ],
+          "media_source_tweet_id": [
+            "2093315843350507764"
+          ]
+        },
+        "author_id": "1776553425934909440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093879323359133998",
+        "created_at": "2026-08-30T01:51:47.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093879323359133998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1509391402484080646",
+              "start": 3,
+              "username": "moran_neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V56B8xAmMo",
+              "end": 54,
+              "expanded_url": "https://x.com/moran_neko/status/2093315843350507764/photo/1",
+              "media_key": "3_2093315836908093440",
+              "start": 31,
+              "url": "https://t.co/V56B8xAmMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093879323359133998",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093315836908093440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093315843350507764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moran_neko: 这辈子听不到这样的话就不死了 https://t.co/V56B8xAmMo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093315836908093440"
+          ]
+        },
+        "author_id": "1509391402484080646",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093315843350507764",
+        "created_at": "2026-08-28T12:32:43.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093315843350507764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V56B8xAmMo",
+              "end": 38,
+              "expanded_url": "https://x.com/moran_neko/status/2093315843350507764/photo/1",
+              "media_key": "3_2093315836908093440",
+              "start": 15,
+              "url": "https://t.co/V56B8xAmMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093315843350507764",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093315836908093440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 194,
+          "impression_count": 84976,
+          "like_count": 3019,
+          "quote_count": 73,
+          "reply_count": 291,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子听不到这样的话就不死了 https://t.co/V56B8xAmMo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了\n🈲私信 私信一律不回，给我私信会被毕业喔!🤤\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 79,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 56,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093879323359133998",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 117,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "早上好中午好下午好晚上好┋ଳ\n成分请看置顶帖┋ଳ\n欢迎互fo┋ଳ\n已找回走失的孩子@mioyuki_21（小号）┋ଳ\n好用稳定梯子机场✈️🉑私https://t.co/66SqMBfwdM┋ଳ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "mioyuki_21"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mojie.co/register?aff=R…",
+                "end": 94,
+                "expanded_url": "https://mojie.co/register?aff=RrsfMvA5",
+                "start": 71,
+                "url": "https://t.co/66SqMBfwdM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "is_identity_verified": false,
+        "location": "下北泽24岁野兽株式会社",
+        "most_recent_tweet_id": "2093711543418712237",
+        "name": "默然𐝋⊹꒷⭒𓆟⋆｡˚𖦹𓆜✩⋆𓊝𓄹𓄺²¹",
+        "pinned_tweet_id": "2074309668131017065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1509391402484080646/1787285921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083738990348529664/K-ho1EwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 1973,
+          "like_count": 46449,
+          "listed_count": 7,
+          "media_count": 2294,
+          "tweet_count": 9958
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

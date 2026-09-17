@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2092946485877121515",
+    "created_at": "2026-08-27T12:06:09.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T13:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092946767662989378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092946767662989378",
+    "in_reply_to_user_id": "1776553425934909440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092946485877121515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈真的全身在流血，你们不要逗我了好不好。我神经痛胃痛头痛关节痛腰也痛，我只是一个老实人。不要继续欺负我了好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2092946485877121515",
+        "created_at": "2026-08-27T12:06:09.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092946767662989378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092946767662989378",
+        "in_reply_to_user_id": "1776553425934909440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092946485877121515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈真的全身在流血，你们不要逗我了好不好。我神经痛胃痛头痛关节痛腰也痛，我只是一个老实人。不要继续欺负我了好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2092946485877121515",
+        "created_at": "2026-08-27T12:05:01.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092946485877121515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092946485877121515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好懵逼。刚考完试的成绩一点都不理想，原本应该有3个月准备的大考现在被学校缩短成一个月。每天辛辛苦苦上完学回来，要回一大堆消息。还要处理这些破事。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了\n🈲私信 私信一律不回，给我私信会被毕业喔!🤤\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 79,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 56,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092946767662989378",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 115,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
