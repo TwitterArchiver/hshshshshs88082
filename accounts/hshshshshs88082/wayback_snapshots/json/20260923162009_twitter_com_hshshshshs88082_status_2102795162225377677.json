@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2102795162225377677",
+    "created_at": "2026-09-23T16:20:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102795162225377677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2086654915813007360",
+          "start": 3,
+          "username": "JayZzz1597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102795162225377677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102330732614201745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JayZzz1597: 可以再在意我一点吗\n可以再关心我一点吗\n可以对我占有欲再强一点吗\n强到每天都问我吃了什么吃了多少\n和谁聊天了聊了什么\n刚刚干什么了有没有想我\n想我多少次 想我多久\n可以对我掌控欲再强一点吗\n强到要知道我每天和谁聊了天\n聊了什么\n今天刷到了什么\n对…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2102795162225377677",
+        "created_at": "2026-09-23T16:20:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102795162225377677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2086654915813007360",
+              "start": 3,
+              "username": "JayZzz1597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102795162225377677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102330732614201745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JayZzz1597: 可以再在意我一点吗\n可以再关心我一点吗\n可以对我占有欲再强一点吗\n强到每天都问我吃了什么吃了多少\n和谁聊天了聊了什么\n刚刚干什么了有没有想我\n想我多少次 想我多久\n可以对我掌控欲再强一点吗\n强到要知道我每天和谁聊了天\n聊了什么\n今天刷到了什么\n对…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086654915813007360",
+        "conversation_id": "2102330732614201745",
+        "created_at": "2026-09-22T09:34:40.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102330732614201745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102330732614201745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "可以再在意我一点吗\n可以再关心我一点吗\n可以对我占有欲再强一点吗\n强到每天都问我吃了什么吃了多少\n和谁聊天了聊了什么\n刚刚干什么了有没有想我\n想我多少次 想我多久\n可以对我掌控欲再强一点吗\n强到要知道我每天和谁聊了天\n聊了什么\n今天刷到了什么\n对什么有好感\n心情的变化\n可以只和我一个人聊天吗\n可以只和我一个人发消息吗\n可以只关心我一个人吗\n可以只爱我一个人吗\n可以吗可以吗 可以吧 好吗 好的(^O^)"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 17748,
+          "like_count": 757,
+          "quote_count": 21,
+          "reply_count": 38,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "可以再在意我一点吗\n可以再关心我一点吗\n可以对我占有欲再强一点吗\n强到每天都问我吃了什么吃了多少\n和谁聊天了聊了什么\n刚刚干什么了有没有想我\n想我多少次 想我多久\n可以对我掌控欲再强一点吗\n强到要知道我每天和谁聊了天\n聊了什么\n今天刷到了什么\n对什么有好感\n心情的变化\n可以只和我一个人聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘🆘🆘 /泛性恋/大家好像都移居这里了\n🈲私信 私信一律不回，给我私信会被毕业喔!🤤\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 79,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 56,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102795162225377677",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 120,
+          "like_count": 525,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T03:24:35.000Z",
+        "description": "INFP 獅子座 愛碎碎念\n你的瞳孔是我跳動的第二顆心臟",
+        "id": "2086654915813007360",
+        "is_identity_verified": false,
+        "location": "与你心脏共鸣",
+        "most_recent_tweet_id": "2102734233651589630",
+        "name": "Myrkveil",
+        "pinned_tweet_id": "2097013777346814412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086654915813007360/1789278057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095695628882100224/5nfv8sMs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 7,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "JayZzz1597",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

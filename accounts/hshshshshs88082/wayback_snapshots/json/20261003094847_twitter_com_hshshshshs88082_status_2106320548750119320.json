@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2105616967818219655",
+    "created_at": "2026-10-03T09:48:47.000Z",
+    "display_text_range": [
+      23,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106320548750119320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1952196164000088064",
+          "start": 0,
+          "username": "li_hydrogen"
+        },
+        {
+          "end": 22,
+          "id": "1465701247021838341",
+          "start": 13,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106320548750119320",
+    "in_reply_to_user_id": "1952196164000088064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105806275359670412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_hydrogen @show5560 倘若我说我会做这个呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2105616967818219655",
+        "created_at": "2026-10-03T09:48:47.000Z",
+        "display_text_range": [
+          23,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106320548750119320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1952196164000088064",
+              "start": 0,
+              "username": "li_hydrogen"
+            },
+            {
+              "end": 22,
+              "id": "1465701247021838341",
+              "start": 13,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106320548750119320",
+        "in_reply_to_user_id": "1952196164000088064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105806275359670412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li_hydrogen @show5560 倘若我说我会做这个呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952196164000088064",
+        "conversation_id": "2105616967818219655",
+        "created_at": "2026-10-01T23:45:14.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T00:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105806275359670412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105806275359670412",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105616967818219655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 我只会想吃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘 /泛性恋\n🈲私信 私信一律不回\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 54,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 31,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106320548750119320",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 123,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 932
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-04T02:34:40.000Z",
+        "description": "是割手是od是抑鬱症\n是小眾是三角洲是女同性戀\n自避，我會在中文網搬運我看到過的有趣文案\n重抑重焦ptsd精分，已經和健全逼沒有共同話題了。",
+        "id": "1952196164000088064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105809303584313349",
+        "name": "Ли hydrogen",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952196164000088064/1754276650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099707848976748544/4AeNhX3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 54,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "li_hydrogen",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "性别是螺旋升天直升机 /普通人//喜爱美食和玩//maimai//日常//美食/目前就这样，有需要在加★",
+        "id": "1465701247021838341",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106319094223913440",
+        "name": "沐安ねこ",
+        "pinned_tweet_id": "2099139285387563380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1465701247021838341/1769596860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098458106196037632/uYK9TWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8680,
+          "following_count": 1722,
+          "like_count": 38968,
+          "listed_count": 20,
+          "media_count": 3983,
+          "tweet_count": 17450
+        },
+        "url": "",
+        "username": "show5560",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

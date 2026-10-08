@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1776553425934909440",
+    "conversation_id": "2105519361326981206",
+    "created_at": "2026-10-02T07:21:47.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105921168238875031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2093646888264478721",
+          "start": 0,
+          "username": "CeciliaPomelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105921168238875031",
+    "in_reply_to_user_id": "2093646888264478721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105519361326981206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CeciliaPomelo 16以下不准玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776553425934909440",
+        "conversation_id": "2105519361326981206",
+        "created_at": "2026-10-02T07:21:47.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105921168238875031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2093646888264478721",
+              "start": 0,
+              "username": "CeciliaPomelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105921168238875031",
+        "in_reply_to_user_id": "2093646888264478721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105519361326981206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CeciliaPomelo 16以下不准玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093646888264478721",
+        "conversation_id": "2105519361326981206",
+        "created_at": "2026-10-01T04:45:09.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105519361326981206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105519361326981206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 45042,
+          "like_count": 316,
+          "quote_count": 6,
+          "reply_count": 112,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "让未成年早早接触圈子实在太危险了。如果遇到三观不正诱导未成年的怎么办？曾经在一些未成年居多的圈群看到过一些言论：\n跟未成年同居只要不做爱就好了，口交调教什么的没事，毕竟上位也有欲望/男32\n未成年实践很正常，只是想发泄压力而已/女13\n找未成年就是养成系小狗/女12\n……\n后缀是性别和年龄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-06T10:12:13.000Z",
+        "description": "吵吵的小女孩 。负能量预警🆘 /泛性恋\n🈲私信 私信一律不回\nhttps://t.co/FqZ2dJc0Yk，推特或者🦋找我玩都可以的。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tearsv…",
+                "end": 54,
+                "expanded_url": "https://bsky.app/profile/tearsvow42.bsky.social",
+                "start": 31,
+                "url": "https://t.co/FqZ2dJc0Yk"
+              }
+            ]
+          }
+        },
+        "id": "1776553425934909440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105921168238875031",
+        "name": "别对我这么坏",
+        "pinned_tweet_id": "2045913729502732360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776553425934909440/1785252133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082119655372754944/UdIt5Uif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 123,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 928
+        },
+        "url": "",
+        "username": "hshshshshs88082",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T10:30:47.000Z",
+        "description": "꒰ა 𝓒𝓮𝓬𝓲𝓵𝓲𝓪𐙚𝓑𝓾𝓷𝓷𝓲𝓷𝓲˖Ი𐑼⋆ ໒꒱\n夹在虎和龙之间的兔能是什么善茬！邪恶小兔😈！˖Ი𐑼⋆\n*无找上位需求，请我们互相尊重，有冒犯到您的地方请告诉我，我会道歉。若有不足的地方，也劳烦您指点指点，很感谢。上网少点戾气，多点善意和尊重。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cecilia.pomelo…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cecilia.pomelo1154321",
+                "start": 0,
+                "url": "https://t.co/FIKt2NdNlO"
+              }
+            ]
+          }
+        },
+        "id": "2093646888264478721",
+        "is_identity_verified": false,
+        "location": "布布妮妮星球₍ᐢ..ᐢ₎♡",
+        "most_recent_tweet_id": "2105912291040612492",
+        "name": "꒰ა 布妮妮𝓒𝓮𝓬𝓲𝓵𝓲𝓪˖Ი𐑼⋆ ໒꒱",
+        "pinned_tweet_id": "2100545084534227227",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093646888264478721/1789483054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093647790442520576/j5VdEAvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 27,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 573
+        },
+        "url": "https://t.co/FIKt2NdNlO",
+        "username": "CeciliaPomelo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
